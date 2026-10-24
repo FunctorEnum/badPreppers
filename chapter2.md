@@ -98,7 +98,7 @@ Off to the left, back in the pines, there was a roof. It was tin, rusted the col
 
 "Does it work?"
 
-John looked at it for a long moment, the way he would later look at things he did not understand: as if understanding might arrive on its own if he waited.
+John looked at it the way he would later look at things he did not understand: as if understanding might arrive on its own if he waited.
 
 "I doubt it," John said, and forgot about it for nineteen years.
 
@@ -222,7 +222,7 @@ The fourth magazine went into a group he could cover with his palm. He fired it 
 
 He sat in the driver's seat with the door open and called Matt.
 
-"Stevens," Matt said, on the fourth ring. His voice sounded thick and warm, a man still in bed. "It's Saturday. It's eight in the morning. It's twenty-eight degrees. What."
+"Stevens," Matt said, on the fourth ring. His voice sounded thick and warm, a man still in bed. "It's Saturday. It's seven in the morning. It's twenty-eight degrees. What."
 
 "It's sixty-four here," John said, looking out at the pines. "I'm at the range. The cranes are out."
 

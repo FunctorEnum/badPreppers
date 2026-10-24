@@ -60,7 +60,7 @@ The Pruitts had lived a mile back down the road since before John was born. They
 
 "I was twelve," Granny said.
 
-"I know you were, honey. I was there."
+"I know you were, honey. Mama told it till the day she died."
 
 The house was standing. It was smaller than John remembered, and older, gray board walls that had never in their life seen paint, and a tin roof rusted to the color of the road, and a brick chimney. Half of the front porch had fallen in. The other half was solid. Behind the house was a shed with a sagging door, and behind the shed, down the slope a little way, a low, windowless log building with a peaked roof that Hollis said was the old smokehouse, and the driest building on the road.
 
@@ -78,7 +78,7 @@ Hollis rubbed his stubble. "Used to be you'd get one at the feed store." He look
 
 * * *
 
-The shed was dark and smelled — John could smell it, faintly — of old wood and motor oil and mice. Hoyt's tools were still hanging on the wall above the bench where he had hung them sixty years ago, rusted, each one on its own nail inside a shape he had traced around it in black paint so he would know where it went: hammer, saw, brace and bit, a big pipe wrench. On a shelf above the bench sat a blue Maxwell House coffee can with a plastic lid.
+The shed was dark and smelled — he supposed — of old wood and motor oil and mice. Hoyt's tools were still hanging on the wall above the bench where he had hung them sixty years ago, rusted, each one on its own nail inside a shape he had traced around it in black paint so he would know where it went: hammer, saw, brace and bit, a big pipe wrench. On a shelf above the bench sat a blue Maxwell House coffee can with a plastic lid.
 
 John took it down. Inside were papers, folded and rolled and soft as cloth with age. A deed. Tax receipts. A letter from a bank. A photograph of a young man with a crew cut and long hands standing beside a mule in a field, squinting into the sun. And a small, flat red tin that said PRINCE ALBERT on the lid.
 
@@ -86,7 +86,7 @@ He opened the tin. Inside, wrapped in waxed paper, were three round, cupped disk
 
 He stood there in the dim shed holding them in his palm.
 
-Underneath the tin, at the bottom of the can, was a feed-store receipt, yellow and soft, printed at the top PINE LEVEL FEED & SEED, with a date stamped on it from the spring of nineteen sixty-one. On the front it listed a sack of chicken feed and a box of nails. On the back, in pencil, in a careful, slanting, old-fashioned hand that John had last seen on a birthday card when he was twelve, there was writing. A lot of it. Small.
+Underneath the tin, at the bottom of the can, was a feed-store receipt, yellow and soft, printed at the top PINE LEVEL FEED & SEED, with a date stamped on it from the spring of nineteen sixty-one. On the front it listed a sack of chicken feed and a box of nails. On the back, in pencil, in a careful, slanting, old-fashioned hand that John had last seen on a birthday card the year before Hoyt died, there was writing. A lot of it. Small.
 
 He held it out at arm's length and squinted with his one good eye and could not read a word.
 
@@ -130,7 +130,7 @@ And Sanda came out of the motor home with her rifle, the one she had shot forty 
 
 "Here," Sanda said.
 
-He took it. She turned and walked away from him across the yard, to where Dee Pruitt stood at the edge of the clearing in the last of the light, in her red flannel and her rubber boots, and the two of them began to walk the ground together, slowly, heel to toe, counting, Dee pointing here and there with a stick, Sanda nodding, pacing out rows.
+He took it. She turned and walked away from him across the yard, to where Dee Pruitt stood at the edge of the clearing in the last of the light, in her red flannel and her rubber boots, and the two of them began to walk the ground together, heel to toe, counting, Dee pointing here and there with a stick, Sanda nodding, pacing out rows.
 
 * * *
 

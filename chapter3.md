@@ -18,7 +18,7 @@ Sanda had moved it from the freezer to the refrigerator nine days before Thanksg
 
 "There is no practice turkey, John. There was never a practice turkey. There is only the turkey." She closed the refrigerator. "And the Publix turkey, in case you burn the building down."
 
-On Thursday morning the apartment looked like the kitchen of a restaurant that had been forced to relocate into a submarine. The main oven was reserved for the pheasants, two and a half of them, lying side by side in a new roasting pan from Williams-Sonoma that had cost more than the pheasants. Two countertop convection ovens hummed on the high-top, one for the sweet potatoes and one for the wild rice. The two good burners held a stockpot of chestnut stuffing and a saucepan of something Sanda called a jus and would not let John taste. The two bad burners held nothing; they had been demoted to trivets. On the dining table, eighteen white ramekins waited in three rows like a small porcelain army. Each of the six guests would have their own ramekin of every side dish, so that nobody passed anything, so that the whole meal could be plated in the kitchen and carried out the way it was at the restaurants in Chicago they still talked about the way other couples talked about old boyfriends.
+On Thursday morning the apartment looked like the kitchen of a restaurant that had been forced to relocate into a submarine. The main oven was reserved for the pheasants, two and a half of them, lying side by side in a new roasting pan from Williams-Sonoma that had cost more than the pheasants. Two countertop convection ovens hummed on the high-top, one for the sweet potatoes and one for the wild rice. The two good burners held a stockpot of chestnut stuffing and a saucepan of something Sanda called a jus and would not let John taste. The two bad burners held nothing; they had been demoted to trivets. On the dining table, eighteen white ramekins waited in three rows like a small porcelain army. Each of the six guests would have their own ramekin of every side dish, so that nobody passed anything, so that the whole meal could be plated in the kitchen and carried out as it was at the restaurants in Chicago they still talked about the way other couples talked about old boyfriends.
 
 The turkey was in the garage.
 
@@ -58,7 +58,7 @@ She knocked at two o'clock exactly with the side of her fist, three times, the w
 
 John's parents came next, at a quarter past two, having driven down from Jacksonville in the Buick and left forty-five minutes late because Jim could not find his reading glasses, which were on his head.
 
-Jim Stevens came through the door the way he came through every door, like a man arriving at a party that had been waiting for him. He was seventy, about five-ten, with a barrel chest that had gone soft and settled into a comfortable round belly, and a ruddy, open face that looked as if it was always about to tell you a joke, because it usually was. His white hair was thin and combed straight back with water. His mustache was thick and gray and shaped exactly the way it had been shaped in the department photograph from the year John was born, because Jim believed in finding a thing that worked and leaving it alone. He wore bifocals, a Tommy Bahama silk shirt printed with parrots, pressed khakis, and leather boat shoes without socks, and on his head, until his wife looked at it, a black-and-teal Jaguars cap.
+Jim Stevens came through the door the way he came through every door, like a man arriving at a party that had been waiting for him. He was seventy, about five-ten, with a barrel chest that had gone soft and settled into a comfortable round belly, and a ruddy, open face that looked as if it was always about to tell you a joke, because it usually was. His white hair was thin and combed straight back with water. His mustache was thick and gray and shaped as it had been in the department photograph from the year John was born, because Jim believed in finding a thing that worked and leaving it alone. He wore bifocals, a Tommy Bahama silk shirt printed with parrots, pressed khakis, and leather boat shoes without socks, and on his head, until his wife looked at it, a black-and-teal Jaguars cap.
 
 "Hat," Liz said, without breaking stride.
 
@@ -94,7 +94,7 @@ She stood four foot nine in her low black shoes and was built square and sturdy,
 
 The turkey came out of the oil at three-forty, a deep mahogany brown, crackling, and in no way on fire.
 
-John carried it into the kitchen on a platter as if he were carrying the Ark of the Covenant, and the family applauded, and he set it down in front of Sanda, who looked at it for a long moment over the tops of her glasses and said, "Huh." From Sanda, this was a parade.
+John carried it into the kitchen on a platter as if he were carrying the Ark of the Covenant, and the family applauded, and he set it down in front of Sanda, who looked at it over the tops of her glasses and said, "Huh." From Sanda, this was a parade.
 
 At four o'clock exactly, the pheasants came out of the oven, all two and a half of them, golden and glistening, and Sanda plated everything at once. Sweet potatoes in ramekin one. Wild rice in ramekin two. Chestnut stuffing in ramekin three. Half a pheasant on each plate, carved off the bone, napped with the jus. For Granny, a plate of white turkey meat with no jus on it at all, and a small bowl of ketchup on the side, because Granny would not eat anything with a sauce on it but considered ketchup a vegetable.
 
@@ -168,7 +168,7 @@ Dorina turned it off. Then she turned it on again, to see the light. Then she tu
 
 * * *
 
-When John came back to his recliner and his rye, his father had found the remote and turned on the television, muted, to the Lions game, and Liz and Sanda were sitting together on the couch talking in low voices about something that made them both laugh. Granny sat in the armchair by the window with her purse in her lap.
+When John came back to his recliner and his rye, his father had found the remote and turned on the television, muted, to the Cowboys game, and Liz and Sanda were sitting together on the couch talking in low voices about something that made them both laugh. Granny sat in the armchair by the window with her purse in her lap.
 
 "Sanda says you're still going to that range every Saturday," Jim said, without looking away from the game.
 
@@ -182,11 +182,11 @@ This was not the first time they had had this conversation. It was, by John's co
 
 "Here we go," Jim said to the television.
 
-"I have two fifty-caliber guns," John said. "Neither one of them can take out a tank. Hang on."
+"I have three fifty-caliber guns," John said. "Not one of them can take out a tank. Hang on."
 
 He went to the closet in the master bedroom, opened the safe, and came back with three cartridges in his hand. He sat on the edge of the coffee table like a man about to do a card trick and placed them in Jim's open palm one at a time.
 
-"This," John said, setting down the first, a short, fat brass cartridge with a blunt copper nose, "is a .50 AE. That's what the Desert Eagle shoots. It's the smallest of the fifties. And this" — the second, the same width but longer, like the first one's big brother — "is a .500 Smith and Wesson Magnum. That's what the revolver shoots. It's about twice as powerful as the first one. Both of these are pistol rounds. Both of them are fifty caliber. And neither one of them can take out a tank. An elephant, maybe. Not a tank."
+"This," John said, setting down the first, a short, fat brass cartridge with a blunt copper nose, "is a .50 AE. That's what the Desert Eagles shoot, both of them. It's the smallest of the fifties. And this" — the second, the same width but longer, like the first one's big brother — "is a .500 Smith and Wesson Magnum. That's what the revolver shoots. It's about twice as powerful as the first one. Both of these are pistol rounds. Both of them are fifty caliber. And neither one of them can take out a tank. An elephant, maybe. Not a tank."
 
 Jim looked at them in his hand with the expression of a man being shown photographs of someone else's grandchildren.
 
@@ -320,7 +320,7 @@ John stood on the step, not knowing what to say. "I didn't know that."
 
 He walked back to his own front door under the stars. Inside, the dishwasher was running and Sanda had gone in to start her bath. His phone buzzed in his pocket as he was locking up, and he took it out, expecting his mother, who always texted that they had made it home safe, though they had not yet left.
 
-It was not his mother. It was a message from Dana Whitfield, sent at 11:58 p.m. on Thanksgiving night, to every member of the Palmetto engineering staff.
+It was not his mother. It was a message from Dana Whitfield, sent at 10:04 p.m. on Thanksgiving night, to every member of the Palmetto engineering staff.
 
 *All-hands Monday, 9:00 a.m. In person. Attendance mandatory. — D.*
 
@@ -328,6 +328,6 @@ Underneath it, his work app showed him his queue, which had been three hundred a
 
 It was nine hundred and forty-one.
 
-Most of them had been written since dessert. The new Vee, ten times smaller, had been running for about six hours, and in six hours it had written more code than Palmetto's engineers had written in a year. Every one of the nine hundred and forty-one was green.
+Most of them had been written since dessert. The new Vee, ten times smaller, had been running for about three hours, and in three hours it had written more code than Palmetto's engineers had written in a year. Every one of the nine hundred and forty-one was green.
 
 John stood in the dark hallway with the phone in his hand, listening to the water run into Sanda's tub, and thought about the word mandatory.

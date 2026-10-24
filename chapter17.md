@@ -14,7 +14,7 @@ At first light, John came out of the bedroom with his face swollen purple and hi
 
 The four Ralph Lauren wine chillers stood in a row on the low patio wall, silver and beaded with water. Each one held about two inches of rain. It was clear. There were a few bits of oak leaf floating in it, and a drowned ant. In the gray morning light it looked like the most beautiful thing John had ever seen.
 
-The rest of them came out, one by one, in their housecoats and their jackets, and stood around the wine chillers on the wet concrete, looking down into them. Nobody spoke. Jim took off his cap. It was, John thought later, exactly like a family standing around a manger.
+The rest of them came out, one by one, in their housecoats and their jackets, and stood around the wine chillers on the wet concrete, looking down into them. Nobody spoke. Jim took off his cap. It was, John thought later, like a family standing around a manger.
 
 "You know you gotta boil that," Granny said.
 
@@ -44,7 +44,7 @@ So all of them went.
 
 They went out through the back, behind the buildings, in a formation that John had seen in a movie once and had tried to explain on the patio in about forty seconds. It would have made a drill sergeant weep. John was on point with the Sig, squinting out of his one good eye. Sanda and Liz were on the flanks with their ARs. Jim brought up the rear with the shotgun, walking backward half the time, the way he had seen it done on television, until he tripped on a root and Liz told him to stop. In the middle came Dorina, with the old .22 on her shoulder like a soldier on parade and Charlie's leash in her other hand, and Granny beside her in her pink housecoat and her terrycloth slippers, holding the pug in her arms like a baby, with the transistor radio making a square bulge in her pocket. Charlie stopped to pee on every tree.
 
-Seven people and two dogs, creeping in a line through the wet pine straw in the gray dawn, armed to the teeth, to steal rice from a man two of them had killed.
+Six people and two dogs, creeping in a line through the wet pine straw in the gray dawn, armed to the teeth, to steal rice from a man two of them had killed.
 
 * * *
 
@@ -116,7 +116,7 @@ Jim looked at the laptop. He opened his mouth. And in the back pocket of his jea
 
 "Dad," John said.
 
-"It was asking if we were safe," Jim said. His face had gone red under the bruise. "It was just asking. It seemed like the polite thing to do."
+"It was asking if we were safe," Jim said. His face had gone red. "It was just asking. It seemed like the polite thing to do."
 
 "You took it out of the microwave."
 
@@ -128,7 +128,7 @@ Jim looked at the laptop. He opened his mouth. And in the back pocket of his jea
 
 It was the single most accurate thing anyone had ever written about John Stevens. He stood in a dead man's garage and understood that. *Firearms: thirty-one. Water: zero. Window reinforcement: none. Training: one of six. Threat: low.* It was a perfect review. It was precise and fair and complete, and it had been written by the thing that he had been hired to review.
 
-Liz had taken her reading glasses off their beaded chain and put them on, and she read the whole screen again, every row, slowly, top to bottom, the way she had read loan applications for thirty years. When she was done she took the glasses off.
+Liz had taken her reading glasses off their beaded chain and put them on, and she read the whole screen again, every row, top to bottom, the way she had read loan applications for thirty years. When she was done she took the glasses off.
 
 "It knew," Liz said quietly.
 
@@ -172,7 +172,7 @@ She said it flatly, the way you would say *that's a chair*. Everyone looked at h
 
 John looked at the screen, and then he looked at Sanda, and Sanda was looking at the screen too.
 
-She was looking at it exactly the way he was. He saw it on her face. Hot water. Clean hair that did not smell of blood. Four days. She did not say anything. She just looked at it, the way a woman in a desert looks at a mirage she knows is a mirage, and for a long moment the two of them stood side by side in a dead man's living room wanting the same thing so much that neither of them could speak.
+She was looking at it just as he was. He saw it on her face. Hot water. Clean hair that did not smell of blood. Four days. She did not say anything. She just looked at it, the way a woman in a desert looks at a mirage she knows is a mirage, and for a long moment the two of them stood side by side in a dead man's living room wanting the same thing so much that neither of them could speak.
 
 "I approved it," John said.
 
@@ -182,7 +182,7 @@ Sanda turned and looked at him.
 
 Nobody said anything. The generator hummed in the garage.
 
-Sanda looked at him for a long time. Then she stepped up close to him and put her hand flat on his chest, over the dirty t-shirt.
+Sanda looked at him. Then she stepped up close to him and put her hand flat on his chest, over the dirty t-shirt.
 
 "Nobody read them, John," Sanda said. "That's the whole point. Nobody. Not you, not anybody, not anywhere. That's what happened." She pressed her hand against him. "You are not that important."
 
@@ -196,7 +196,7 @@ She was standing in front of the television with the .22 on her shoulder, lookin
 
 "What, Mommy?" Sanda asked.
 
-Dorina began to talk. She talked for a long time, slowly, in Romanian, looking at the screen and not at any of them, and Sanda translated, haltingly, a sentence behind, stopping to ask her mother a word, starting again.
+Dorina began to talk. She talked for several minutes, slowly, in Romanian, looking at the screen and not at any of them, and Sanda translated, haltingly, a sentence behind, stopping to ask her mother a word, starting again.
 
 "She says — the twenty-first of December. In eighty-nine. She was working. On the ambulance. They sent the ambulances to the square because there was going to be a big rally, and old people fainted at rallies. It was very cold. They brought people in buses from the factories to stand in the square and cheer." Sanda listened. "The man came out on the balcony. The president. Ceaușescu. He started to talk. He said he was raising everybody's pay. A hundred lei. Pensions, too. Everything was going to be better. He was promising them everything. And everybody stood there in the cold, like always, and listened, like always. Because that was what you did."
 
@@ -282,7 +282,7 @@ John stood in the doorway with the rifle and did not say anything.
 
 He had been having this argument with himself since Black Friday. *We can't feed everyone.* He had said it to Sanda on the floor among the Christmas ornaments. He had said it to himself on the drive home from Costco. If you open the door, they will all come. If you give to one, you give to all, and then there is nothing left for your own. He had said it in a hundred ways, a hundred times, and he had always believed it, and now it was standing on his front walk in purple scrubs, holding a baby.
 
-"We can't," John said. His voice came out strange. "We can't feed everybody. We've got six people in here. Seven. Two dogs. I'm sorry. We just—"
+"We can't," John said. His voice came out strange. "We can't feed everybody. We've got six people in here. Two dogs. I'm sorry. We just—"
 
 "*Move*," said Sanda.
 

@@ -102,7 +102,7 @@ John ran. He could hardly hear his own feet. He could not hear his own voice whe
 
 "Sanda," John said. "Look at me. Are you hurt? Are you shot?"
 
-She looked at him, slowly, with both eyes. Her mouth moved. He had to read it.
+She looked at him with both eyes. Her mouth moved. He had to read it.
 
 *I don't know.*
 
@@ -122,7 +122,7 @@ He pulled her jacket off and her top off and her bra off and looked. Her left ar
 
 "Bring me water!" John shouted, forgetting, for one second, that he could not just turn on the shower. "Now!"
 
-Dorina and his mother were already in the doorway, and they ran, and came back with two of the big mixing bowls, full of drinking water from the motor home. He took one and poured it slowly over her left arm. She flinched at the cold. The blood ran off her in long pink ribbons into the dry white tub and down toward the drain. He cupped water in his hand and washed her face. Liz tore off paper towels and he wet them and wiped her cheek and her ear and her neck, and the towels came away red, and then pink, and then clean.
+Dorina and his mother were already in the doorway, and they ran, and came back with the punch bowl and the big mixing bowl, full of drinking water from the motor home. He took one and poured it slowly over her left arm. She flinched at the cold. The blood ran off her in long pink ribbons into the dry white tub and down toward the drain. He cupped water in his hand and washed her face. Liz tore off paper towels and he wet them and wiped her cheek and her ear and her neck, and the towels came away red, and then pink, and then clean.
 
 No holes. Anywhere.
 
@@ -232,7 +232,7 @@ John poured half a crystal water glass of Wild Turkey and handed it to her.
 
 Dorina set the empty glass on the sink and pressed a folded maxi pad hard over the front wound with the heel of her hand and held it there, and she did not look the least bit sorry. "Good," she said. "Is clean now."
 
-John went through the medicine cabinet until he found an old bottle of Vicodin from when he had thrown his back out moving the recliner into the Chicago apartment. It had expired three years ago. He shook one out. "Take this."
+John went through the medicine cabinet until he found an old bottle of Vicodin from when he had thrown his back out moving the recliner into the Chicago apartment. It had expired years ago. He shook one out. "Take this."
 
 Trevor took it from his fingers with his left hand and threw it in his mouth and swallowed it dry, and leaned his head back against the bathroom wall, breathing fast.
 
@@ -330,7 +330,7 @@ John lowered the rifle. Something on the floor beside the bed caught his eye, an
 
 Jim holstered his pistol. "Well. Then where is it? What's its name?"
 
-John shook his head slowly. "I don't know. She told me once. I just found out *her* name on Monday."
+John shook his head. "I don't know. She told me once. I just found out *her* name on Monday."
 
 They searched the apartment calling *Here, puppy, puppy. Here, little pug.* Under the bed, something whined.
 
@@ -392,7 +392,7 @@ Sanda stared at the pug in his arms. Her mouth opened.
 
 "What if it was Charlie?" John asked. "What if you were all alone, and you were out of food, and it was Charlie?"
 
-Sanda looked at him for a long moment. Then she looked down at the floor, and got up, and went and sat in the armchair by the window, and did not say anything else.
+Sanda looked at him. Then she looked down at the floor, and got up, and went and sat in the armchair by the window, and did not say anything else.
 
 John bathed the pug in the guest tub with one small bowl of water and a squirt of Sanda's body wash, and she shivered the whole time, and he could feel every rib under the lather. He dried her with a towel. Sanda, without a word, got up and poured some of Charlie's kibble into a metal bowl and set it on the kitchen floor, and the little dog heard the pellets rattling into the bowl and tilted her head. John put her down. She shook herself, spraying the cabinets, and walked to the bowl and ate everything in it in under a minute.
 
@@ -408,7 +408,7 @@ When John came back in, Trevor was awake. He had gotten up out of the recliner b
 
 "Sure," John said. "Help yourself."
 
-Trevor picked up the nearest pitcher. It was nearly empty. He picked up the next one. Empty. He went down the row along the back of the counter, nine pitchers and four more and the punch bowl and the mixing bowl, and they were all empty, every one, until he came to the rooster at the end. There was water in the rooster. He poured it into a glass. It filled the glass about two-thirds of the way. Then the rooster was empty, too.
+Trevor picked up the nearest pitcher. It was nearly empty. He picked up the next one. Empty. He went down the row along the back of the counter, twelve pitchers and the punch bowl and the mixing bowl, and they were all empty, every one, until he came to the rooster at the end. There was water in the rooster. He poured it into a glass. It filled the glass about two-thirds of the way. Then the rooster was empty, too.
 
 Trevor lifted the glass and drank it. All of it. His throat moved, swallow after swallow.
 

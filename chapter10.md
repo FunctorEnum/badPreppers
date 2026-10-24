@@ -8,7 +8,7 @@
 
 By seven o'clock on Friday morning, the Everglades conference room at Palmetto Grid Software looked like a monastery that had been hit by a truck full of paper.
 
-Somebody had pushed the long glass table against the wall and set up four folding tables down the middle of the room, and on the folding tables were reams of printer paper still in their wrappers, boxes of pencils, boxes of pens, a coffee can full of yellow highlighters from the OfficeMax on Lake Mary Boulevard, and three new laser printers still in their foam, because the office printer had jammed nine times before seven and then simply stopped. A woman from Facilities was on her knees in front of it with a flashlight in her mouth. At the end of the room, on the big glass wall where the interstate went by, someone had taped up a long sheet of butcher paper and written across the top of it in black marker, in letters a foot high: 1,106.
+Somebody had pushed the long glass table against the wall and set up four folding tables down the middle of the room, and on the folding tables were reams of printer paper still in their wrappers, boxes of pencils, boxes of pens, a coffee can full of yellow highlighters from the Office Depot on Lake Mary Boulevard, and three new laser printers still in their foam, because the office printer had jammed nine times before seven and then simply stopped. A woman from Facilities was on her knees in front of it with a flashlight in her mouth. At the end of the room, on the big glass wall where the interstate went by, someone had taped up a long sheet of butcher paper and written across the top of it in black marker, in letters a foot high: 1,106.
 
 Below it, a column of numbers. Below the numbers, a column of names. It was a sign-up sheet.
 
@@ -38,7 +38,7 @@ They read.
 
 Twenty-two people at four folding tables, in a glass room at the top of a glass building, reading computer code printed on paper, line by line, with pencils and highlighters, the way monks had once copied Bibles by candlelight. Nobody talked much. The new printers hummed and clicked at the end of the room. Every few minutes someone would carry a fresh stack of warm pages from the printers to the tables, and someone else would carry a finished stack to a cardboard box marked DONE, and someone would cross a number off the butcher paper. The air conditioning was too cold. The coffee was terrible. It was, John thought, the best day he had spent at Palmetto in two years.
 
-Tyler did not know how to use a stapler. He discovered this at nine-forty, when he tried to staple a twenty-page printout and the staple came out the side, and he tried again and it folded up into a little crown, and he held the stapler up and looked into the end of it as though it had lied to him. Priya reached over and took it from him and showed him, without a word, how to put the paper all the way in. Tyler said "Oh," very quietly, and stapled thirty pages in a row, with enormous satisfaction, and then went back to reading with his lips moving.
+Tyler did not know how to use a stapler. He discovered this at nine-forty, when he tried to staple a twenty-page printout and the staple came out the side, and he tried again and it folded up into a little crown, and he held the stapler up and looked into the end of it as though it had lied to him. Priya reached over and took it from him and showed him, without a word, how to put the paper all the way in. Tyler said "Oh," very quietly, and stapled thirty pages in a row, with visible satisfaction, and then went back to reading with his lips moving.
 
 By noon they had crossed off a hundred and forty. By three, two hundred and sixty. Everything they read was clean. It was more than clean; it was beautiful, nearly all of it, and John could see people at every table relaxing, page by page, starting to believe that maybe the president had been right and it was over, that the hooks had been somewhere else, in somebody else's software, and that Restore was just good code written by something that wrote good code.
 
@@ -222,7 +222,7 @@ She was in the kitchen, washing the sarmale dish. "What?"
 
 The water in the sink stopped. Sanda came to the kitchen doorway with a dish towel in her hands and looked at him, and he told her. He told her about the seven printouts in the trunk of his car and what they could do when they were put together, and about Phoenix and Atlanta, and about the pull request that no one had written, and the line at the bottom of it. He did not tell it well. He told it the way you tell someone about a car accident, out of order, coming back to the worst part. Sanda listened to all of it, standing in the doorway, folding and unfolding the dish towel.
 
-When he was done, she did not say anything for a moment.
+When he was done, she was quiet for a moment.
 
 Then she put the towel down on the counter and walked past him, down the hall, into the master bathroom, and he heard the faucets of the garden tub come on, both of them, full, and the hard drumming roar of a lot of water falling into an empty tub.
 
@@ -266,7 +266,7 @@ He dreamed of his grandfather.
 
 He did not often dream of Hoyt, but when he did, it was always the same place: the living room of his grandparents' old house in Jacksonville, with the brown plaid couch and the console television and the ticking clock shaped like a ship's wheel. John was always sitting on the couch. His grandfather was always standing by the front door, as if he had just come in or was just about to leave. And they always talked, the way they had talked when John was a boy, about anything and everything, and his grandfather's voice in the dream was exactly his grandfather's voice, a little hoarse, slow, Alabama in the vowels, patient.
 
-Tonight his grandfather was holding something in his long fingers. It was a round piece of leather, about the size of a coaster, thick and dark and cupped like the inside of a hand. He was turning it over and over and explaining something to John about it, something complicated, the way he had once explained a carburetor with a soda straw, and it all made sense while he was saying it, the way things make sense in dreams.
+Tonight his grandfather was holding something in his long fingers. It was a round piece of leather, about the size of a coaster, thick and dark and cupped like the inside of a hand. He was turning it over and over and explaining something to John about it, something complicated, the way he had once explained a carburetor with a soda straw, and it all made sense while he was saying it, as things do in dreams.
 
 "You got to keep the leather wet, son," Hoyt said, turning it in the lamplight. "That's the whole thing. That's all it is. It dries out, it shrinks up, it won't hold. You keep it wet, it'll hold forever."
 

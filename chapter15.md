@@ -10,7 +10,7 @@ Trevor set the empty glass down on the counter, very gently, the way you set dow
 
 "So you're out," Trevor said.
 
-John looked at the row of pitchers. Thirteen pitchers, a punch bowl, a mixing bowl, a rooster. All of them empty. Three days ago, they had been full.
+John looked at the row of pitchers. Twelve pitchers and the rooster, a punch bowl, a mixing bowl. All of them empty. Three days ago, they had been full.
 
 "I thought for sure we had enough for a week," John said. "At least a week."
 
@@ -72,7 +72,7 @@ There was a new authority in his voice that John had never heard in it before, n
 
 *That's fucking convenient*, John thought.
 
-But he looked down at Trevor's rifle, leaning against the wall where Jim had put it, and there was the brass deflector on the right side of the receiver, set up to throw the empty cases away from a left-handed shooter's face. He remembered Trevor writing the approval number on the background check form with his hand curled over the top of the pen. It was true. With one good arm, Trevor could still shoot that rifle better than anyone in this apartment.
+But he looked down at Trevor's rifle, leaning against the wall where Jim had put it, and there was the ejection port on the left side of the receiver, built to throw the empty cases away from a left-handed shooter's face. He remembered Trevor writing the approval number on the background check form with his hand curled over the top of the pen. It was true. With one good arm, Trevor could still shoot that rifle better than anyone in this apartment.
 
 "I'm sorry, man," John said, and meant it. "All you've done is try to help us, and I'm being an asshole."
 
@@ -220,7 +220,7 @@ All at once, everything. The lights. The refrigerator. The wine cooler. The micr
 
 *Ping*.
 
-He stood there in the dark holding the bowl. He could have filled every one of those thirteen pitchers. He could have filled the punch bowl and the mixing bowl and the rooster. He could have filled the tub. He had stood against the wall like an idiot and watched gallons go down the drain. It was the second time in three days.
+He stood there in the dark holding the bowl. He could have filled every one of those thirteen pitchers, the rooster included. He could have filled the punch bowl and the mixing bowl. He could have filled the tub. He had stood against the wall like an idiot and watched gallons go down the drain. It was the second time in three days.
 
 "This is a great sign," Jim said again, in the dark. "The power *and* the water came back on. Only for a minute, sure. But now we know they're working on it. They'll have it back for good in no time."
 
@@ -292,7 +292,7 @@ Inside Trevor's apartment it was pitch black.
 
 "That's enough, Dad," John said. "Two's plenty."
 
-Two of the little lights were enough to light the whole room. It was a one-bedroom, with exactly the same floor plan as Granny's: living room, kitchen, short hall, bedroom, bathroom, and a door at the end of the kitchen that went into the garage. But Granny's apartment was full of things — doilies and African violets and photographs and a ceramic rooster that matched Sanda's pitcher — and Trevor's apartment was nearly empty. A gray couch. A television on the wall. A tall black gun safe in the corner of the living room, bigger than John's. A pull-up bar across the bedroom doorway. It was very clean. It was cleaner than any apartment John had ever seen a single man live in. It looked like the apartment of a man who could leave it in five minutes and take everything that mattered. Through the glass of the sliding door, out on the patio, John could see the dark slant of the solar panels on the patio roof, and above them, on its pole, the flat gray rectangle of the satellite dish. There was a tiny light on the dish's mount, green, steady, the only light in the whole black complex. He saw it, and he did not think about it, because he was thinking about water.
+Two of the little lights were enough to light the whole room. It was a one-bedroom, with the same floor plan as Granny's: living room, kitchen, short hall, bedroom, bathroom, and a door at the end of the kitchen that went into the garage. But Granny's apartment was full of things — doilies and African violets and photographs and a ceramic rooster that matched Sanda's pitcher — and Trevor's apartment was nearly empty. A gray couch. A television on the wall. A tall black gun safe in the corner of the living room, bigger than John's. A pull-up bar across the bedroom doorway. It was very clean. It was cleaner than any apartment John had ever seen a single man live in. It looked like the apartment of a man who could leave it in five minutes and take everything that mattered. Through the glass of the sliding door, out on the patio, John could see the dark slant of the solar panels on the patio roof, and above them, on its pole, the flat gray rectangle of the satellite dish. There was a tiny light on the dish's mount, green, steady, the only light in the whole black complex. He saw it, and he did not think about it, because he was thinking about water.
 
 On the refrigerator, held up by a single magnet, there was a sheet of paper. John's light passed over it as he turned. It was printed, not handwritten, and at the top of it was a small round seal with an eagle in it. He did not read it. He did not stop. Later he would remember that he had seen it, and that he had not stopped.
 

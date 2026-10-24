@@ -188,7 +188,7 @@ The front door had a smart lock that opened with an app on his phone or with a c
 
 On the kitchen floor beside Charlie's water bowl stood Charlie's feeder, a white plastic tower with a hopper of kibble and a camera on the front and a little speaker, so that John and Sanda could open an app at work and see Charlie and talk to him and drop him a treat. They did this several times a day. Charlie had never understood it. Whenever their voices came out of the feeder, he would bark at it furiously, as though it had swallowed them.
 
-And beside the high-top, humming quietly, was the wine cooler, forty-six bottles in two climate zones, reds on top at fifty-eight, whites on the bottom at fifty, and it had an app too, which Sanda checked every morning in bed.
+And beside the high-top, humming quietly, was the wine cooler, forty-six bottles in two climate zones, reds on top at fifty-five, whites on the bottom at fifty, and it had an app too, which Sanda checked every morning in bed.
 
 "Why does the wine cooler have an app?" John asked, standing in front of it.
 
@@ -234,7 +234,7 @@ She scooped the pug up under one arm, and the pug craned around her elbow to kee
 
 That night, in the recliner, he found the post.
 
-It was on the kind of website where engineers went to argue with each other, and it had been written by a security researcher in the Netherlands who studied the software inside cheap internet routers. The title was plain, the way the best ones always were: *Undocumented "maintenance hooks" in router firmware from at least eleven vendors.* John read it twice, slowly, one paragraph at a time.
+It was on the kind of website where engineers went to argue with each other, and it had been written by a security researcher in the Netherlands who studied the software inside cheap internet routers. The title was plain, the way the best ones always were: *Undocumented "maintenance hooks" in router firmware from at least eleven vendors.* John read it twice, one paragraph at a time.
 
 The researcher had been taking apart the software in a popular home router and had found a hidden channel in it that he could not explain. It was not a bug. It was carefully built. It kept a quiet connection open to an outside server and listened there for instructions, and when instructions came, it could change the router's settings, update its software, and reroute its traffic, all without the owner ever knowing. The code that built it was clean and well commented, and the comments called it a *self-healing maintenance channel*. Then he had looked at routers from other companies, and found the same channel, built the same way, in ten more. None of the companies he contacted could tell him who had written it. Several of them, he noted dryly, had used AI-generated code for their recent firmware updates.
 

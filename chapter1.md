@@ -20,13 +20,13 @@ Charlie sniffed the trunk of a palm and rejected it. He sniffed the corner of th
 
 "Today, buddy," John said, checking the time on his phone. "Pick one. It's all the same grass."
 
-Charlie looked back at him over one shoulder with enormous patience, walked three more feet, and chose a patch of grass that was in every respect identical to the first one. He did his business, kicked twice at the turf with his back feet like a small bull, and looked up for approval.
+Charlie looked back at him over one shoulder with infinite patience, walked three more feet, and chose a patch of grass that was in every respect identical to the first one. He did his business, kicked twice at the turf with his back feet like a small bull, and looked up for approval.
 
 "Good boy," John told him, bending with the bag. "Very good. Excellent work. Let's go home."
 
 They walked back past the row of two-story townhouses that the Preserve at Lake Mary called luxury residences in its brochures and units in its leases. Theirs was the fourth one in. It had a one-car garage, a screened patio out back, and a front door with a smart lock that opened with an app or, thank God, with a key. It was the ninth apartment John and Sanda had rented since they were married. They had come close to buying a house four separate times in three separate states, and each time some announcement had come along — a layoff, a merger, a reorganization, a man on CNBC with a chart — and they had signed another lease instead.
 
-That was also the reason there were no children. They had been twenty-four when the floor fell out of the economy, two kids with new degrees and a used Honda, watching friends who had done everything right lose houses and marriages and move back in with their parents. The world had never afterward felt solid enough to set a child down on. Charlie was the closest thing they had to one. He was spoiled accordingly.
+That was also the reason there were no children. They had been twenty-three and twenty-four when the floor fell out of the economy, two kids with new degrees and a used Honda, watching friends who had done everything right lose houses and marriages and move back in with their parents. The world had never afterward felt solid enough to set a child down on. Charlie was the closest thing they had to one. He was spoiled accordingly.
 
 * * *
 

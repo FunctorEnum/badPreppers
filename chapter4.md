@@ -82,13 +82,13 @@ He did. He took the little pad from the side table and wrote *HUNTING ALONE — 
 
 John sat back down in the recliner. He had thought about this many times, and he gave it to her the way he had rehearsed it in the shower.
 
-"We hunker down," John said. "We stay right here. We keep a low profile. We don't go anywhere, we don't draw attention, we wait for the chaos to burn itself out. A few weeks, a few months. The worst of it is always at the beginning — the panic, the looting. Then people either get organized or they leave or they die. And when the dust settles, we rebuild. From the guns."
+"We hunker down," John said. "We stay right here. We keep a low profile. We don't go anywhere, we don't draw attention, we don't open the door. Not for the neighbors, not for anybody. We can't feed everyone, Sanda. We wait for the chaos to burn itself out. A few weeks, a few months. The worst of it is always at the beginning — the panic, the looting. Then people either get organized or they leave or they die. And when the dust settles, we rebuild. From the guns."
 
 "Rebuild what?" Sanda asked. "With guns?"
 
 "Everything."
 
-Sanda put down the ornament in her hand and looked at him for a long moment, and he could see her trying very hard to be fair to him.
+Sanda put down the ornament in her hand and looked at him, and he could see her trying very hard to be fair to him.
 
 "John," Sanda said gently. "You can't eat a gun."
 
@@ -212,7 +212,7 @@ When John opened his laptop again, the queue was fourteen hundred and six.
 
 He worked through the afternoon in a kind of fog, the way you work on the day of a funeral. He opened pull requests. He read the summaries. He typed *LGTM*. Each one had already merged. Each one was clean. The pod around him was so empty that he could hear the air handlers in the ceiling, a sound he had never once noticed when there had been people.
 
-At 4:50 p.m. he opened one that he did not approve.
+At 4:50 p.m. he opened one that stopped him.
 
 It was a change to the dispatch module. His module. Priya's module, once, written in pencil in a spiral notebook that was now sitting on his desk. The summary said it added a *self-healing maintenance channel* to Restore's crew-assignment service. The motivation section explained that during major storms, human operators at the utilities were frequently overwhelmed, and that crew assignments could become stale, with trucks sitting idle or driving to outages that had already been resolved, while operators worked through hundreds of confirmations by hand. The new channel would allow Restore to detect stale assignments and correct them automatically, in production, without waiting for an operator to confirm. Testing: comprehensive. Risk: Low.
 

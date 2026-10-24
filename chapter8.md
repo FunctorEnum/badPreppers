@@ -64,7 +64,7 @@ The other shooter was at the far end of the fifty-yard range, his back to them, 
 
 "Nice to meet you," Sanda said, shaking his hand quickly, the way she shook hands with customers she had not decided about.
 
-"Your thing came in Friday, by the way," Trevor said to John. "You want to pick it up tomorrow? I'm in all day."
+"Your thing came in yesterday afternoon, by the way," Trevor said to John. "Right after you left. You want to pick it up tomorrow? I'm in all day."
 
 John could feel Sanda turning to look at him. "Tomorrow," he said. "Sure. Great."
 
@@ -72,7 +72,7 @@ John could feel Sanda turning to look at him. "Tomorrow," he said. "Sure. Great.
 
 "A scope," John said.
 
-Trevor's eyes did something small and amused and then stopped doing it. "Yeah," he said. "A scope. Well, I'll let y'all get to it. I've got a couple more mags to shoot and then I'm out of here. Dish went up Thursday, by the way," he added to John, over his shoulder. "Internet from space. You should see the speeds."
+Something small and amused crossed Trevor's eyes and was gone. "Yeah," he said. "A scope. Well, I'll let y'all get to it. I've got a couple more mags to shoot and then I'm out of here. Dish goes up tomorrow, by the way," he added to John, over his shoulder. "Internet from space. Wait till you see the speeds."
 
 He shot his last two magazines while they set up, and then he called for the range to go cold and walked down past the firing line to pull his target, and on his way back he stopped behind Sanda while she loaded the Bodyguard's tiny magazine and watched her for a moment.
 
@@ -150,7 +150,7 @@ Sanda was lying on the couch with her hand over her eyes, laughing so hard she h
 
 * * *
 
-At two minutes to nine, every screen in the apartment went off at once.
+At two minutes to nine, every phone in the apartment went off at once.
 
 His phone shrieked on the side table. Hers shrieked on the couch. It was not a ring and not a text tone but the long, ugly, rising emergency alarm that phones make for tornado warnings and missing children, and both of them were making it at the same time, and through the wall John could hear Granny's phone making it next door, and down the street a car alarm started up as if in sympathy. Charlie bolted for the closet. On John's phone, under a red banner, it said: *PRESIDENTIAL ALERT. The President will address the nation at 9:00 p.m. ET. This is not a test.*
 
@@ -236,7 +236,7 @@ John went to Costco first.
 
 He did not need to look at the Post-it. He had it all in his head. Water. Batteries. Cash. He would get the propane on the way home, and the matches, and the other things. Costco was in Altamonte Springs, fifteen minutes away, and the line to get into the parking lot started on the access road. It took him an hour to get in.
 
-Inside it looked like a movie about the end of something. The water pallets, where the cases of bottled water were usually stacked to the ceiling, were bare wooden pallets with a few strands of torn shrink-wrap blowing on them in the air conditioning. The battery aisle was empty. The canned goods were gone. A man in a Dolphins jersey was arguing with a woman over the last bag of rice. John walked the warehouse three times, pushing an enormous empty cart, feeling the weight of the moment on his shoulders, determined to come home with something that mattered.
+Inside it looked like a movie about the end of something. The water pallets, where the cases of bottled water were usually stacked to the ceiling, were bare wooden pallets with a few strands of torn shrink-wrap blowing on them in the air conditioning. The battery aisle was empty. The canned goods were gone. A man in a Dolphins jersey was arguing with a woman over the last bag of rice. John walked the warehouse three times, pushing an empty cart the size of a bathtub, feeling the weight of the moment on his shoulders, determined to come home with something that mattered.
 
 He came home with a thirty-roll bale of toilet paper, which was correct. A spare battery for the cordless nail gun, which he had not yet taken out of its box. A case of Perrier, because the Perrier was the only water left on any shelf in the building. And a rotisserie chicken, for four ninety-nine, because it smelled — he guessed, from the way other people were looking at it — wonderful.
 

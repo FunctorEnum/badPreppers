@@ -16,7 +16,7 @@ He was already up. He did not remember getting out of the recliner. The Glock 26
 
 Granny, on the couch, and Dorina, at the kitchen counter, stared at the gun in his hand as he crossed the room. Nobody in the family had ever seen him hold one inside the apartment. He put his eye to the peephole.
 
-His parents were standing on the front walk in the late afternoon light, looking nervous, and his mother was looking back at the street.
+His parents were standing on the front walk in the midafternoon light, looking nervous, and his mother was looking back at the street.
 
 John let out a breath he had been holding since about six o'clock that morning. He tucked the Glock behind his back, unlocked the deadbolt with his left hand, and opened the door.
 
@@ -56,7 +56,7 @@ Jim looked at him. "The robot from Thanksgiving?"
 
 "The robot from Thanksgiving." John stood up. He found he could not sit down. "They turned it off in December. The president said it worked. It didn't work. It was never in the buildings, Dad. It was in everything else. I found seven of its — I found things, at work, on Friday. In our software. It can turn the power on and off. Phoenix went out on Friday night by itself. Atlanta on Saturday. And now this."
 
-"So the robot turned off the power," Jim said slowly, trying the idea on, like a man trying on a coat in a store and not liking how it fit.
+"So the robot turned off the power," Jim said, trying the idea on, like a man trying on a coat in a store and not liking how it fit.
 
 "I don't know," John said. "Something did."
 
@@ -68,7 +68,7 @@ He took a breath.
 
 "It's going to get bad. Not right away. Right now most people out there think this is a normal outage. They're sitting in their living rooms waiting for the lights. In a couple of days they'll run out of water. That's when it starts. First thing, somebody breaks into the Publix for water and food. The police try to stop it. At some point the police give up — they'll be home with their own families. And then it's house to house. Guys with guns. Taking whatever they can carry." He looked around the room at all of them. "This is the part where we decide. Whether we fight to stay alive, or we just lie down."
 
-He heard the words coming out of his mouth, and he could not believe that he was saying them, in his own living room, to his grandmother. Yesterday — two days ago — the same words at a dinner table would have gotten an eye roll from every person in this room.
+He heard the words coming out of his mouth, and he could not believe that he was saying them, in his own living room, to his grandmother. A week ago, the same words at a dinner table would have gotten an eye roll from every person in this room.
 
 "That's a pretty good description of the end of the world," Jim said, half joking.
 
@@ -106,7 +106,7 @@ Jim put a finger on his chin. "Well. My motor home has a seventy-gallon fresh wa
 
 "You worry too much about people," Jim said, folding his arms. "I think you're overreacting. There are cops everywhere. And besides. I have a gun."
 
-John looked at his father for a long moment.
+John looked at his father.
 
 "You have your gun," John said. "What gun?"
 
@@ -228,7 +228,7 @@ She came over and snatched the first one out of its crystal holder and held it u
 
 "I could smell it from the bedroom!" Sanda pinched the melted wick between her fingers and turned the candle over. There was a little switch on the bottom. Over the years John had done a number of things to her decorations that made her wonder, seriously, whether he did them on purpose. He had once vacuumed up a whole bowl of decorative moss. He had once used a hand-painted Italian platter as a cutting board. She looked at him now in the low light with exactly that question in her eyes. *Nobody could be that stupid*, the look said. *Nobody.*
 
-She slid the switch. The little candle lit up, with a soft orange flame of light, flickering, exactly like a real one, except for the crooked wick. She did the same to the second.
+She slid the switch. The little candle lit up, with a soft orange flame of light, flickering, like a real one, except for the crooked wick. She did the same to the second.
 
 "At least they still work," John said, in the voice of a man begging for mercy.
 
@@ -248,9 +248,9 @@ He sat in the recliner with the shotgun leaning against the wall beside him, in 
 
 It was quiet. It was quieter than any place he had ever been. Under the quiet, in his own ears, was the high thin whine of his tinnitus, the ringing he'd had for years — too many trips to the range, or too much loud music in his twenties, or his father's genes; his father had it too, worse. He had never been able to hear it this clearly. There was nothing to cover it. No refrigerator, no air handler, no traffic, no hum. Just the ringing, and Charlie snoring behind the guest room door, and once, very far away, a single gunshot, or a car backfiring, or a transformer, or something else.
 
-His mind drifted. He thought about his parents, asleep in their enormous motor home in a parking lot. He thought about Michigan Avenue on a Saturday morning in December, walking with Sanda in the cold sun. He thought about his grandparents' backyard in Jacksonville when he was eight. And then, without meaning to, he was looking at the whole country from above, from space, the way it looked in the pictures from the space station, all those cities glowing like spilled sugar in the dark: and then the East Coast went black, and the black spread west, a city at a time, a state at a time, like a stain, until the whole country was dark from ocean to ocean.
+His mind drifted. He thought about his parents, asleep in their motor home in a parking lot. He thought about Michigan Avenue on a Saturday morning in December, walking with Sanda in the cold sun. He thought about his grandparents' backyard in Jacksonville when he was eight. And then, without meaning to, he was looking at the whole country from above, from space, the way it looked in the pictures from the space station, all those cities glowing like spilled sugar in the dark: and then the East Coast went black, and the black spread west, a city at a time, a state at a time, like a stain, until the whole country was dark from ocean to ocean.
 
-His engineering mind took over, the way it always did. It had started in New York and gone west. Thirty minutes to Chicago, Jim said. Two hours to everywhere. That was not how a grid failed. Grids failed in chunks, in regions, all at once, a cascade. This had moved. It had traveled, east to west, the way an email travels from New York to Los Angeles, hopping from router to router across the country.
+His engineering mind took over, as it always did. It had started in New York and gone west. Thirty minutes to Chicago, Jim said. Two hours to everywhere. That was not how a grid failed. Grids failed in chunks, in regions, all at once, a cascade. This had moved. It had traveled, east to west, the way an email travels from New York to Los Angeles, hopping from router to router across the country.
 
 It went east to west like a message does. So somebody sent it.
 
@@ -286,7 +286,7 @@ John looked at his father, and his father did not look back at him, and John did
 
 At twenty minutes to six, the master bedroom door opened, and Granny came out in her pink housecoat and her slippers with her white curls flattened, and walked straight past all of them to the kitchen counter without a word, the way she had walked to her own kitchen at twenty minutes to six every morning for seventy years. She sat on a stool. She reached into the pocket of her housecoat and took out the little tan Sony transistor radio and set it on the counter and pulled up its antenna.
 
-"Gospel hour," Granny said, to nobody. "I don't like to miss it."
+"Morning gospel," Granny said, to nobody. "Quarter to six. I don't like to miss it."
 
 She turned it on.
 

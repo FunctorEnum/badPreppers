@@ -20,7 +20,7 @@ The screen glowed in the dark kitchen, brighter than anything else in the room. 
 
 "Dad. Give me the phone." John held out his hand. "Everybody. Every phone. Right now."
 
-They gave him their phones. Sanda's from her robe pocket. Liz's from the bottom of her canvas tote. Dorina's, which had enormous numbers on its screen because she could not read small ones, from the pocket of her housecoat. His own. Granny went next door in her slippers, with the reprogrammed flashlight, and came back with hers, which she had never once used to make a call. Jim's came last. He held onto it for a moment before he let go.
+They gave him their phones. Sanda's from her robe pocket. Liz's from the bottom of her canvas tote. Dorina's, which had giant numbers on its screen because she could not read small ones, from the pocket of her housecoat. His own. Granny went next door in her slippers, with the reprogrammed flashlight, and came back with hers, which she kept in a drawer and used about twice a year. Jim's came last. He held onto it for a moment before he let go.
 
 John opened the door of the microwave and put all six phones inside, stacked like pancakes, and closed it.
 
@@ -66,7 +66,7 @@ Nobody said anything. Sanda poured the coffee into six cups. Liz picked one up a
 
 "Okay," John said, when the coffee was gone. "Here's the plan."
 
-He was standing in the middle of the living room with his hands behind his back, the way he imagined a commander would stand. He had been awake since three. He had not shaved in two days, and his jaw was dark with stubble, and his gray t-shirt had a coffee stain on it, and he had not showered, and he was keenly aware of all of it.
+He was standing in the middle of the living room with his hands behind his back, the way he imagined a commander would stand. He had been awake since his parents came through the door before dawn. He had not shaved in two days, and his jaw was dark with stubble, and his gray t-shirt had a coffee stain on it, and he had not showered, and he was keenly aware of all of it.
 
 "We stay here. We hunker down. We keep a low profile. Actually — forget low. We need to be invisible. Nobody outside can think we have anything worth taking." He looked at his father. "Nobody can argue anymore that this isn't serious. And before it's too late, we need to get as much water out of that RV as we can. Quietly. Before somebody figures out the Publix is full of water and food."
 
@@ -140,7 +140,7 @@ The sergeant stepped over to John. "Where?"
 
 "Glock 26, left hip," John said, keeping his hands high. "Glock 43, right front pocket. A knife in my back right pocket. My wallet's in my back left with my license."
 
-The sergeant took his wallet too, and walked back to the cruiser with both of them. John watched him get in. The man sat there a long time, poking at the laptop mounted beside the steering wheel, and then picking up his radio, and then putting it down. Then he got back out and walked over to them, slowly, looking at Jim's badge in his hand.
+The sergeant took his wallet too, and walked back to the cruiser with both of them. John watched him get in. The man sat there a long time, poking at the laptop mounted beside the steering wheel, and then picking up his radio, and then putting it down. Then he got back out and walked over to them, looking at Jim's badge in his hand.
 
 "Computer's down," the sergeant said. "Everything's down. I got a radio that talks to her car and that's about it." He looked up at Jim. "Jacksonville?"
 
@@ -258,7 +258,7 @@ She did not just put out plates. She put out the white china, and a linen napkin
 
 "I guess this is where I'm sittin'," Granny said, pointing at the ketchup.
 
-They sat. Sanda's AR leaned against the wall behind her chair. Liz's leaned against the wall behind hers. The shotgun stood in the corner. John's Sig hung from the back of his chair by its sling. If it had not been for the rifles, it would have looked exactly like a hundred dinners Sanda had hosted.
+They sat. Sanda's AR leaned against the wall behind her chair. Liz's leaned against the wall behind hers. The shotgun stood in the corner. John's Sig hung from the back of his chair by its sling. If it had not been for the rifles, it would have looked like a hundred dinners Sanda had hosted.
 
 "It's a little ironic," John said, chewing. He swallowed. "Here we are, having this nice dinner, drinking water, and there's a perfectly good bottle of French wine in the bathroom."
 
@@ -282,7 +282,7 @@ Sanda looked at him for a long time.
 
 "It's *plastic*, John," Sanda said.
 
-Then there were the flashlights. John had six of them, all identical, all small and black and incredibly bright, and they all worked the same way: one click for high, two quick clicks for strobe, three quick clicks for low. Nobody in his family could do three quick clicks. His father did two and lit up the bedroom in a blinding white stutter that made Granny cry out and cover her eyes. His mother did four and went back to high. Dorina did one click, very firmly, and then shone it directly into John's face to ask him if it was right. Sanda did three, perfectly, and then dropped it.
+Then there were the flashlights. John had six of them, all identical, all small and black and incredibly bright, and they all worked the same way: one click for high, two quick clicks for strobe, three quick clicks for low. Nobody in his family but John could do three quick clicks. His father did two and lit up the bedroom in a blinding white stutter that made Granny cry out and cover her eyes. His mother did four and went back to high. Dorina did one click, very firmly, and then shone it directly into John's face to ask him if it was right. Sanda did three, perfectly, and then dropped it.
 
 He had reprogrammed the one he gave Granny, years ago, so that it only had low. He had done it by following a sequence of clicks and holds listed in the manual, on the manufacturer's website. He had thrown the paper manuals away when he bought them. Why keep paper, when everything was online?
 
@@ -312,7 +312,7 @@ He waited to see whether she was done. He opened his mouth.
 
 He closed his mouth.
 
-They stood there in the dark living room in the faint orange flicker of the plastic candles. Then she sighed, and sat down on the floor with her back against the couch cushion that wasn't there, and he sat beside her, and she put her head on his shoulder.
+They stood there in the dark living room in the faint orange flicker of the plastic candles. Then she sighed, and sat down on the floor where the couch used to be, and he sat beside her, and she put her head on his shoulder.
 
 "Lie down out here," John said finally. "Try to sleep. I'll stay up."
 

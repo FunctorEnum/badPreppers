@@ -38,7 +38,7 @@ The fish market was in a strip center between a nail salon and a store that sold
 
 "Friday," John agreed, bending to look into the case.
 
-The salmon steaks were beautiful. They had been cut that afternoon, each one more than an inch thick, the flesh a pale bright coral, and in the center of each one the white bone radiated out like the spokes of a wheel. There were four on the ice. Two of them were enormous.
+The salmon steaks were beautiful. They had been cut that afternoon, each one more than an inch thick, the flesh a pale bright coral, and in the center of each one the white bone radiated out like the spokes of a wheel. There were four on the ice. Two of them were huge.
 
 "Those two," John said, pointing through the glass.
 
@@ -98,7 +98,7 @@ John had stopped eating.
 
 "Who balanced them?" John asked.
 
-Sanda looked at him across the table for a long moment. Miles Davis played a long, slow, lonely phrase into the room and let it fall.
+Sanda looked at him across the table. Miles Davis played a long, slow, lonely phrase into the room and let it fall.
 
 "That's what Carla said," Sanda said quietly, and finished her wine.
 
@@ -124,7 +124,7 @@ The mirror, like Granny, said nothing.
 
 Dorina arrived just after noon in a taxi, as promised, and her gift this time was not food.
 
-She came up the walk in a purple windbreaker zipped to the chin, black slacks, white sneakers, and a white visor over her burgundy hair, and she was holding something rolled up in both hands like a diploma. At the door she unrolled it and held it up to John with enormous pride.
+She came up the walk in a purple windbreaker zipped to the chin, black slacks, white sneakers, and a white visor over her burgundy hair, and she was holding something rolled up in both hands like a diploma. At the door she unrolled it and held it up to John with tremendous pride.
 
 It was a paper target, a black bullseye on white, and it was full of small holes. Most of them were in the black.
 
@@ -152,7 +152,7 @@ For Dorina he brought the old .22.
 
 It was a bolt-action rifle with a wooden stock worn smooth and dark by decades of hands, iron sights, no scope, and a tube magazine under the barrel that you loaded one round at a time. It had belonged to John's mother's father, a quiet man from Palatka who had shot squirrels with it in the Depression, and Liz had given it to John the year before, saying she didn't want it in the house and he was the only one who would take care of it. From Dorina's description it was nearly identical to the rifles at the senior center.
 
-The range on a Saturday afternoon was busier than on Saturday morning. Two men in camouflage were shooting shotguns at the far end, and a father was teaching a teenage son to shoot a pistol on the pistol range, and the range officer, a leathery retired Marine named Odom with a white crew cut and a coffee can of earplugs, came out of the shed to shake Dorina's hand and call her ma'am. John set them up on the fifty-yard line, at the end nearest the woods, where it was quiet.
+The range on a Saturday afternoon was busier than on Saturday morning. Two men in camouflage were shooting shotguns at the far end, and a father was teaching a teenage son to shoot a pistol on the pistol range, and the range officer, a leathery retired Marine named Odom with a white crew cut and a coffee can of earplugs, came out of the shed to shake Dorina's hand and call her ma'am. John set them up on the twenty-five-yard line, at the end nearest the woods, where it was quiet.
 
 And then he stood back, and watched his wife teach her mother to shoot.
 
@@ -168,7 +168,7 @@ Dorina fired ten rounds. Eight of them were in the black. When she was done, she
 
 "Like hawk," Dorina said.
 
-"Like hawk, Mama," Sanda agreed.
+"Like hawk, Mommy," Sanda agreed.
 
 Then Dorina took a seat on the bench in the shade to watch, and John began his own routine with the AR-15, and Sanda stood beside her mother for a minute watching him, and then she said, in a casual voice, as if she were asking him to pass the salt, "Load up a magazine. I want to shoot the AR."
 
@@ -192,7 +192,7 @@ She pushed the selector from safe to fire with her thumb.
 
 He remembered his own first time. Matt's rifle, the long anticipation, the crack, the nudge. He remembered expecting it to break his shoulder. He watched his wife feel what he had felt, the dread and the fascination, and he wanted to put a hand on her back and didn't, because she would have killed him.
 
-The rifle cracked. Downrange, at fifteen yards, a small hole appeared in the paper, just high and right of center.
+The rifle cracked. Downrange, at twenty-five yards, a small hole appeared in the paper, just high and right of center.
 
 She did not lower the rifle. She did not say anything. She breathed, and moved the dot, and fired again, and a second hole appeared less than an inch from the first. She fired a third time. The third hole touched the second.
 
@@ -262,7 +262,7 @@ John drove. He did not understand it. He could see in the set of Sanda's mouth t
 
 "Are you?" Dorina asked from the back seat, opening her eyes. "Hungry?"
 
-"No, Mama."
+"No, Mommy."
 
 "I have cozonac in my bag," Dorina said, and closed her eyes again.
 

@@ -16,7 +16,7 @@ Every window of the Publix was broken. Shopping carts lay on their sides across 
 
 Behind a row of hedges at the far end of the lot, the motor home was still there.
 
-The door had a dent in the middle of it the size of a man's boot. The huge curved windshield, the face of the whale, was smashed in; it hung in the frame in a sagging white web, and glass was everywhere. Jim stood in front of it with his hands at his sides and looked at it for a long time, the way a man looks at a house after a hurricane.
+The door had a dent in the middle of it the size of a man's boot. The huge curved windshield, the face of the whale, was smashed in; it hung in the frame in a sagging white web, and glass was everywhere. Jim stood in front of it with his hands at his sides and looked at it the way a man looks at a house after a hurricane.
 
 "Well," Jim said finally. "They broke out the windshield."
 
@@ -46,9 +46,7 @@ Jim did not ask why. He swung the motor home around the lot, glass sliding off t
 
 The steel box beside the gate still had no cover. The green Halcyon board was still bolted to the back of it, its little light dead. John did not look at the board. He looked below it, at the gate's old motor, the fat gray one that had been there before Halcyon and would be there after, with its two big brass terminals.
 
-"I'm not going to ask the controller," John said. "I'm going to ask the motor."
-
-"You wouldn't happen to have a spool of wire?" John asked his father, half laughing.
+"I'm not going to ask the controller," John said. "I'm going to ask the motor." He looked up at his father, half laughing. "You wouldn't happen to have a spool of wire?"
 
 "No," Jim said, thinking. "But I've got an extension cord. And a pair of scissors."
 
@@ -84,7 +82,7 @@ What each of them considered essential turned out to be a fairly complete portra
 
 John carried out thirty-one guns. The handguns went in a duffel bag; the rifles he stacked in the hallway of the motor home like firewood. He did not carry out any food. Sanda noticed this. She did not say anything. She took a box and filled it with the cans and the jerky and Trevor's rice and beans and the case of canned chicken herself.
 
-Sanda carried out a cardboard box of wine glasses, wrapped one at a time in dish towels — only the Pinot Noir glasses, she said, because they were the most versatile, and she was being practical. She carried out both French presses. She went to the big tree in the corner between the living room and the dining room and stood in front of it for a moment and unhooked the gold glass Marshall Field's clock from its branch, front and center, and wrapped it in a napkin and put it in her jacket pocket, the left one, the one without the gun. Then she turned and looked at John, standing in the doorway with an armful of AKs, for one beat longer than necessary. Then she went back into the kitchen and carried out every pitcher they owned, all thirteen, and the rooster.
+Sanda carried out a cardboard box of wine glasses, wrapped one at a time in dish towels — only the Pinot Noir glasses, she said, because they were the most versatile, and she was being practical. She carried out both French presses. She went to the big tree in the corner between the living room and the dining room and stood in front of it for a moment and unhooked the gold glass Marshall Field's clock from its branch, front and center, and wrapped it in a napkin and put it in her jacket pocket, the left one, the one without the gun. Then she turned and looked at John, standing in the doorway with an armful of AKs, for one beat longer than necessary. Then she went back into the kitchen and carried out every pitcher they owned, all thirteen, the rooster last.
 
 Granny packed her transistor radio and her Sucrets tin of batteries and a cardboard church fan on a wooden stick, with a picture of Jesus in a garden on one side and an advertisement for a funeral home in Jacksonville on the other.
 
@@ -142,7 +140,7 @@ The vehicle mount was still in its box, never opened. Inside was a folded sheet:
 
 Liz lifted the beaded chain over her head and held them out to him. "Bring them back," she said.
 
-He put them on. The words came up off the page like something surfacing in a pond. *Step 1. Locate the mounting surface.* He read all six pages, slowly, one step at a time, the way his grandfather had taught him to read a contract. Then he took his cordless drill — the last charged battery, as far as he knew, in Lake Mary — up the ladder on the back of the motor home and installed the mount beside the hatch. It took twice as long as he expected.
+He put them on. The words came up off the page like something surfacing in a pond. *Step 1. Locate the mounting surface.* He read all six pages, one step at a time, the way his grandfather had taught him to read a contract. Then he took his cordless drill — the last charged battery, as far as he knew, in Lake Mary — up the ladder on the back of the motor home and installed the mount beside the hatch. It took twice as long as he expected.
 
 "Dad. Hand me the Barrett."
 
@@ -250,7 +248,7 @@ John looked up at the sky, which was so full of stars it looked like spilled sal
 
 * * *
 
-On Sunday morning, twenty miles from the dirt road, there was a truck across the highway.
+On Saturday morning, twenty miles from the dirt road, there was a truck across the highway.
 
 It was a two-lane blacktop running straight through planted pine, flat and empty, with the trees close on both sides like the walls of a hallway. The truck was a silver Chevy Silverado, a newer one, crew cab, parked crossways across both lanes. A man was standing in front of it in the road, waving a red plastic gas can over his head with both arms, like a man flagging down a plane. He was skinny, in a camouflage jacket and a camouflage cap, with a scraggly red beard, and even from a quarter mile away John could see him smiling.
 
@@ -324,7 +322,7 @@ Sanda walked toward him down the center line with the red dot on his chest, the 
 
 She stopped.
 
-She stood in the road with the rifle on him, and she knew exactly what she could do, because she had done it, two nights ago, kneeling on a floor with two fingers on a man's neck. She knew how it felt. She knew that she could. That was the thing she had been carrying in her chest since Wednesday night: not that she had done it, but that it had been so easy.
+She stood in the road with the rifle on him, and she knew exactly what she could do, because she had done it, three nights ago, kneeling on a floor with two fingers on a man's neck. She knew how it felt. She knew that she could. That was the thing she had been carrying in her chest since Wednesday night: not that she had done it, but that it had been so easy.
 
 She lowered the rifle.
 

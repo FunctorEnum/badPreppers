@@ -28,7 +28,7 @@ Ruth Ann Delacroix took off her reading glasses and folded them and set them dow
 
 John sat in the empty pod with his earbud in and did not move. Gulf Atlantic Power was a Restore customer. It had been one of the first. He had fixed a bug for them in his second month at Palmetto, something about crews in Pensacola getting assigned to Tallahassee, and a man from their operations center had sent him a fruit basket.
 
-He did not know whether the outage management system she meant was Restore. She had not said. Her lawyers would not have let her. He sat there for a long time wondering, and then he closed the video and opened the queue and approved four pull requests without reading them, because his hands needed something to do.
+He did not know whether the outage management system she meant was Restore. She had not said. Her lawyers would not have let her. He sat there wondering, and then he closed the video and opened the queue and approved four pull requests without reading them, because his hands needed something to do.
 
 The clip that went viral was not that one. The clip that went viral came twenty minutes later, when an elderly senator from the Northeast, who had appeared to be asleep for most of the testimony, woke up, leaned into his microphone, and asked, in a voice of genuine bewilderment, "Ma'am, are we talking about the Wi-Fi?"
 
@@ -42,7 +42,7 @@ At home that night, over a roast chicken, John tried to explain it to Sanda.
 
 "That's the part you remember?"
 
-"That's the part everyone remembers," Sanda said, not unkindly, cutting her chicken. "What else was there?"
+"That's the part everyone remembers," Sanda said, cutting her chicken. "What else was there?"
 
 He told her what else there was. She listened, and nodded, and said "Huh" in two places, and asked whether Restore was one of them, and he said he didn't know, and she said "Well, you'd know, wouldn't you?" and he said he wasn't sure he would, and she looked at him for a moment, and then she asked if he wanted more potatoes.
 
@@ -54,7 +54,7 @@ John had seen it happen before, with other things. He had watched the whole coun
 
 On Saturday morning Sanda went hunting.
 
-This was how she described it, and it was accurate. She would spend the whole day driving from store to store — Home Goods, TJ Maxx, Pier 1 in the outlet mall, a little shop in Winter Park that sold French linens, and Home Goods again in a different town, because every Home Goods had a different soul — in pursuit of a single perfect throw pillow or the exact right lamp shade, and she would come home at dusk exhausted and triumphant with bags in both hands, like a woman returning from the savanna with a gazelle.
+This was how she described it, and it was accurate. She would spend the whole day driving from store to store — Home Goods, TJ Maxx, Kirkland's in the outlet mall, a little shop in Winter Park that sold French linens, and Home Goods again in a different town, because every Home Goods had a different soul — in pursuit of a single perfect throw pillow or the exact right lamp shade, and she would come home at dusk exhausted and triumphant with bags in both hands, like a woman returning from the savanna with a gazelle.
 
 It was the holiday season, and that made it serious. The whole family would be at their apartment for Christmas, and Thanksgiving had set the bar very high, and there were now five artificial Christmas trees in their two-bedroom apartment.
 

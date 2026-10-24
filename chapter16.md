@@ -90,7 +90,7 @@ He pulled a white plastic bucket over and turned it upside down and sat on it in
 
 "The resource list. The guidance." Trevor tapped his temple, as if it were obvious. "The government's been sending it out since Day One. To everybody with a working terminal. Instructions. Updates. You'd know, if you'd been ready." He shrugged with his good shoulder. "You weren't."
 
-John looked at him for a long time over the light. His nose was running blood down over his lip and into his mouth, and he spat it on the concrete.
+John looked at him over the light. His nose was running blood down over his lip and into his mouth, and he spat it on the concrete.
 
 "Trevor," John said. "The government turned off the power. Did you hear the radio? The president. *They* did it. On purpose. They told everybody: don't charge anything, don't connect anything, don't believe any screen that turns on by itself." He spat again. "So who the fuck do you think is sending you guidance?"
 
@@ -130,7 +130,7 @@ Sanda stopped walking. She looked at her mother-in-law. Liz did not look back at
 
 "We can't leave Granny and my mom here alone."
 
-"It's okay, mamma," Dorina said, from the kitchen. "You go get John. You go. We are okay here."
+"It's okay, mamma," Dorina said, from the kitchen, calling her daughter what Romanian mothers call their children. "You go get John. You go. We are okay here."
 
 "Fuck-ass-*balls*!" Sanda shouted.
 
@@ -202,7 +202,7 @@ There was a man standing at the front window with his back to her.
 
 She could see his dark shape against the faint gray of the window. He had a rifle up against his left shoulder, the long one with the big scope, and he was looking through the scope, out into the street, moving it slowly, left to right, right to left, the way a man waters a lawn.
 
-Sanda backed up, very slowly, until she was beside Liz again.
+Sanda backed up, inch by inch, until she was beside Liz again.
 
 "Trevor's at the front window," Sanda whispered. "With his rifle. He's looking out at the street. His back's to us."
 
@@ -290,7 +290,7 @@ Sanda cut him loose with his own knife. She found the Benchmade in his back pock
 
 "Hi," Sanda said.
 
-She stood up and swept her light around the garage, because John had taught her that, too. Bare concrete. A broom. A red hand truck. And on the back wall, the narrow louvered closet door where the water heater would be. The door was open a few inches. There was light coming through the gap, faint and bluish. And there was a sound: a low, steady hum, so quiet you had to stop breathing to hear it.
+She stood up and swept her light around the garage, because John had taught her that, too. Bare concrete. A broom. A red hand truck. On Trevor's workbench, laid out in a row the way he had once laid guns out on glass for a customer, the Sig and Jim's shotgun and John's two Glocks; she handed John the pistols one at a time, and he put them back where they lived. And on the back wall, the narrow louvered closet door where the water heater would be. The door was open a few inches. There was light coming through the gap, faint and bluish. And there was a sound: a low, steady hum, so quiet you had to stop breathing to hear it.
 
 "I thought that was in my ears," John said.
 

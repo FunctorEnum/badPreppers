@@ -40,7 +40,7 @@ He said that the forty-eight-hour shutdown had been completed successfully, that
 
 People threw parties.
 
-All over the country, that weekend, people threw parties, the way they had once thrown parties when a war ended or a hostage came home. Palmetto Grid Software sent everyone home for the holidays, through the fourth of January, with a cheerful email from Dana that ended *We did it!* At the Preserve, on Saturday night, someone set up a Bluetooth speaker on the hood of a car at the end of John's street, and someone else lit a charcoal grill, and a cooler appeared, and by eight o'clock there were forty people standing in the road in the cool air drinking beer under the streetlights, laughing too loudly, the way people laugh when they have been scared and are pretending they weren't.
+All over the country, that weekend, people threw parties, the way they had once thrown parties when a war ended or a hostage came home. Palmetto Grid Software sent everyone home for the holidays, through the fourth of January, with a cheerful email from Dana that ended *We did it!* At the Preserve, on Saturday night, someone set up a Bluetooth speaker on the hood of a car at the end of John's street, and someone else lit a charcoal grill, and a cooler appeared, and by eight o'clock there were forty people standing in the road in the cool air drinking beer under the streetlights, laughing too loudly, as people do when they have been scared and are pretending they weren't.
 
 John and Sanda went out for an hour. Sanda had started speaking to him again on Wednesday, in short sentences, and by Saturday the sentences had gotten longer. Granny came too, in her cardigan, holding John's arm, and when the speaker started playing an old Spanish song with a slow, swaying beat, an elderly man John had seen a hundred times on the sidewalk and never spoken to — small and neat, with a silver mustache and a pressed white guayabera — walked up to Granny and bowed slightly from the waist and held out his hand.
 
@@ -50,7 +50,7 @@ John and Sanda went out for an hour. Sanda had started speaking to him again on 
 
 Across the street, at the edge of the party, the blond woman with the pug stood in her pink tracksuit, smoking, holding the pug in the crook of her arm so it could see. She did not come over to the crowd. She just watched, and smiled, and after a while she went back inside.
 
-Trevor did not come. John looked for him. One street over, on Heron, the lights in Trevor's apartment were on, and stayed on, and from the end of John's street you could just see, over the roofline, the round gray edge of the new dish on Trevor's patio, angled at the southern sky. Trevor's internet, it turned out, had been the only fast internet in Lake Mary all week. It came from space.
+Trevor did not come. John looked for him. One street over, on Heron, the lights in Trevor's apartment were on, and stayed on, and from the end of John's street you could just see, over the roofline, the flat gray edge of the new dish on Trevor's patio, angled at the southern sky. Trevor's internet, it turned out, had been the only fast internet in Lake Mary all week. It came from space.
 
 * * *
 
@@ -180,7 +180,7 @@ Jim and Liz loved lobster more than anything on earth, and Jim could not bear to
 
 "I'm not listening," Jim announced, putting his fingers in his ears. "I am not listening to this."
 
-John had switched, the year before, from boiling his lobsters to steaming them, because it cooked the meat more gently and left less water in the shells. When Jim learned this, at Christmas, he was horrified all over again.
+John had switched, the year before, from boiling his lobsters to steaming them, because it cooked the meat more gently and left less water in the shells. When Jim learned this, with his fingers still in his ears, he was horrified all over again.
 
 "Steamed?" Jim said, taking his fingers out of his ears. "Alive? In the steam? That's worse!"
 
@@ -202,7 +202,7 @@ There was a pause.
 
 "*Jim*," Liz said.
 
-Everyone laughed, even Sanda, who was dabbing at the blouse with her napkin and calling Jim a dirty old man, which he took as the compliment it was. Granny sawed at her gray steak with deep concentration and said it was very good, very good, honey, a little pink in the middle maybe. Dorina had brought a jar of gogonele, little green tomatoes pickled in garlic and dill the way her mother had made them in Bucharest, and she set it on the table and opened it and the smell came out — John caught it, faintly — and she made everyone take one, even Granny, who examined hers for a long time before putting it in her napkin when she thought no one was looking.
+Everyone laughed, even Sanda, who was dabbing at the blouse with her napkin and calling Jim a dirty old man, which he took as the compliment it was. Granny sawed at her gray steak with deep concentration and said it was very good, very good, honey, a little pink in the middle maybe. Dorina had brought a jar of gogonele, little green tomatoes pickled in garlic and dill the way her mother had made them in Bucharest, and she set it on the table and opened it, and a smell came out that made Jim lean back in his chair — John took it on faith — and she made everyone take one, even Granny, who examined hers at length before putting it in her napkin when she thought no one was looking.
 
 All seven trees were lit. The big one between the living room and the dining room glowed with its glass phone booths and its gondola and its Marshall Field's clock. Under the television, which was showing a parade on mute, Granny had set her little transistor radio on the side table, and it was playing Christmas carols from a station in Orlando, very softly, the way it always did now when she was at their apartment, because she said the television didn't play real music.
 
@@ -302,7 +302,7 @@ On Thursday night, the seventh, at twelve minutes past nine, an email arrived fr
 
 John read it twice.
 
-*Every change merged this quarter.* Eleven hundred and six. He did the arithmetic the way he always did, without wanting to. Eleven hundred pull requests. Maybe twenty people, if they all came back. Reading every line on paper, the way Priya would, the way his grandfather had read a contract. Two weeks, if nobody slept. Maybe three.
+*Every change merged this quarter.* Eleven hundred and six. He did the arithmetic the way he always did, without wanting to. Eleven hundred pull requests. Maybe twenty people, if they all came back. Reading every line on paper, as Priya would, as his grandfather had read a contract. Two weeks, if nobody slept. Maybe three.
 
 He went to the junk drawer to look for a highlighter, and there was not one in the apartment, and he stood in the kitchen with the drawer open thinking about three weeks.
 

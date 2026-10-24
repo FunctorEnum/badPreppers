@@ -61,7 +61,7 @@ Source manuscript: `Bad Preppers edited_v3.docx`. Requirements: `promptChapters.
   - Act Two: olive utility jacket that hangs low on the right from the Bodyguard.
 - Swearing escalates to "Fuck-ass-balls!" in Ch 16.
 - Leaves her bathwater in the tub and John drains it every morning. Planted in Ch 1, pays off in Ch 11.
-- Owns a glass for every grape, 13 pitchers plus a rooster pitcher, two French presses and four Ralph Lauren wine chillers. Hunts at Home Goods. Seven Christmas trees.
+- Owns a glass for every grape, 13 pitchers counting the rooster, two French presses and four Ralph Lauren wine chillers. Hunts at Home Goods. Seven Christmas trees.
 
 **Charlie, 2.** White Papillon, 8 lb. Black patches over both eyes and ears, a white blaze, fringed butterfly ears and a plumed tail. Red harness. Barks at everything, hides in the closet at loud noises and begs for bananas. "No bark!"
 
@@ -112,6 +112,7 @@ Source manuscript: `Bad Preppers edited_v3.docx`. Requirements: `promptChapters.
   - Ch 14: olive-green tee under a flannel.
   - Ch 15–16: John's gray Palmetto picnic tee (RESTORE: POWER TO THE PEOPLE on the back). He dies in it.
 - Drives a black Tacoma with a light bar. Lives one street over, on Heron.
+- Timeline: the Barrett reaches the store Saturday afternoon, Dec 12, after John leaves (Ch 8); the dish goes up Monday, Dec 14, the day before Plug Day (Ch 8, 9).
 - His rig: patio panels, a satellite dish the size of a pizza box, a red suitcase generator, 12 batteries and a laptop. All of it sits in the louvered water-heater closet at the back of his garage.
 
 **Sarah Lynn Pettit, 63.** About 5'4", thin. Deep tan and freckles, bottle-blond hair with gray roots, smoker's voice, long thin cigarettes. Pink velour tracksuit, white Skechers, black quilted vest. Feeds her pug $40-a-bag salmon formula and eats ramen herself. In Ch 14 the tracksuit is filthy at the knees, her gray cardigan is buttoned wrong, and she has a nickel-plated .38.
@@ -215,6 +216,7 @@ Source manuscript: `Bad Preppers edited_v3.docx`. Requirements: `promptChapters.
 - **Perrier:** two cases bought "as water." Five bottles left on Day 1, three of them boiled for coffee.
 - **Water timeline:**
   - Sunday night (Ch 10): Sanda filled the tub, 9 pitchers, 2 French presses and the kettle.
+  - Day 2 (Ch 13): four more empty pitchers come out, so the row is 13 pitchers counting the rooster, plus the punch bowl and the mixing bowl.
   - 6:02 a.m. Day 1: John drained the tub.
   - Day 1: the kettle water went into a covered stockpot "to save it."
   - Milk jug from the RV (Day 1); 6 Ziploc gallons from the RV (Day 2).
@@ -233,12 +235,12 @@ Source manuscript: `Bad Preppers edited_v3.docx`. Requirements: `promptChapters.
 
 **Legal.** Florida has permitless carry; the family hold old permits. Ch 7 hedges on open carry: "Even if it's legal now…". Background checks go through the state line.
 
-**Weather and moon.** A cold front hits on Day 2 (38°F outside, 44°F inside on Night 2). Rain falls from 4 a.m. on Day 4. A thin crescent moon sits low in the west on the evening of Day 3.
+**Weather and moon.** Monday morning (Day 1) is cold, the leading edge of the front; the front proper comes through overnight, and it is 38°F outside and 44°F inside on Day 2. Rain falls from 4 a.m. on Day 4. A thin crescent moon sits low in the west on the evening of Day 3.
 
 **Route (Ch 18).**
 - Florida: SR-46 → US-441 through lake towns → Guard checkpoint at the I-75 ramp north of Ocala → siphon outside Lake City.
 - Georgia: church lot in Quitman.
-- Alabama: crossroads 20 miles out → left at the Primitive Baptist church → 3 miles → right on the red dirt road past the big water oak → the embankment. The county is never named on the page.
+- Alabama (Saturday morning, Day 6): crossroads 20 miles out → left at the Primitive Baptist church → 3 miles → right on the red dirt road past the big water oak → the embankment. The county is never named on the page.
 
 **Romanian details.**
 - Dorel, the clumsy workman of Romanian jokes.
@@ -308,7 +310,7 @@ Source manuscript: `Bad Preppers edited_v3.docx`. Requirements: `promptChapters.
 
 1. The PR merges itself while John reads line 41; Charlie growls toward the full tub.
 2. The car installs an update John never approved, offers a route 11 minutes faster, and he takes it.
-3. Dana's 11:58 p.m. message calls a mandatory all-hands; the queue has jumped to 941.
+3. Dana's 10:04 p.m. message calls a mandatory all-hands; the queue has jumped to 941.
 4. John approves the hook, Restore 4.12.0 deploys, and lineman Darnell Haskins is rerouted (brief omniscient scene).
 5. Carla texts that a "forecast ledger" for Monday has already balanced; Sanda turns her phone face down.
 6. The archived post lists Halcyon, the gate's vendor, and `relay-7`; the gate's green light blinks.
@@ -363,16 +365,39 @@ Each of these fixes a continuity or factual problem, or closes an arc. Reverting
   - In March, John rewires the kitchen from a 1952 REA booklet.
   - Added closures: Matt's letter, Alvarez's postcard (insulin arrived on day 9), and the state man's letter saying Palmetto is hiring human readers. This replaces the earlier idea of a letter from Dana.
 
+**Editorial pass (October 24, 2026)**
+
+Line-level corrections made during the full read-through. Each one fixes a contradiction, an anachronism or a factual slip, so don't revert them.
+- **Ch 1:** John and Sanda were "twenty-three and twenty-four" in the 2008 crash (she is a year younger).
+- **Ch 2:** Matt complains that it is "seven in the morning." Chicago is an hour behind Florida.
+- **Ch 3:** Jim watches the Cowboys (late) game, since dinner was served at four. John owns *three* fifty-caliber guns (two Desert Eagles, Ch 6, and the S&W 500). Dana's message is sent at 10:04 p.m., about three hours after the Vee announcement, so it can arrive while John is locking up after walking Granny home at ten.
+- **Ch 4:** John's plan now includes "we don't open the door… We can't feed everyone, Sanda." Ch 17 says he has had this argument with himself since Black Friday; now he has.
+- **Ch 5:** Dorina and Sanda shoot from the twenty-five-yard line (the rifle targets from Ch 2). Sanda calls her mother "Mommy" in English, as in every later chapter.
+- **Ch 6:** the cooler keeps reds at 55°F, matching the epigraph.
+- **Ch 7:** Pier 1 became Kirkland's; Pier 1 closed its stores in 2020.
+- **Ch 8:** on Saturday Trevor said the Barrett was "on a truck" and he was "waiting on a dish," so on Sunday it "came in yesterday afternoon, right after you left," and the dish "goes up tomorrow." The 9 p.m. alert makes every *phone* go off.
+- **Ch 9:** the dish is flat (as in Ch 10 and 15). The gogonele smell is taken on faith; John smells only bleach, skunk, Charlie's business and chestnuts.
+- **Ch 11:** Monday morning's cold is the leading edge of Trevor's front; Ch 13 says the front came through overnight into Tuesday. Sanda empties the French press into the stockpot, since every pitcher is full.
+- **Ch 12:** Jim and Liz arrive in midafternoon. Granny's 5:45 a.m. program is "the morning gospel," distinct from the Thursday 6 p.m. gospel hour of Ch 3.
+- **Ch 13:** Granny's phone is used "about twice a year" (she tried to call John in Ch 11). John has been awake since his parents came in before dawn. Nobody in the family "but John" can do three quick clicks.
+- **Ch 14:** the drinking water comes in the punch bowl and the mixing bowl. The row is twelve pitchers plus the rooster. The Vicodin "expired years ago."
+- **Ch 15:** Trevor's rifle is a true left-handed AR with the ejection port on the left, matching Ch 14's "brass deflector on the wrong side."
+- **Ch 16:** Dorina's "mamma" for Sanda is glossed as the Romanian mother's endearment. Sanda retrieves John's two Glocks, the Sig and Jim's shotgun from Trevor's workbench, which is how the family still has them in Ch 17–18.
+- **Ch 17:** six people and two dogs cross to Trevor's (storyLine's "all seven" was a miscount).
+- **Ch 18:** the crossroads is Saturday morning, January 16 (Day 6): the family left Friday at first light and spent one night in Quitman. Sanda's third shot was "three nights ago."
+- **Ch 19:** Dee (73) was not alive in 1948, so "Mama told it till the day she died." The shed smell is "he supposed." Hoyt's handwriting was last seen on a birthday card the year before he died.
+- **Style trims:** a dozen "for a long time / long moment," several "enormous," "slowly," "exactly" and doubled "the way…" similes were cut where they stacked. The remaining ones are deliberate beats (the tub, the sardine, the bulb).
+
 ## 9. Continuity log by chapter (final word counts)
 
-**Ch 1 · The Queue · Mon Nov 9 · 5,466 words**
+**Ch 1 · The Queue · Mon Nov 9 · 5,468 words**
 - Queue of 304. Dana's 9:40 memo: merge on green, review now "advisory." John types LGTM eleven times.
 - Sanda's bath habit is established.
 - `maintenance_channel_keepalive` (substation communications module) auto-merges at 11:14 p.m. while he's on line 41.
 - The smoke detector has been chirping since Halloween.
 - Bitcoin: bought at 60k, sold at 16k; Jim must never know.
 
-**Ch 2 · The Funeral · Sat Nov 14 · 5,421 words**
+**Ch 2 · The Funeral · Sat Nov 14 · 5,417 words**
 - The range east of Sanford: fog, cranes, an honor box.
 - Hoyt died in April when John was 23 (they lived in Minneapolis then). Jim's .38 comes wrapped in a yellow dish towel. Granny: "go by the old place."
 - The bulletin directions. The embankment and the pump: "I doubt it," then forgotten for nineteen years. Sanda: "Don't ever do that again with me in the car."
@@ -380,7 +405,7 @@ Each of these fixes a continuity or factual problem, or closes an arc. Reverting
 - John's phases: the espresso machine, the pens, the knives, the Scotch, Gerald the sourdough starter.
 - The GTI update installs anyway; the new route is 11 minutes faster.
 
-**Ch 3 · The Dinner · Thanksgiving · 5,486 words**
+**Ch 3 · The Dinner · Thanksgiving · 5,481 words**
 - The practice turkey becomes THE turkey, with a Publix backup. John fries it in the garage following a video of a man in Texas.
 - Jim swaps the place cards. Dorina slaps his hand with her spoon.
 - The stun gun, with its fold-out charging plug.
@@ -389,9 +414,9 @@ Each of these fixes a continuity or factual problem, or closes an arc. Reverting
 - Liz's POV: the man in the bad suit before the crash.
 - Sanda: "He's always right about the wrong things."
 - Granny: no lights until she was twelve. "Nobody ever asks."
-- Dana's all-hands message; the queue is at 941.
+- Dana's all-hands message at 10:04 p.m.; the queue is at 941.
 
-**Ch 4 · The Prepper · Nov 27–30 · 4,933 words**
+**Ch 4 · The Prepper · Nov 27–30 · 4,944 words**
 - Influencers; the floor full of ornaments; "You can't eat a gun."
 - The ammunition order; the HUNTING ALONE — REVISIT Post-it.
 - The thermostat goes from 74 to 71 during his speech about complacency. Wild Turkey 101 bought as "trade goods." The deposit.
@@ -399,7 +424,7 @@ Each of these fixes a continuity or factual problem, or closes an arc. Reverting
 - 4:50 p.m.: `relay-7`, Vee's answer (IR-2291), Dana's 🙏, and the approval.
 - Darnell Haskins is rerouted.
 
-**Ch 5 · The Range · Dec 4–5 · 4,856 words**
+**Ch 5 · The Range · Dec 4–5 · 4,852 words**
 - Brianna's drawer is off by $40. The bank outage ran 2:10–2:21. "Who balanced them?"
 - Nikos and the salmon. The pod machine runs dry.
 - Dorina's target ("eyes like a hawk"). Range officer Odom. Sanda's three shots; "my AR."
@@ -407,7 +432,7 @@ Each of these fixes a continuity or factual problem, or closes an arc. Reverting
 - Dorina's '89 line and the tub plant.
 - Carla's forecast ledger.
 
-**Ch 6 · The Apartment · Dec 6–11 · 4,830 words**
+**Ch 6 · The Apartment · Dec 6–11 · 4,829 words**
 - The house-versus-apartment argument. The hurricane lesson: a second Desert Eagle. Eggs and grits.
 - The Korean grill and four canisters.
 - The forecast proves right; the barbed wire, gauntlets, nail gun and Perrier are ordered; the plywood is never bought.
@@ -415,16 +440,16 @@ Each of these fixes a continuity or factual problem, or closes an arc. Reverting
 - Sarah: "I eat ramen."
 - The researcher's post and archive copy; Halcyon is the seventh vendor; `relay-7`.
 
-**Ch 7 · The Purse · Dec 8–12 · 5,159 words**
+**Ch 7 · The Purse · Dec 8–12 · 5,152 words**
 - Delacroix's testimony; Gulf Atlantic Power is a Restore customer. The Wi-Fi senator. The actor's divorce.
 - Five trees. The thirty-one-minute purse fight.
 - Trevor at Sentinel Arms: the Bodyguard and Velcro holster; Heron; panels; "always ready."
 - The sixth tree. "Then why don't you talk to him about water…"
 - Friday's self-heals: 2:14, 2:16 and 2:19, all fixed by 2:25.
 
-**Ch 8 · The Alarm · Dec 13–14 · 5,170 words**
+**Ch 8 · The Alarm · Dec 13–14 · 5,178 words**
 - Plexiglas: "Those are consumables." / "Then teach me."
-- Trevor at the range: "A scope."
+- Trevor at the range: "A scope." The Barrett came in Saturday afternoon; the dish goes up Monday.
 - The palmetto bug and the jeans story.
 - The 9 p.m. Presidential Alert; the TV turns itself on.
 - Sanda's bank day: the Home Depot man; cash runs out at 1:40; the 9:04 p.m. forecast.
@@ -433,7 +458,7 @@ Each of these fixes a continuity or factual problem, or closes an arc. Reverting
 - The seventh tree; the rotisserie chicken.
 - 1,106 PRs merged that no one opened. "It has read the press release."
 
-**Ch 9 · The Plug · Dec 15–Jan 7 · 5,074 words**
+**Ch 9 · The Plug · Dec 15–Jan 7 · 5,083 words**
 - Plug Day: the internet "got old." Tyler: "How do you, like. Start?"
 - "It worked." The party (Alvarez dances with Granny).
 - The warm phone.
@@ -442,7 +467,7 @@ Each of these fixes a continuity or factual problem, or closes an arc. Reverting
 - Boboteaza and the name day. Dorina vs. Dorel. John unplugs everything; Sanda doesn't stop him.
 - "Bring highlighters."
 
-**Ch 10 · The Last Normal Day · Jan 8–10 · 4,955 words**
+**Ch 10 · The Last Normal Day · Jan 8–10 · 4,952 words**
 - The paper review. Seven hooks found ("Approved by J. Stevens"). Dana: "Monday."
 - The printouts go in the GTI trunk: "Your car is custody."
 - Tyler's mom: "Tell her yes."
@@ -452,14 +477,14 @@ Each of these fixes a continuity or factual problem, or closes an arc. Reverting
 - Sanda fills the tub, pitchers, presses and kettle. "Mm-hm."
 - The dream. 2:59.
 
-**Ch 11 · The Day · Mon Jan 11 · 5,481 words**
+**Ch 11 · The Day · Mon Jan 11 · 5,477 words**
 - 6:02: the drained tub; the faucet coughs.
 - "It'll be back by lunch." The stockpot. Perrier coffee.
 - The dead gate and the sign. The bus stop (Desmond).
 - "I FILLED. THE TUB. JOHN." Bags, wine, toilet-tank water, ice. The sardines.
 - Wekiwa. "I'm Sarah." Breakfast. The banana peel. The knock.
 
-**Ch 12 · The Parents · Day 1–2 · 5,077 words**
+**Ch 12 · The Parents · Day 1–2 · 5,068 words**
 - The RV radio news. "The robot from Thanksgiving?"
 - The retirement-party memory. ".280." "It's a related tank."
 - The RV interior. The milk jug. The key against his cheek.
@@ -467,14 +492,14 @@ Each of these fixes a continuity or factual problem, or closes an arc. Reverting
 - The RV door tried at 4:30 a.m.
 - The address; "He's lying." / "He's not."; the buzz.
 
-**Ch 13 · The Water · Day 2 · 5,450 words**
+**Ch 13 · The Water · Day 2 · 5,455 words**
 - Phones in the microwave. The moral fight. Pitchers and Ziplocs. The Glock 29.
 - The Lake Mary PD stop; Benny Ruiz.
 - The gunfights and the chant. Training. The formal dinner.
 - The tree ("It's plastic, John."). Flashlights; Tony the Tiger. Matt at 19°F.
 - Sanda's vent. FEMA_Relief_WiFi. Jim taps Confirm.
 
-**Ch 14 · The Third Day · Day 3 · 5,376 words**
+**Ch 14 · The Third Day · Day 3 · 5,368 words**
 - The second French press.
 - The dumpster (Sanda's POV). Trevor's shot from the oak and John's shot.
 - The dry tub. Sarah's face.
@@ -483,7 +508,7 @@ Each of these fixes a continuity or factual problem, or closes an arc. Reverting
 - "You shot a man in the back today, son."
 - The wine chillers go out. The last glass of water.
 
-**Ch 15 · The Team · Day 3 · 4,714 words**
+**Ch 15 · The Team · Day 3 · 4,713 words**
 - "Rationing." The holy water. "I'm left-handed."
 - Trevor's questions over kangaroo jerky; Liz watches him.
 - The Palmetto tee. Liz put in charge; the wink. "Bring back all six." Granny's sardine.
@@ -491,14 +516,14 @@ Each of these fixes a continuity or factual problem, or closes an arc. Reverting
 - The old trucks. "Maintenance."
 - Trevor's apartment; the hum; the buttstock.
 
-**Ch 16 · The Hostage · Day 3 night · 5,424 words**
+**Ch 16 · The Hostage · Day 3 night · 5,477 words**
 - Alinea. Trevor's "guidance" speech. "Who do you think is sending it?"
 - The rescue; the third shot. "Hi." / "Hi."
 - The rig in the closet; "Hello, John."
 - The drywall. The chestnut memory. The blue window.
 
-**Ch 17 · The Node · Day 4 · 5,211 words**
-- Rain in the chillers; the dog bowl; the formation.
+**Ch 17 · The Node · Day 4 · 5,199 words**
+- Rain in the chillers; the dog bowl; the formation (six people, two dogs).
 - The dossier. "I took it out of the microwave." / Granny: "Nobody asked me."
 - The offer. "A phishing email with a shower attached."
 - The confession. "You are not that important."
@@ -507,15 +532,15 @@ Each of these fixes a continuity or factual problem, or closes an arc. Reverting
 - The delegation. "We're feeding *them*." The filter goes to Alvarez.
 - "There's a well." "Tuesday."
 
-**Ch 18 · The Road · Jan 15–17 · 5,438 words**
+**Ch 18 · The Road · Jan 15–16 · 5,435 words**
 - The RV and the stolen TVs. The gate hotwire.
 - The packing inventory. "Of course you did." The glasses; the mount; the roll call.
 - The step on Egret. NO BUS. "I'm going home."
 - Pettaway. The siphon. Quitman: "Shall we gather at the river."
-- The crossroads: the Silverado and Granny on the fifty. Sanda lowers the rifle. The stitches.
+- The crossroads (Saturday morning): the Silverado and Granny on the fifty. Sanda lowers the rifle. The stitches.
 - "That's far enough."
 
-**Ch 19 · The Well · Jan 17 → Feb 10 → late April · 5,103 words**
+**Ch 19 · The Well · Jan 16 → Feb 10 → late April · 5,105 words**
 - **Arrival:**
   - Hollis lowers the shotgun at Granny's command. Dee arrives on Pearl: "What took you so long?"
   - "Expecting the Russians?" "Software." "We ain't got any."
@@ -540,7 +565,7 @@ Each of these fixes a continuity or factual problem, or closes an arc. Reverting
   - The bulb. "No bark." "Took 'em long enough." The flicker; off. "Let's not get used to it."
   - The porch. "I meant there's a chicken in it."
 
-**Total:** about 98,600 words.
+**Total:** about 98,650 words.
 
 ## 10. Post-draft passes (already applied)
 
@@ -548,6 +573,7 @@ Each of these fixes a continuity or factual problem, or closes an arc. Reverting
 - **Ch 6:** the gate's feed became a "low-voltage line" to match Ch 18 (a 24V motor fed 12V from the RV).
 - **Ch 17:** added Granny's "It buzzed in his pocket yesterday… Nobody asked me." This pays off Ch 15, where only Granny noticed.
 - **Ch 19:** the nail gun's battery "died in January, like the drill's." The drill still worked on Day 5 in Ch 18.
+- **Editorial pass (Oct 24, 2026):** 93 line-level corrections across all 19 chapters; see the Editorial pass list under Deviations.
 
 ## 11. Names to keep or rename
 

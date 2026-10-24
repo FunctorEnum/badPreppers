@@ -46,7 +46,7 @@ He did not say anything. He stood there for a while. Then he turned off the fauc
 
 He put on his cargo shorts and a gray t-shirt in the dark and slid the Glock 43 into his right front pocket, and he went to the front door and looked through the peephole and could not see anything. He stepped into his sandals and went outside.
 
-The streetlights were out. All of them. The whole street was pitch black, darker than he had ever seen it, and the air was cold — properly cold, the front Trevor had talked about coming through early — and he could see his breath. He had left the flashlight on the dresser. He went back in, got it, came out again, and stood on his front walk in the dark, and then, after a moment, he turned the flashlight off, to let his eyes adjust.
+The streetlights were out. All of them. The whole street was pitch black, darker than he had ever seen it, and the air was cold — colder than it had been all week, the leading edge of the front Trevor had talked about — and he could see his breath. He had left the flashlight on the dresser. He went back in, got it, came out again, and stood on his front walk in the dark, and then, after a moment, he turned the flashlight off, to let his eyes adjust.
 
 Over the rooftops to the east the sky had gone a deep, bruised purple. There were stars in the rest of it, more than he had ever seen over the Preserve; the glow from the Publix lot and the interstate was gone. Somewhere far off, a single siren was going, rising and falling.
 
@@ -84,7 +84,7 @@ He did not say anything about the water.
 
 * * *
 
-In the kitchen, the flashlight showed him the nine pitchers in their row along the back of the counter, glass and ceramic and steel and the rooster at the end, all of them full to the top, and the two French presses full, and the kettle full, exactly where she had left them. He stood looking at them for a long time.
+In the kitchen, the flashlight showed him the nine pitchers in their row along the back of the counter, glass and ceramic and steel and the rooster at the end, all of them full to the top, and the two French presses full, and the kettle full, where she had left them. He stood looking at them for a long time.
 
 Sanda came shuffling in behind him in her robe, rubbing her eyes, and picked up the kettle.
 
@@ -110,7 +110,7 @@ He poured the tap water from the kettle into a stockpot, carefully, so as not to
 
 It took three bottles. He brought the Korean grill in from the garage with one of the little green propane canisters and twisted the canister in until it locked with a loud click, and Charlie, who had come to watch, fled back to the bedroom. John found the long lighter in the drawer, turned the gas knob, heard the hiss, smelled nothing, and clicked the lighter. With a soft *whoomp*, a ring of blue flame lit up the whole dark kitchen. He turned it down by half and set the kettle on the iron dome.
 
-The Perrier started fizzing almost at once. Then it began to pop and crackle and spit, like a pan of bacon, and little bursts of foam jumped out of the open top of the kettle and sizzled on the dome. He turned the flame down further. After a few minutes the popping settled into something that sounded more or less like ordinary boiling. Sanda dropped four scoops of ground coffee into the old French press, which she had emptied into a pitcher first without being told, and John poured the boiling Perrier over the grounds and stirred it with a long spoon and set a timer on the stove for four minutes, which did not work, because the stove was electric. He set it on his watch instead.
+The Perrier started fizzing almost at once. Then it began to pop and crackle and spit, like a pan of bacon, and little bursts of foam jumped out of the open top of the kettle and sizzled on the dome. He turned the flame down further. After a few minutes the popping settled into something that sounded more or less like ordinary boiling. Sanda dropped four scoops of ground coffee into the old French press, which she had emptied into the stockpot first without being told, and John poured the boiling Perrier over the grounds and stirred it with a long spoon and set a timer on the stove for four minutes, which did not work, because the stove was electric. He set it on his watch instead.
 
 They stood in the kitchen in the blue light of the grill and looked at each other, and without a word, each of them knew the other was thinking how ridiculous this was.
 
@@ -144,7 +144,7 @@ Sanda gave her mother three packets of sweetener and two little cups of creamer 
 
 "So," John said, and they both looked at him. The sun was starting to come up now, and gray light was coming in through the blinds. "I think we've got a big outage. I'm not trying to panic anybody. But the water's out too, and the cell phones, and it wasn't a storm. I've been outside twice. The ground's dry. It didn't even rain."
 
-Sanda and Dorina looked at him and did not say anything.
+Sanda and Dorina looked at him.
 
 Someone knocked on the front door. Charlie came out of the bedroom like a missile, barking, and John put his right hand flat on the pocket of his shorts, over the Glock, and went to the peephole.
 
@@ -284,7 +284,7 @@ Nobody moved. Granny's hand stopped in the middle of stroking Charlie. Dorina tu
 
 "I did say mm-hm," John said.
 
-She looked at him for a long moment. Then she let out a breath, and he watched her take the whole thing — all of it, the tub, the night before, twenty years of draining her bathwater — and fold it up, very small, and put it away somewhere, because there was no water to waste on it.
+She looked at him. Then she let out a breath, and he watched her take the whole thing — all of it, the tub, the night before, twenty years of draining her bathwater — and fold it up, very small, and put it away somewhere, because there was no water to waste on it.
 
 "So what do we do," Sanda said, "about the toilet?"
 
