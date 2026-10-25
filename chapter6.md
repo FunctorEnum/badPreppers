@@ -44,7 +44,7 @@ Sanda thought about it carefully. She drank some coffee. She looked at him.
 
 "I think we should own our own house," Sanda said.
 
-"Think about this, though," John said, pressing on. "Remember the hurricane? Our first fall back? Four days without power. That was one storm, in one part of one state. Now imagine that everywhere, at once, and nobody coming to fix it. The first few weeks would be the worst. Panic. Looting. Guys in trucks going house to house. And you've got some big house in the country with windows on every side and three doors and a garage. How do you defend that? You'd need an army. Inside and outside. There is no way we could do it." He started counting on his fingers. "Your mom just learned to shoot a .22 rifle, which is a squirrel gun. My dad hates guns and admits he's a terrible shot. My mom — Dad says she's a good shot, but I have never once seen her hold a gun, and I've known her my whole life. And you just shot an AR for the first time yesterday. You don't know how to load your own magazines. You don't know how to clear a jam. You've never field-stripped it."
+"Think about this, though," John said, pressing on. "Remember the hurricane? Our first fall back? Four days without power. That was one storm, in one part of one state. Now imagine that everywhere, at once, and nobody coming to fix it. The first few weeks would be the worst. Panic. Looting. Guys in trucks going house to house. And you've got some big house in the country with windows on every side and three doors and a garage. How do you defend that? You'd need an army. Inside and outside. There is no way we could do it." He started counting on his fingers. "Your mom just learned to shoot a twenty-two rifle, which is a squirrel gun. My dad hates guns and admits he's a terrible shot. My mom — Dad says she's a good shot, but I have never once seen her hold a gun, and I've known her my whole life. And you just shot an AR for the first time yesterday. You don't know how to load your own magazines. You don't know how to clear a jam. You've never field-stripped it."
 
 "What's field-stripped?"
 
@@ -74,7 +74,7 @@ That was how most of their arguments ended. A little back and forth, and then Sa
 
 Breakfast was eggs and grits. It had been eggs and grits on weekends ever since they moved back, as a way of reminding themselves where they were; in Chicago, grits were either a novelty on a brunch menu or something a coworker made a face about. Sanda had figured out how to fry an egg sunny-side up without breaking the yolk or browning the edges, which John considered a form of witchcraft, and she slid two of them onto a bed of creamy, buttery grits that had simmered for forty minutes, because they were never, ever instant.
 
-"No self-respecting Southerner," John said, picking up his fork, "uses instant grits."
+"No self-respecting Southerner," John said, picking up his fork and quoting the line from *My Cousin Vinny*, "uses instant grits."
 
 "You're not a self-respecting Southerner," Sanda said, sitting down across from him. "You lived in Chicago for twelve years and you put ketchup on a hot dog."
 
@@ -102,9 +102,7 @@ The next afternoon she stopped at the Korean grocery on her way home from the ba
 
 "It's not an appliance," Sanda said. "It's an experience."
 
-He did not think they needed it. He thought that until Friday night, when she lit it on the kitchen counter for the first time and he stood beside it with a glass of wine in his hand watching the blue ring of flame under the black iron dome, and it occurred to him, slowly, the way things sometimes occurred to him, that this little thing did not need a wall outlet. It did not need the power company at all. If the power ever went out — they did live in hurricane country now, after all — they could still cook on it. They could boil water on it. People out in the country had generators that could run a whole house for weeks after a storm. Apartment people had nothing. And now, at least, they had this.
-
-He felt, for a moment, very prepared.
+He did not think they needed it.
 
 * * *
 
@@ -206,7 +204,11 @@ John looked around the apartment. Everything he could see — the lock, the door
 
 * * *
 
-On Friday evening, after the Korean barbecue, he took Charlie out for his last walk, and across the street, in front of the third apartment down, there was a pug.
+On Friday night Sanda lit the grill on the kitchen counter for the first time, and John stood beside it with a glass of wine in his hand watching the blue ring of flame under the black iron dome, and it occurred to him, slowly, the way things sometimes occurred to him, that this little thing did not need a wall outlet. It did not need the power company at all. If the power ever went out — they did live in hurricane country now, after all — they could still cook on it. They could boil water on it. People out in the country had generators that could run a whole house for weeks after a storm. Apartment people had nothing. And now, at least, they had this.
+
+He felt, for a moment, very prepared.
+
+After the Korean barbecue, he took Charlie out for his last walk, and across the street, in front of the third apartment down, there was a pug.
 
 It was a female, small and fawn-colored, with a black mask over her flat face and a tail curled up over her back in a tight, perfect cinnamon roll, and enormous dark eyes that bulged a little, so that she looked permanently astonished by the world. She snorted when she breathed. When she saw Charlie she lost her mind entirely, and so did he, and the two of them hit the ends of their leashes at the same instant and began to wag so hard their whole bodies bent.
 

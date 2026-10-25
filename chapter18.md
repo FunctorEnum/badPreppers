@@ -98,13 +98,7 @@ Jim packed his phone charger.
 
 The ammunition was a problem. There was more of it than there was of anything else, in heavy steel cans and cardboard cases, and John stood in the bedroom looking at it and doing arithmetic.
 
-"Dad," John said. "This is a long shot. You don't have a hand cart in the motor home?"
-
-"Nope. Got one at home." Jim scratched his head under his cap. "There was one in that fella's garage, though. Red one."
-
-"I'll get it," John said. "From Shithole's apartment."
-
-He jogged over to Heron in the sun. Through the jagged hole of Trevor's front window he could see the shape under the gray throw blanket. The apartment smelled of death — he could smell it; he wished he couldn't — and he took the red hand cart from the garage and got out as fast as he had ever gotten out of anywhere.
+Then he remembered the hand cart. It was standing by the front door where they had left it the day before, Trevor's red hand cart. He looked at it for a second longer than he needed to. Then he went and got it.
 
 It took ten trips. John loaded the ammunition on the cart at the apartment door and rolled it to the motor home, and his father stood in the doorway and took each box from him and set it somewhere in the motor home, and then moved it, and then moved it again, trying to keep the weight even side to side, like a man packing the car for a trip to the beach and worrying about the tires.
 
@@ -146,13 +140,13 @@ He put them on. The words came up off the page like something surfacing in a pon
 
 Jim grunted as he fed the thirty-pound rifle up through the hatch, and John settled it into the mount and locked it in. It sat on the roof above the shattered windshield like a figurehead on the prow of a ship.
 
-He loaded the ten .50 BMG cartridges he had bought for educational purposes into one of the big steel magazines, and screwed a small step ladder to the floor under the hatch, and climbed it. Standing on the top step, the top half of his body was out on the roof. He leaned to his right. His hands fell on the rifle exactly where they needed to be. He checked the safety. He seated the magazine. He pulled back the charging handle and let it go, and it slammed home.
+He loaded the ten rounds of fifty BMG he had bought for educational purposes into one of the big steel magazines, and screwed a small step ladder to the floor under the hatch, and climbed it. Standing on the top step, the top half of his body was out on the roof. He leaned to his right. His hands fell on the rifle exactly where they needed to be. He checked the safety. He seated the magazine. He pulled back the charging handle and let it go, and it slammed home.
 
 "Barrett is ready to go," John called down through the hatch. "Chambered. Safety on."
 
 He climbed down and stood in the aisle and looked at his family.
 
-"Dad. You're driving. You've got the shotgun and the forty." Jim nodded. "Sanda, you've got your AR and the Bodyguard." Sanda nodded. "Mom. Your AR, and my Glock 26." Liz nodded. "Dorina, you've got the twenty-two." Dorina held up the .22 and the stun gun together, like a woman holding up two winning tickets. "I've got the Sig, and the forty-five, and the .308 for distance." He looked at Granny, sitting on the couch with the pug and the radio and the church fan.
+"Dad. You're driving. You've got the shotgun and the forty." Jim nodded. "Sanda, you've got your AR and the Bodyguard." Sanda nodded. "Mom. Your AR, and my Glock 26." Liz nodded. "Dorina, you've got the twenty-two." Dorina held up the twenty-two and the stun gun together, like a woman holding up two winning tickets. "I've got the Sig, and the forty-five, and the three-oh-eight for distance." He looked at Granny, sitting on the couch with the pug and the radio and the church fan.
 
 "Granny," John said. "You've got the radio."
 
@@ -222,7 +216,7 @@ There was an old blue Ford pickup from the nineties dead on the shoulder, nose-d
 
 John fed the hose down into the truck's tank until he felt it hit bottom, and put the gas can on the ground below the tank, and put the end of the hose in his mouth, and sucked.
 
-Nothing happened. He sucked harder, as hard as he had ever sucked on anything in his life, and the gasoline came up the hose all at once like a snake out of a hole and filled his mouth.
+Gasoline came up the hose all at once like a snake out of a hole and filled his mouth.
 
 He spat and coughed and spat on his knees on the shoulder of Interstate 75, while the gas poured out of the hose into the red can exactly the way it was supposed to.
 

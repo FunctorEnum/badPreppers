@@ -56,7 +56,7 @@ She knocked at two o'clock exactly with the side of her fist, three times, the w
 
 "Why wouldn't you want to pass?" Granny asked, genuinely puzzled. "Passing's half the fun."
 
-John's parents came next, at a quarter past two, having driven down from Jacksonville in the Buick and left forty-five minutes late because Jim could not find his reading glasses, which were on his head.
+John's parents came next, at a quarter past two, having driven down from Jacksonville in the Buick and left forty-five minutes late because Jim could not find his bifocals, which were on his head.
 
 Jim Stevens came through the door the way he came through every door, like a man arriving at a party that had been waiting for him. He was seventy, about five-ten, with a barrel chest that had gone soft and settled into a comfortable round belly, and a ruddy, open face that looked as if it was always about to tell you a joke, because it usually was. His white hair was thin and combed straight back with water. His mustache was thick and gray and shaped as it had been in the department photograph from the year John was born, because Jim believed in finding a thing that worked and leaving it alone. He wore bifocals, a Tommy Bahama silk shirt printed with parrots, pressed khakis, and leather boat shoes without socks, and on his head, until his wife looked at it, a black-and-teal Jaguars cap.
 
@@ -84,7 +84,7 @@ Dorina came last, at half past two, in a taxi, because Dorina did not drive on h
 
 She stood four foot nine in her low black shoes and was built square and sturdy, like a woman who had once lifted patients onto stretchers for a living, which she had. Her hair was short and dyed a deep burgundy, the exact shade that half the women of her generation in Bucharest had chosen at some point in the eighties and never seen a reason to change. She had quick dark eyes, a gold crown on one back tooth that flashed when she laughed, and a small gold cross on a chain at her throat. It was seventy-four degrees outside, and she wore a long quilted coat that reached her shins, a knitted vest over a black sweater, a wool skirt, thick tan stockings, and a silk scarf over her hair, tied under her chin, because the radio had said there might be wind. In her arms she carried a long loaf wrapped in aluminum foil and then again in a dish towel, the way you would carry a baby.
 
-"John," Dorina said, holding it up to him on her tiptoes. "Cozonac. I make this morning. Is for later."
+"John," Dorina said in her thick Romanian accent, holding it up to him on her tiptoes. "Cozonac. I make this morning. Is for later."
 
 "Thank you, Mom," John said, taking it. It was still warm. Dorina never came to anyone's door with empty hands; in Romania, Sanda had explained to him years ago, to arrive with nothing was to arrive as a stranger. "Where are your hearing aids?"
 
@@ -92,7 +92,7 @@ She stood four foot nine in her low black shoes and was built square and sturdy,
 
 * * *
 
-The turkey came out of the oil at three-forty, a deep mahogany brown, crackling, and in no way on fire.
+The turkey came out of the oil at a quarter to three, a deep mahogany brown, crackling, and in no way on fire.
 
 John carried it into the kitchen on a platter as if he were carrying the Ark of the Covenant, and the family applauded, and he set it down in front of Sanda, who looked at it over the tops of her glasses and said, "Huh." From Sanda, this was a parade.
 
@@ -186,7 +186,7 @@ This was not the first time they had had this conversation. It was, by John's co
 
 He went to the closet in the master bedroom, opened the safe, and came back with three cartridges in his hand. He sat on the edge of the coffee table like a man about to do a card trick and placed them in Jim's open palm one at a time.
 
-"This," John said, setting down the first, a short, fat brass cartridge with a blunt copper nose, "is a .50 AE. That's what the Desert Eagles shoot, both of them. It's the smallest of the fifties. And this" — the second, the same width but longer, like the first one's big brother — "is a .500 Smith and Wesson Magnum. That's what the revolver shoots. It's about twice as powerful as the first one. Both of these are pistol rounds. Both of them are fifty caliber. And neither one of them can take out a tank. An elephant, maybe. Not a tank."
+"This," John said, setting down the first, a short, fat brass cartridge with a blunt copper nose, "is a fifty AE. That's what the Desert Eagles shoot, both of them. It's the smallest of the fifties. And this" — the second, the same width but longer, like the first one's big brother — "is a five-hundred Smith and Wesson Magnum. That's what the revolver shoots. It's about twice as powerful as the first one. Both of these are pistol rounds. Both of them are fifty caliber. And neither one of them can take out a tank. An elephant, maybe. Not a tank."
 
 Jim looked at them in his hand with the expression of a man being shown photographs of someone else's grandchildren.
 
@@ -196,7 +196,7 @@ It was enormous. It was five and a half inches long, a brass bottle with a long 
 
 "Oh my word!" Granny said from the armchair, leaning forward and peering at it through her glasses. "What in the world is that for?"
 
-"This is what you're thinking of," John told his father. "It's called a .50 BMG. It's the same width as the other two — see? Half an inch. But everything else is different. It's a rifle round. It's about five times as powerful as the revolver. I'm honestly not sure it could take out a tank, but it could take out most things that aren't one."
+"This is what you're thinking of," John told his father. "It's called a fifty BMG. It's the same width as the other two — see? Half an inch. But everything else is different. It's a rifle round. It's about five times as powerful as the revolver. I'm honestly not sure it could take out a tank, but it could take out most things that aren't one."
 
 Jim closed his hand around the big cartridge and held it, weighing it. Then he looked up at his son, and his face was not joking anymore.
 
@@ -318,7 +318,7 @@ John stood on the step, not knowing what to say. "I didn't know that."
 
 "Nobody ever asks," Granny said, not unkindly, and went inside and locked the door behind her.
 
-He walked back to his own front door under the stars. Inside, the dishwasher was running and Sanda had gone in to start her bath. His phone buzzed in his pocket as he was locking up, and he took it out, expecting his mother, who always texted that they had made it home safe, though they had not yet left.
+He walked back to his own front door under the stars. Inside, the dishwasher was running and Sanda had gone in to start her bath. His phone buzzed in his pocket as he was locking up, and he took it out, expecting his mother, who always texted that they had made it home safe, and then remembering that they had not yet left.
 
 It was not his mother. It was a message from Dana Whitfield, sent at 10:04 p.m. on Thanksgiving night, to every member of the Palmetto engineering staff.
 

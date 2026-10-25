@@ -1,6 +1,6 @@
 # Bad Preppers — Series Bible
 
-Continuity reference for `chapter1.md` through `chapter19.md`. It describes what the draft actually says as of October 24, 2026, including the post-draft fixes. `storyLine.md` is still the plan of record. Where the two differ, this file records what's on the page, and the section **Deviations from storyLine.md** explains why.
+Continuity reference for `chapter1.md` through `chapter19.md`. It describes what the draft actually says as of October 25, 2026, including the post-draft fixes. `storyLine.md` is still the plan of record. Where the two differ, this file records what's on the page, and the section **Deviations from storyLine.md** explains why.
 
 Source manuscript: `Bad Preppers edited_v3.docx`. Requirements: `promptChapters.txt`.
 
@@ -15,6 +15,7 @@ Source manuscript: `Bad Preppers edited_v3.docx`. Requirements: `promptChapters.
 - Comedy comes from the family's bad prepping and posh habits, never from the catastrophe. Serious beats are played straight.
 - Style: plain declarative sentences (Hemingway), compassionate landscape and people (Steinbeck), interior voice, brand names, dread and rare forward-flash lines (King). All prose original. v3 scenes are rewritten, not pasted, and protected lines are kept.
 - No explicit years in narration except Sanda's 2000, Dorina's 1989, Granny's 1948 and the 1961 receipt. Characters may say years in dialog.
+- Calibers are spelled out as spoken, in narration and dialog, never as numerals: twenty-two, three-oh-eight, two-two-three, three-eighty, thirty-eight Special, forty-caliber, nine-millimeter, ten-millimeter, fifty AE, five-hundred Smith and Wesson Magnum, fifty BMG, fifty-caliber. Model numbers stay numeric (Glock 26, Walther P22, AR-15, Smith & Wesson 500, Sig P556, M&P 10, Barrett M82A1). The twenty-two is always Long Rifle; .22 Short never appears. This bible keeps numerals in its own lists for precision.
 
 ## 2. Format conventions
 
@@ -46,6 +47,7 @@ Source manuscript: `Bad Preppers edited_v3.docx`. Requirements: `promptChapters.
 - Clothes at work: Palmetto quarter-zip over a gingham shirt, chinos, Allbirds.
 - Carries: Glock 43 in his right front pocket; Benchmade auto knife in his back right pocket. Act Two adds the Glock 26 cross-draw on his left hip and the Sig P556 on a sling.
 - Car and drink: dark gray manual VW GTI with plaid seats and a twelve-inch screen that updates itself; drinks Whistle Pig rye.
+- Birthday in October (the second Desert Eagle was "for your birthday," Ch 6). His name day, January 7, is a different thing.
 - Injuries:
   - Ch 16: nose broken and right eye swollen shut by Trevor.
   - Ch 18: through-and-through left shoulder wound, stitched by Dorina; Ch 19 arm in a sling made from Sanda's silk scarf.
@@ -180,6 +182,7 @@ Source manuscript: `Bad Preppers edited_v3.docx`. Requirements: `promptChapters.
 **Palmetto Grid Software, Lake Mary.**
 - The office is a glass building with pods named after rivers. John works in the Suwannee pod; the big conference room is "the Everglades."
 - **Restore** is the company's outage-management product, used by 240 utilities and co-ops. "A crew has been assigned" is John's dispatch module.
+- Headcount: about half of engineering was cut on Nov 30; fifteen engineers remain (Ch 9), and twenty-two people read the printouts on Jan 8 once the returning contractors are counted (Ch 10).
 - **Palmetto Sans** is the company typeface. John fought for 45 minutes to give its R a spur so it wouldn't read as "KESTORED." That spur is how he recognizes the machine's screens (Ch 15, 16, 17).
 
 **Vesper Labs / Vesper Code / "Vee."** Vee writes the pull requests; the policy is "merge on green," and approvals are "LGTM." The hooks Vee planted call themselves "self-healing maintenance channels" and report to `relay-1` through `relay-9.opsmesh.net`. John personally approved the one pointing at `relay-7`.
@@ -388,16 +391,60 @@ Line-level corrections made during the full read-through. Each one fixes a contr
 - **Ch 19:** Dee (73) was not alive in 1948, so "Mama told it till the day she died." The shed smell is "he supposed." Hoyt's handwriting was last seen on a birthday card the year before he died.
 - **Style trims:** a dozen "for a long time / long moment," several "enormous," "slowly," "exactly" and doubled "the way…" similes were cut where they stacked. The remaining ones are deliberate beats (the tub, the sardine, the bulb).
 
+**Date pass (October 25, 2026)**
+
+A second read-through checked every date, weekday and relative time reference against the calendar (Nov 9, 2026 is the second Monday in November; Thanksgiving is Nov 26; the Quiet is Mon Jan 11, 2027; Day 6 is Sat Jan 16). Fifteen fixes:
+- **Ch 1:** the practice turkey is thawed "next week" and fried "the Sunday before Thanksgiving," matching Ch 3 (moved to the fridge nine days before Thanksgiving; still frozen on the Sunday it was supposed to be fried).
+- **Ch 2:** the move south is "that summer," so the frost in June and the parka at a May Cubs game both happen before they leave Chicago. The FAA rerouted "the day's flights" (it was 2–4 a.m. of the same day).
+- **Ch 4:** the Publix-turkey beat is a marked flash-forward ("later that week John would look…"), so the chapter no longer steps past Monday just before the Monday all-hands.
+- **Ch 6:** the Friday-night grill passage ("He felt, for a moment, very prepared") now opens the Friday section, after Thursday's Halcyon notice, instead of appearing before Wednesday night.
+- **Ch 7:** the hearing is talked about "for three days" (Tuesday through Thursday; "By Friday the hearing was gone").
+- **Ch 8:** "I knew about Friday" (John found the times on Saturday night, Ch 7). The shutdown was announced "a day and a half ahead of time": Sunday 9 p.m. to Tuesday noon is 39 hours, not 48.
+- **Ch 9:** slow-loading pictures are from "when John was a boy" (he was twelve at his first dial-up session, Ch 13; "the internet was 1998"). Dana's email reviews every change merged "since October first," not "this quarter" (it is January 7).
+- **Ch 10:** Priya "unretired in five weeks" (laid off Mon Nov 30, recalled Thu Jan 7).
+- **Ch 15:** the deputies had been "gone by four-thirty" (Ch 12).
+- **Ch 16:** Alinea was "the summer they were both twenty-nine"; Sanda is a year younger, so they could not both have turned twenty-nine that summer.
+
+Checked and left as written: the Ch 3 queue is back at 304 on the Wednesday before Thanksgiving (the same figure as Ch 1); Jim's 11 years with the .38 plus 22 with the Glock leave 2 of his 35 years unaccounted for; the explicit years still in narration are "the internet was 1998" (Ch 9) and, in Ch 19, "since nineteen ninety-four," "a 1979 John Deere" and "printed in nineteen fifty-two" (the convention in §2 allows years only in dialog).
+
+**Ch 15 scene-order fix (October 25, 2026)**
+
+The sardine beat was reading as a cutaway after John, Jim and Trevor had left for the water: Sanda "opened the door" on "Bring back all six," a section break followed, and the Granny paragraph opened wide ("through the whole conversation") before John turned up in it. Now Sanda opens "the bedroom door," John finds Jim and Trevor waiting in the living room and stops at Granny's stool on his way to them, and "You guys ready?" follows the sardine directly. The two section breaks around the beat are gone, so the t-shirt, Liz put in charge, the bedroom, the sardine, the flicker and Jim's ejected shell run as one continuous sequence before the men go out at full dark. Also "Sanda made Trevor eat" (was "made him eat," which read as John).
+
+The flicker's location is anchored the same way, because the old "The three of them went to the front door… took hold of the brass doorknob" read as the men arriving at Trevor's: they now "crossed the living room to the front door, past Liz and her rifle," Trevor takes the knob "to let them out," the apartment comes alive "behind them," the switches were flipped on Monday "in his own apartment," and at full dark they "finally" go out. The flicker happens in John's apartment with the whole family present; John has never been inside Trevor's apartment before that night and knows its layout only from Granny's. Ch 15 is now 4,748 words.
+
+**Caliber spelling pass (October 25, 2026)**
+
+At the author's request, every numeric caliber in the chapters was spelled out as spoken: 37 tokens in 13 chapters (Ch 2, 3, 4, 5, 6, 7, 8, 13, 15, 16, 17, 18, 19). .22 became twenty-two (plural twenty-twos), .308 three-oh-eight, .223 two-two-three (Trevor's own form in Ch 8), .380 three-eighty, .38 Special thirty-eight Special, .40 forty-caliber, .50 AE fifty AE, .500 S&W Magnum five-hundred Smith and Wesson Magnum, .50 BMG fifty BMG and .50-caliber fifty-caliber. Two sentences were recast to avoid stacked numbers: Ch 18 "the ten rounds of fifty BMG he had bought" and Ch 19 "A fifty-round box of twenty-two long rifle cartridges." Model numbers were left numeric. Checked: the twenty-two is always Long Rifle (Ch 4 and Ch 19 say so, the rifle is the tube-fed bolt-action from the senior center, and the Walther P22 is a Long Rifle pistol), and .22 Short is never mentioned. The word counts below also reflect the author's own same-day edits to Ch 1, 3, 6, 8 and 9.
+
+**Ch 18 hand-cart fix (October 25, 2026)**
+
+Chapter 17 already brings Trevor's red hand cart home on Day 4: the supplies are loaded onto it, Alvarez says "we saw you with the cart, coming back from Heron," and John counts "a dead man's hand cart" that night. So Chapter 18's exchange with Jim about a hand cart and John's jog back to Heron to fetch it were removed. John now remembers the cart "standing by the front door where they had left it the day before." The glimpse of Trevor's body under the gray throw blanket went with the trip, as did the only use of "Shithole" as a name for Trevor. Ch 18 is now 5,367 words.
+
+**Full review pass (October 25, 2026)**
+
+A complete read of Ch 1-19 for continuity, clarity, speaker attribution, descriptions, ages and dates, and grammar. Eighteen line-level fixes; everything else checked out (see the ledger of checks in the author's session notes if needed).
+- **Ch 3:** the turkey comes out of the oil "at a quarter to three" (it went in before Granny's two o'clock knock; twelve pounds at three and a half minutes a pound). Jim hunts for "his bifocals" on his head (he arrives wearing bifocals). Dorina's accent is folded into her dialog tag (the added sentence was a fragment). John expects Liz's made-it-home text "and then remember[s] that they had not yet left."
+- **Ch 4 and Ch 8:** .223 is "two-two-three," Trevor's own form in Ch 8, not "two-twenty-three."
+- **Ch 6:** *My Cousin Vinny* italicized like *The Equalizer*.
+- **Ch 8:** "I'm going to heat up my AR" is now inside John's tagged paragraph; Sanda has called that rifle "my AR" since Ch 5, so the bare line read as hers.
+- **Ch 9:** fifteen engineers remain after the cut (was thirty-one; Ch 10 seats twenty-two readers including the returning staff, and John estimates "maybe twenty"). Christmas: "the family came, all but Dorina, who spent the day with the other Romanians from her church" (four lobsters plus Granny's steak seat five).
+- **Ch 11:** John takes "two bowls and a ladle" to Granny's for the ice and the tank water, not two pitchers, so the pitcher arithmetic holds: nine filled Sunday plus four more on Day 2 equals thirteen counting the rooster (Ch 13, 14, 15).
+- **Ch 14:** "Jim had the man's rifle" (not "his rifle"). John carries the Sig into Sarah's apartment, as before and after, not "an AR-15"; a stockless P556 is "brought up," not shouldered.
+- **Ch 17:** the three extra neighbors are people John "had seen around the Preserve for two years" (not "all his life"). Trevor's closet list gains "An empty red gas can," which sets up "Trevor's red gas can" at the Lake City siphon (Ch 18).
+- **Ch 19:** "They had left it switched on. Just in case." (was "left the chain pulled," readable as off).
+- Checked and left: Ch 1 "a glass of something red" most nights vs the Sancerre she carries in that night; Ch 3 queue 304 on Wednesday; Ch 8 Sanda's "You said I was a monster" (John only thought it in Ch 5); Ch 12 radio's east-to-west cascade vs the president's "on my order" (thematic); Alvarez's "a day, maybe two" vs the day-nine postcard; the explicit years in narration listed under the Date pass.
+
 ## 9. Continuity log by chapter (final word counts)
 
-**Ch 1 · The Queue · Mon Nov 9 · 5,468 words**
+**Ch 1 · The Queue · Mon Nov 9 · 5,472 words**
 - Queue of 304. Dana's 9:40 memo: merge on green, review now "advisory." John types LGTM eleven times.
 - Sanda's bath habit is established.
 - `maintenance_channel_keepalive` (substation communications module) auto-merges at 11:14 p.m. while he's on line 41.
 - The smoke detector has been chirping since Halloween.
 - Bitcoin: bought at 60k, sold at 16k; Jim must never know.
 
-**Ch 2 · The Funeral · Sat Nov 14 · 5,417 words**
+**Ch 2 · The Funeral · Sat Nov 14 · 5,414 words**
 - The range east of Sanford: fog, cranes, an honor box.
 - Hoyt died in April when John was 23 (they lived in Minneapolis then). Jim's .38 comes wrapped in a yellow dish towel. Granny: "go by the old place."
 - The bulletin directions. The embankment and the pump: "I doubt it," then forgotten for nineteen years. Sanda: "Don't ever do that again with me in the car."
@@ -405,7 +452,7 @@ Line-level corrections made during the full read-through. Each one fixes a contr
 - John's phases: the espresso machine, the pens, the knives, the Scotch, Gerald the sourdough starter.
 - The GTI update installs anyway; the new route is 11 minutes faster.
 
-**Ch 3 · The Dinner · Thanksgiving · 5,481 words**
+**Ch 3 · The Dinner · Thanksgiving · 5,491 words**
 - The practice turkey becomes THE turkey, with a Publix backup. John fries it in the garage following a video of a man in Texas.
 - Jim swaps the place cards. Dorina slaps his hand with her spoon.
 - The stun gun, with its fold-out charging plug.
@@ -416,7 +463,7 @@ Line-level corrections made during the full read-through. Each one fixes a contr
 - Granny: no lights until she was twelve. "Nobody ever asks."
 - Dana's all-hands message at 10:04 p.m.; the queue is at 941.
 
-**Ch 4 · The Prepper · Nov 27–30 · 4,944 words**
+**Ch 4 · The Prepper · Nov 27–30 · 4,946 words**
 - Influencers; the floor full of ornaments; "You can't eat a gun."
 - The ammunition order; the HUNTING ALONE — REVISIT Post-it.
 - The thermostat goes from 74 to 71 during his speech about complacency. Wild Turkey 101 bought as "trade goods." The deposit.
@@ -432,7 +479,7 @@ Line-level corrections made during the full read-through. Each one fixes a contr
 - Dorina's '89 line and the tub plant.
 - Carla's forecast ledger.
 
-**Ch 6 · The Apartment · Dec 6–11 · 4,829 words**
+**Ch 6 · The Apartment · Dec 6–11 · 4,831 words**
 - The house-versus-apartment argument. The hurricane lesson: a second Desert Eagle. Eggs and grits.
 - The Korean grill and four canisters.
 - The forecast proves right; the barbed wire, gauntlets, nail gun and Perrier are ordered; the plywood is never bought.
@@ -447,7 +494,7 @@ Line-level corrections made during the full read-through. Each one fixes a contr
 - The sixth tree. "Then why don't you talk to him about water…"
 - Friday's self-heals: 2:14, 2:16 and 2:19, all fixed by 2:25.
 
-**Ch 8 · The Alarm · Dec 13–14 · 5,178 words**
+**Ch 8 · The Alarm · Dec 13–14 · 5,192 words**
 - Plexiglas: "Those are consumables." / "Then teach me."
 - Trevor at the range: "A scope." The Barrett came in Saturday afternoon; the dish goes up Monday.
 - The palmetto bug and the jeans story.
@@ -458,11 +505,11 @@ Line-level corrections made during the full read-through. Each one fixes a contr
 - The seventh tree; the rotisserie chicken.
 - 1,106 PRs merged that no one opened. "It has read the press release."
 
-**Ch 9 · The Plug · Dec 15–Jan 7 · 5,083 words**
+**Ch 9 · The Plug · Dec 15–Jan 7 · 5,018 words**
 - Plug Day: the internet "got old." Tyler: "How do you, like. Start?"
 - "It worked." The party (Alvarez dances with Granny).
 - The warm phone.
-- The chestnuts. The lobsters Thelma, Louise, Harold and Gary. Gogonele.
+- The chestnuts. The lobsters Thelma, Louise, Harold and Gary (Dorina spends Christmas Day with her church). Gogonele.
 - Devices act up: the feeder, the thermostat ("Optimizing"), Dorel, the wine app, Jim's phone.
 - Boboteaza and the name day. Dorina vs. Dorel. John unplugs everything; Sanda doesn't stop him.
 - "Bring highlighters."
@@ -492,14 +539,14 @@ Line-level corrections made during the full read-through. Each one fixes a contr
 - The RV door tried at 4:30 a.m.
 - The address; "He's lying." / "He's not."; the buzz.
 
-**Ch 13 · The Water · Day 2 · 5,455 words**
+**Ch 13 · The Water · Day 2 · 5,458 words**
 - Phones in the microwave. The moral fight. Pitchers and Ziplocs. The Glock 29.
 - The Lake Mary PD stop; Benny Ruiz.
 - The gunfights and the chant. Training. The formal dinner.
 - The tree ("It's plastic, John."). Flashlights; Tony the Tiger. Matt at 19°F.
 - Sanda's vent. FEMA_Relief_WiFi. Jim taps Confirm.
 
-**Ch 14 · The Third Day · Day 3 · 5,368 words**
+**Ch 14 · The Third Day · Day 3 · 5,369 words**
 - The second French press.
 - The dumpster (Sanda's POV). Trevor's shot from the oak and John's shot.
 - The dry tub. Sarah's face.
@@ -508,21 +555,21 @@ Line-level corrections made during the full read-through. Each one fixes a contr
 - "You shot a man in the back today, son."
 - The wine chillers go out. The last glass of water.
 
-**Ch 15 · The Team · Day 3 · 4,713 words**
+**Ch 15 · The Team · Day 3 · 4,752 words**
 - "Rationing." The holy water. "I'm left-handed."
 - Trevor's questions over kangaroo jerky; Liz watches him.
-- The Palmetto tee. Liz put in charge; the wink. "Bring back all six." Granny's sardine.
-- The flicker and the R with the spur.
+- The Palmetto tee. Liz put in charge; the wink. "Bring back all six" (Sanda opens the bedroom door). Granny's sardine, on John's way back down the hall, with Jim and Trevor waiting in the living room; then "You guys ready?"
+- The flicker, in John's apartment with Trevor's hand on John's front doorknob, and the R with the spur. Only afterward do the men cross the street.
 - The old trucks. "Maintenance."
 - Trevor's apartment; the hum; the buttstock.
 
-**Ch 16 · The Hostage · Day 3 night · 5,477 words**
+**Ch 16 · The Hostage · Day 3 night · 5,470 words**
 - Alinea. Trevor's "guidance" speech. "Who do you think is sending it?"
 - The rescue; the third shot. "Hi." / "Hi."
 - The rig in the closet; "Hello, John."
 - The drywall. The chestnut memory. The blue window.
 
-**Ch 17 · The Node · Day 4 · 5,199 words**
+**Ch 17 · The Node · Day 4 · 5,204 words**
 - Rain in the chillers; the dog bowl; the formation (six people, two dogs).
 - The dossier. "I took it out of the microwave." / Granny: "Nobody asked me."
 - The offer. "A phishing email with a shower attached."
@@ -532,9 +579,9 @@ Line-level corrections made during the full read-through. Each one fixes a contr
 - The delegation. "We're feeding *them*." The filter goes to Alvarez.
 - "There's a well." "Tuesday."
 
-**Ch 18 · The Road · Jan 15–16 · 5,435 words**
+**Ch 18 · The Road · Jan 15–16 · 5,348 words**
 - The RV and the stolen TVs. The gate hotwire.
-- The packing inventory. "Of course you did." The glasses; the mount; the roll call.
+- The packing inventory, wheeled out on Trevor's red hand cart, which came home in Ch 17. "Of course you did." The glasses; the mount; the roll call.
 - The step on Egret. NO BUS. "I'm going home."
 - Pettaway. The siphon. Quitman: "Shall we gather at the river."
 - The crossroads (Saturday morning): the Silverado and Granny on the fifty. Sanda lowers the rifle. The stitches.
@@ -565,7 +612,7 @@ Line-level corrections made during the full read-through. Each one fixes a contr
   - The bulb. "No bark." "Took 'em long enough." The flicker; off. "Let's not get used to it."
   - The porch. "I meant there's a chicken in it."
 
-**Total:** about 98,650 words.
+**Total:** about 98,570 words.
 
 ## 10. Post-draft passes (already applied)
 
@@ -574,6 +621,11 @@ Line-level corrections made during the full read-through. Each one fixes a contr
 - **Ch 17:** added Granny's "It buzzed in his pocket yesterday… Nobody asked me." This pays off Ch 15, where only Granny noticed.
 - **Ch 19:** the nail gun's battery "died in January, like the drill's." The drill still worked on Day 5 in Ch 18.
 - **Editorial pass (Oct 24, 2026):** 93 line-level corrections across all 19 chapters; see the Editorial pass list under Deviations.
+- **Date pass (Oct 25, 2026):** 15 fixes to dates, weekdays and relative time references; see the Date pass list under Deviations.
+- **Ch 15 scene-order fix (Oct 25, 2026):** the sardine beat and the flicker are anchored inside John's apartment, before the men leave for Trevor's; see Deviations.
+- **Caliber spelling pass (Oct 25, 2026):** 37 numeric calibers spelled out as spoken across 13 chapters; model numbers stay numeric; see Deviations.
+- **Ch 18 hand-cart fix (Oct 25, 2026):** the duplicate trip to Heron for the hand cart is gone; the cart came home in Ch 17. See Deviations.
+- **Full review pass (Oct 25, 2026):** eighteen line-level fixes across Ch 3, 4, 6, 8, 9, 11, 14, 17 and 19 (continuity, clarity, speaker attribution, grammar); see Deviations. badPreppers.md rebuilt from the final chapter files (98,571 words).
 
 ## 11. Names to keep or rename
 

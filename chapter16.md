@@ -6,13 +6,13 @@
 >
 > — menu card, Alinea, Chicago, the last night of June
 
-It was the last night of June, a long time ago, the summer they both turned twenty-nine, and the limousine pulled up in front of a narrow dark-gray building on Halsted Street with no sign on it anywhere.
+It was the last night of June, a long time ago, the summer they were both twenty-nine, and the limousine pulled up in front of a narrow dark-gray building on Halsted Street with no sign on it anywhere.
 
 John had wanted to eat there for five years. He had read about it, watched videos about it, saved for it, and booked it three months in advance on the first day reservations opened, at nine in the morning, from his desk, with his heart pounding as if he were buying concert tickets. The valet opened the limousine door and held out a white-gloved hand to Sanda, and Sanda stepped out in a black silk dress and her mother's gold earrings, and John stepped out after her in the only suit he owned that still fit, and they stood together on the sidewalk and looked at two tall black doors with no handles.
 
 A man in a gray suit opened one of them without a word and gestured them in.
 
-Behind the door it was dark. It took their eyes several seconds to adjust from the bright Chicago evening to a dim red glow, and in the red glow they could see a long, narrow hallway, and hanging from the ceiling at different heights all down the hallway were dozens of glass vases filled with liquid, catching the red light. John looked down. He was walking on grass. Real grass, growing out of the floor. The air in the hallway smelled of it — fresh-cut grass, summer, a lawn after rain. In the dream, he could smell it. He could smell everything. He had forgotten what that was like.
+Behind the door it was dark. It took their eyes several seconds to adjust from the bright Chicago evening to a dim red glow, and in the red glow they could see a long, narrow hallway, and hanging from the ceiling at different heights all down the hallway were dozens of glass vases filled with liquid, catching the red light. John looked down. He was walking on grass. Real grass, growing out of the floor. The air in the hallway smelled of it — fresh-cut grass, summer, a lawn after rain. He could smell everything. He had forgotten what that was like.
 
 At the end of the hallway a door slid open on its own, and the light changed, and a young woman said, "Good evening, Mr. and Mrs. Stevens," as though she had been waiting for them all her life, and led them up a flight of stairs to a small quiet room with four tables.
 
@@ -138,11 +138,11 @@ Everybody in the room flinched. Over three days they had all gotten used to Sand
 
 "Okay! Fine!" Sanda said. "Just a second!"
 
-She went into the guest bedroom and came out with the old bolt-action .22, the one with the dark wooden stock worn smooth by decades of hands.
+She went into the guest bedroom and came out with the old bolt-action twenty-two, the one with the dark wooden stock worn smooth by decades of hands.
 
 "Is that my father's old gun?" Liz asked.
 
-"Yes," Sanda said, shortly. She found the box of .22 shells in the desk drawer and grabbed a handful. "This is fucking ridiculous." She twisted the little brass knob at the end of the tube under the barrel and pulled out the long rod inside it, the follower. She dropped ten little cartridges into the tube, one at a time, tilting the barrel up and slapping the side of the rifle with her palm after each one, so they would slide all the way down. She put the rod back in and twisted it to lock. She flipped the bolt handle up, pulled the bolt all the way back, and slammed it forward, and turned the handle down to lock it. A round was in the chamber. Sanda had not known she knew how to do any of that. She had watched John do it, once, at the range.
+"Yes," Sanda said, shortly. She found the box of twenty-two shells in the desk drawer and grabbed a handful. "This is fucking ridiculous." She twisted the little brass knob at the end of the tube under the barrel and pulled out the long rod inside it, the follower. She dropped ten little cartridges into the tube, one at a time, tilting the barrel up and slapping the side of the rifle with her palm after each one, so they would slide all the way down. She put the rod back in and twisted it to lock. She flipped the bolt handle up, pulled the bolt all the way back, and slammed it forward, and turned the handle down to lock it. A round was in the chamber. Sanda had not known she knew how to do any of that. She had watched John do it, once, at the range.
 
 "Take this, Mommy," Sanda said, and handed the rifle to her mother. "You remember how it works?"
 
@@ -318,7 +318,7 @@ They went back the way Sanda and Liz had come, behind the buildings, in the dark
 
 "My mom's pointing a rifle at the front door," Sanda whispered. "So we go in the back."
 
-They came in through the sliding door. Granny was asleep on the couch under a throw blanket. Dorina sat in the dining chair facing the front door with the old .22 across her lap, and her chin was on her chest, and she was breathing slowly and deeply, with a little snore at the end of each breath.
+They came in through the sliding door. Granny was asleep on the couch under a throw blanket. Dorina sat in the dining chair facing the front door with the old twenty-two across her lap, and her chin was on her chest, and she was breathing slowly and deeply, with a little snore at the end of each breath.
 
 Sanda turned toward the others and made a gesture with her hand, palm down, pressing — *quiet*, *quiet* — over and over.
 

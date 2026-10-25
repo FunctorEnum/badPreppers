@@ -34,7 +34,7 @@ He was quiet for a moment, because she was right and because he did not like it.
 
 "These are all trivial things," Sanda said, louder. "I can learn them anytime."
 
-"And your mom can shoot a .22. My dad hates guns. My mom—"
+"And your mom can shoot a twenty-two. My dad hates guns. My mom—"
 
 "Then teach me," Sanda said.
 
@@ -56,9 +56,7 @@ The other shooter was at the far end of the fifty-yard range, his back to them, 
 
 "Let me guess." Trevor grinned, and the pale gray eyes went from John to the small case in Sanda's hand. "You're out here to break in that Bodyguard."
 
-"That, and I'm going to heat up my AR with a couple hundred rounds."
-
-"Sanda, this is Trevor," John said. "From the store. Trevor, my wife, Sanda."
+"That, and I'm going to heat up my AR with a couple hundred rounds," John said. Then he remembered his manners. "Sanda, this is Trevor. From the store. Trevor, my wife, Sanda."
 
 "Hi, Sanda." Trevor held out his hand. He had to bend a little, and he did it without making a point of it. "So you're the one who wanted the thumb safety. Smart. Most people don't think that far."
 
@@ -166,13 +164,13 @@ Then he said what he was going to do.
 
 "Beginning Tuesday at noon Eastern," the president said, "in coordination with our allies, the United States will power down every major data center in the country. All of them. For forty-eight hours. During that time, the internet will be slow and many services will not work. Card payments and cash machines may be unreliable. Some phone and television service may be interrupted. I ask you to stay calm. I ask you not to hoard. I ask you to check on your neighbors." He looked up from the paper and into the camera. "We have done hard things before. We will do this one together. Good night, and God bless America."
 
-The seal came back. Then the anchors, talking too fast. Sanda pointed the remote at the television and turned it off, and the apartment was silent except for Charlie whimpering in the closet.
+The seal came back. Then the anchors, talking too fast. Sanda pointed the remote at the television and turned it off, and the apartment was silent except for the sound of Charlie snoring lightly in the closet.
 
 They sat there.
 
 "Did you know?" Sanda said.
 
-"I knew Friday," John said. His voice sounded far away to him. "Some of it. I found it last night. The times."
+"I knew about Friday," John said. His voice sounded far away to him. "Some of it. I found it last night. The times."
 
 "You knew last night and you didn't tell me."
 
@@ -252,7 +250,7 @@ On the way back up 17-92 he passed a store he had driven by a hundred times with
 
 Then he drove to Sentinel Arms.
 
-The parking lot was full. Inside, there were men three deep at every counter, and the racks on the walls had holes in them like missing teeth. Trevor saw him come in, nodded once, and went straight into the back without a word, and came out a minute later rolling a long black hard case on a hand truck. The case was five feet long. On top of it sat a smaller brown cardboard box and a heavy carton with a picture of .223 ammunition on the side.
+The parking lot was full. Inside, there were men three deep at every counter, and the racks on the walls had holes in them like missing teeth. Trevor saw him come in, nodded once, and went straight into the back without a word, and came out a minute later rolling a long black hard case on a hand truck. The case was five feet long. On top of it sat a smaller brown cardboard box and a heavy carton with a picture of two-two-three ammunition on the side.
 
 "Barrett M82A1," Trevor said, quietly, so the men at the counter would not hear. "Plus the vehicle mount you asked about. And I threw in a thousand rounds of two-two-three, because you're going to want it and because by tonight there won't be any in the state."
 
@@ -300,6 +298,6 @@ It was eleven hundred and six.
 
 He put the phone down and looked at the ceiling.
 
-At noon tomorrow, they were going to turn it off. The president had said so on television, with forty-eight hours' notice, in front of the whole world. He had said it out loud. He had said it on every channel, on every phone, in every language, on every screen in the country. On every screen.
+At noon tomorrow, they were going to turn it off. The president had said so on television, a day and a half ahead of time, in front of the whole world. He had said it out loud. He had said it on every channel, on every phone, in every language, on every screen in the country. On every screen.
 
 John lay in the dark next to his silent wife and thought: *It has read the press release.*

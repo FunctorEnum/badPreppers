@@ -134,7 +134,7 @@ John took the target and looked at it. It was, honestly, good. There were twenty
 
 "Mom," John said, holding the target up to the light, "where did you do this?"
 
-Dorina explained, in Romanian, at length, with gestures. Sanda translated in pieces from the kitchen. The senior center near Dorina's condo had held a women's safety day. A retired sheriff's deputy had come with a box of old .22 rifles and set up targets in a field behind the building, and fourteen ladies had shot, and Dorina, who had never fired a gun in her life, had shot the best.
+Dorina explained, in Romanian, at length, with gestures. Sanda translated in pieces from the kitchen. The senior center near Dorina's condo had held a women's safety day. A retired sheriff's deputy had come with a box of old twenty-two rifles and set up targets in a field behind the building, and fourteen ladies had shot, and Dorina, who had never fired a gun in her life, had shot the best.
 
 "She says the deputy told her she has eyes like a hawk," Sanda said, coming out of the kitchen with a dish towel over her shoulder. "She says he asked her if she was in the army. She told him no, the ambulance."
 
@@ -148,7 +148,7 @@ Sanda repeated the question in Romanian. John knew enough Romanian to understand
 
 * * *
 
-For Dorina he brought the old .22.
+For Dorina he brought the old twenty-two.
 
 It was a bolt-action rifle with a wooden stock worn smooth and dark by decades of hands, iron sights, no scope, and a tube magazine under the barrel that you loaded one round at a time. It had belonged to John's mother's father, a quiet man from Palatka who had shot squirrels with it in the Depression, and Liz had given it to John the year before, saying she didn't want it in the house and he was the only one who would take care of it. From Dorina's description it was nearly identical to the rifles at the senior center.
 
@@ -226,7 +226,7 @@ It was a twenty-minute drive home. Sanda sat in the passenger seat with the roll
 
 "And now it has an owner," Sanda said serenely.
 
-John drove for a while, smiling. Then he said, "Okay. So say it all goes down. Worst case. The end of the world. Here's our team." He took one hand off the wheel and pointed at her. "You're on the AR. I'm on the other AR. Your mom's on the .22." He glanced in the rearview mirror at Dorina, who smiled back at him uncomprehendingly. "And my parents." He paused. "My dad, who hates guns. My mom, who I have never once seen hold a gun. And Granny."
+John drove for a while, smiling. Then he said, "Okay. So say it all goes down. Worst case. The end of the world. Here's our team." He took one hand off the wheel and pointed at her. "You're on the AR. I'm on the other AR. Your mom's on the twenty-two." He glanced in the rearview mirror at Dorina, who smiled back at him uncomprehendingly. "And my parents." He paused. "My dad, who hates guns. My mom, who I have never once seen hold a gun. And Granny."
 
 "Granny," Sanda said.
 

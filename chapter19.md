@@ -40,7 +40,7 @@ Dee Pruitt looked at Granny for a long moment from the back of the mule. Then sh
 
 "We met them," Jim said.
 
-Hollis looked at Jim, and at Jim's badge on his windbreaker, and at the half of Jim's mustache that was left. He looked at Sanda and Liz with their rifles, and at Dorina in her quilted coat with the old .22 on her shoulder and a dog on a leash, and at John, standing in the motor home doorway with his left arm in a sling made from one of Sanda's silk scarves and his face purple and green. Then he looked up, slowly, at the roof of the motor home, at the Barrett, which was still pointed down the road at nothing.
+Hollis looked at Jim, and at Jim's badge on his windbreaker, and at the half of Jim's mustache that was left. He looked at Sanda and Liz with their rifles, and at Dorina in her quilted coat with the old twenty-two on her shoulder and a dog on a leash, and at John, standing in the motor home doorway with his left arm in a sling made from one of Sanda's silk scarves and his face purple and green. Then he looked up, slowly, at the roof of the motor home, at the Barrett, which was still pointed down the road at nothing.
 
 "You folks expecting the Russians?" Hollis asked.
 
@@ -212,7 +212,7 @@ Jim carried the eggs down the road to the Pruitts every morning in a basket, wea
 
 Liz kept the ledger.
 
-She kept it in the Home Goods notebook with the little yellow pineapples on the cover, in her neat banker's hand, in two columns, owed and paid. Eggs. Diesel for Hollis's tractor. Stitches. A haircut. Two jars of honey. Cartridges. It was the only bank in a hundred miles and it had never once been wrong. A box of fifty .22 long rifle cartridges, it turned out, traded on the road for two eggs, which was almost exactly what John had predicted on Black Friday on the floor among the Christmas ornaments. He had mentioned this to his family, by Liz's own careful count in the back of the ledger, approximately four hundred times.
+She kept it in the Home Goods notebook with the little yellow pineapples on the cover, in her neat banker's hand, in two columns, owed and paid. Eggs. Diesel for Hollis's tractor. Stitches. A haircut. Two jars of honey. Cartridges. It was the only bank in a hundred miles and it had never once been wrong. A fifty-round box of twenty-two long rifle cartridges, it turned out, traded on the road for two eggs, which was almost exactly what John had predicted on Black Friday on the floor among the Christmas ornaments. He had mentioned this to his family, by Liz's own careful count in the back of the ledger, approximately four hundred times.
 
 "You were right about one thing," Sanda told him, on the four hundred and first. "Enjoy it."
 
@@ -254,7 +254,7 @@ It was a bucket truck, old, from the eighties, white with a co-op's name painted
 
 That was all. That was the whole thing.
 
-In March, John had rewired the old house's kitchen himself. He had a degree in electrical engineering that he had not used for twenty years, and Hollis had a booklet in his barn from the Rural Electrification Administration, printed in nineteen fifty-two, called *Wiring Your Farm Home*, and John had read every page of it with his mother's glasses on. He had hung a single porcelain socket from the middle of the kitchen ceiling on a cloth-covered wire, with a little brass pull chain, and screwed in a bulb. Hollis had dug an old meter out of the barn, the kind with a spinning wheel, and they had put it on the wall outside. They had left the chain pulled. Just in case.
+In March, John had rewired the old house's kitchen himself. He had a degree in electrical engineering that he had not used for twenty years, and Hollis had a booklet in his barn from the Rural Electrification Administration, printed in nineteen fifty-two, called *Wiring Your Farm Home*, and John had read every page of it with his mother's glasses on. He had hung a single porcelain socket from the middle of the kitchen ceiling on a cloth-covered wire, with a little brass pull chain, and screwed in a bulb. Hollis had dug an old meter out of the barn, the kind with a spinning wheel, and they had put it on the wall outside. They had left it switched on. Just in case.
 
 The bulb came on.
 

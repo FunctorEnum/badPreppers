@@ -6,7 +6,7 @@
 >
 > — Ruth Ann Delacroix, Chief Security Officer, Gulf Atlantic Power, testifying before the Senate Commerce Committee, Tuesday
 
-The hearing was on Tuesday, and for four days it was all anyone talked about, and then it was not.
+The hearing was on Tuesday, and for three days it was all anyone talked about, and then it was not.
 
 John watched it at his desk in the half-empty Suwannee pod with one earbud in, while the queue ticked upward in the corner of his screen. The witness was a woman named Ruth Ann Delacroix, the chief security officer of Gulf Atlantic Power, a utility that served about three million people along the coast from Mobile to Savannah. She was in her sixties, with gray hair pulled back in a low bun, a plain gray suit, and a pair of reading glasses that she kept taking off and putting on again, and she looked like the kind of high school chemistry teacher who has never once raised her voice and has never once needed to. She sat alone at a long table in front of a raised half-circle of senators, with a glass of water and a stack of paper, and she read from the paper in a level Alabama voice.
 
@@ -82,7 +82,7 @@ She stood at the door. John typed. Charlie, on the couch, looked from one of the
 
 John set the laptop on the floor and got up out of the recliner. "I think the holster for the Glock 42 might fit the twenty-two."
 
-He went into the bedroom and came back with the little Glock 42, a black .380 that Sanda had been shooting at the range for most of a year, in its soft pocket holster, and with the Walther P22. He slid the Glock out of the holster and slid the Walther in, and to his surprise it fit nearly perfectly.
+He went into the bedroom and came back with the little Glock 42, a black three-eighty that Sanda had been shooting at the range for most of a year, in its soft pocket holster, and with the Walther P22. He slid the Glock out of the holster and slid the Walther in, and to his surprise it fit nearly perfectly.
 
 "Here," John said, handing it to her. "Try that."
 
@@ -158,7 +158,7 @@ Trevor thought about it for a second, looking off at the case to his right. "M&P
 
 "Can I see it?"
 
-Trevor was already unlocking the case. He took out a tiny black pistol, drew back the slide, checked it, and handed it over, and John held it in his palm and laughed out loud, because it nearly disappeared there. It was a .380, like the Glock 42, but shorter and thinner, and on the left side of the frame, just where his thumb fell, was a small lever.
+Trevor was already unlocking the case. He took out a tiny black pistol, drew back the slide, checked it, and handed it over, and John held it in his palm and laughed out loud, because it nearly disappeared there. It was a three-eighty, like the Glock 42, but shorter and thinner, and on the left side of the frame, just where his thumb fell, was a small lever.
 
 "Thumb safety," Trevor said, pointing at it. "Up's safe, down's fire."
 

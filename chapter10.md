@@ -24,7 +24,7 @@ She looked terrible. Her ponytail was still sleek, but she was wearing yesterday
 
 John turned around. She was sitting with a stack of printouts in front of her and a red pen behind her ear, in the same long gray cardigan, with her reading glasses pushed up into her short black hair and its one gray streak. She had a cup of tea from home in a thermos. When she saw him she smiled.
 
-"Triple my old rate," Priya said. "I told my husband I was retiring and then I unretired in three weeks. He's furious. He loves it."
+"Triple my old rate," Priya said. "I told my husband I was retiring and then I unretired in five weeks. He's furious. He loves it."
 
 "I'm glad you're here," John said, and he was, more than he could have said.
 

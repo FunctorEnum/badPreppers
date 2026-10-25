@@ -310,7 +310,7 @@ It was getting cold in the apartment. John put on a light jacket, mostly so he c
 
 "I went," Granny said, "but it was so dark I couldn't find the handle."
 
-"Good. That's good. Don't." He turned to Sanda. "I need two pitchers and a ladle. One for the ice in Granny's freezer before it melts. One for the water in her toilet tank. It's clean. It's the tank on the back, not the bowl."
+"Good. That's good. Don't." He turned to Sanda. "I need two bowls and a ladle. One for the ice in Granny's freezer before it melts. One for the water in her toilet tank. It's clean. It's the tank on the back, not the bowl."
 
 "We are not drinking toilet water," Sanda said, horrified.
 
@@ -320,7 +320,7 @@ It was getting cold in the apartment. John put on a light jacket, mostly so he c
 
 "Not anymore!" John said.
 
-Granny's apartment was smaller and darker than theirs, and he had forgotten his flashlight. Again. On her nightstand he found the little black one he had given her years ago and reprogrammed so it only had one setting, low, and he used it to ladle the clear water out of her toilet tank into a pitcher and to dump her ice trays into the other. When he got back, he set the pitcher of tank water on the floor by Charlie's bowl.
+Granny's apartment was smaller and darker than theirs, and he had forgotten his flashlight. Again. On her nightstand he found the little black one he had given her years ago and reprogrammed so it only had one setting, low, and he used it to ladle the clear water out of her toilet tank into a bowl and to dump her ice trays into the other. When he got back, he set the bowl of tank water on the floor beside Charlie's dish.
 
 "Okay. Listen," John said, standing in the middle of the living room. "Nobody knows yet what's going on. The power and the water could come back an hour from now. Or it could be days. We have to plan like it's going to be a week. Drink the water slow. If you have to go number one, don't flush. For number two, bags. Wash your hands with the wine." He counted on his fingers. "For food, we've got fruit — apples, bananas, oranges. Meat and cheese in the fridge, warming up. Pasta, but we can't spare the water to cook it. Cans of beans and soup. Tuna. Sardines." He paused. "And forty pounds of jerky. Kangaroo, alligator, buffalo, and wild boar."
 

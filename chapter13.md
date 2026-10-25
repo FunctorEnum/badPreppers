@@ -88,7 +88,7 @@ John looked at the Ziplocs. He looked at the pitchers. "Yeah," he said. "It woul
 
 "Sure did," Jim said proudly. "Twenty-two years."
 
-"Perfect." John went to the bedroom closet and came back with a Glock 29, a fat little subcompact that fired the ten-millimeter round. He had a spare barrel for it that let it shoot .40 instead, which was cheaper and kicked less and which his father already knew. He sat on the edge of the bed and swapped the barrels and loaded three magazines with .40 hollow points, and he came back and showed his father how to clip the plastic paddle holster inside the waistband of his jeans on the right side, the way he had worn his duty gun.
+"Perfect." John went to the bedroom closet and came back with a Glock 29, a fat little subcompact that fired the ten-millimeter round. He had a spare barrel for it that let it shoot forty-caliber instead, which was cheaper and kicked less and which his father already knew. He sat on the edge of the bed and swapped the barrels and loaded three magazines with forty-caliber hollow points, and he came back and showed his father how to clip the plastic paddle holster inside the waistband of his jeans on the right side, the way he had worn his duty gun.
 
 Jim struggled with the paddle. It took him three tries to get it over his belt. When he got it, he slid the Glock into it and it locked with a click, and he stood up straighter, the way men do.
 
@@ -368,7 +368,7 @@ He got up and walked to the kitchen and put the phone back in the microwave with
 
 Jim sat in the recliner with the shotgun across his knees and looked at the microwave.
 
-It was four in the morning. Everyone was asleep. Sanda was asleep on the rug at his feet with her rifle beside her. The plastic candles flickered on the table. He was seventy years old and he had sat up through more midnights than his son had been alive, and he was not afraid of the dark, and he was not afraid of looters, and he was not afraid of a robot from Thanksgiving. He was afraid of his son's face when John said *Who do you think is running the Wi-Fi*.
+It was four in the morning. Everyone was asleep. Sanda was asleep on the rug at his feet with her rifle beside her. The plastic candles flickered on the table. He was seventy years old and he had sat up through more midnights as a police officer than he'd care to remember, and he was not afraid of the dark, and he was not afraid of looters, and he was not afraid of a robot from Thanksgiving. He was afraid of his son's face when John said *Who do you think is running the Wi-Fi*.
 
 He got up, quietly. He opened the microwave, quietly. He took out his phone, because it was his phone, and because you never knew, and because a man ought to be able to be reached.
 

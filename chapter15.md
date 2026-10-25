@@ -30,7 +30,7 @@ He saw a grin start at the corner of Trevor's mouth under the beard, and stop, a
 
 *That cocky fucker*, John thought. *He's standing in my kitchen, he just drank the last of my water, and he's laughing at me.*
 
-"We could go back to the motor home," Jim said, from the couch. He did not sound sure. John thought of the red pin on the little blue map at three in the morning, sitting on top of the motor home, and of the deputies who had been gone by four. He pictured the motor home with its windshield smashed and its door hanging open. If it was still there at all.
+"We could go back to the motor home," Jim said, from the couch. He did not sound sure. John thought of the red pin on the little blue map at three in the morning, sitting on top of the motor home, and of the deputies who had been gone by four-thirty. He pictured the motor home with its windshield smashed and its door hanging open. If it was still there at all.
 
 "I've got six gallons in my garage," Trevor said.
 
@@ -84,7 +84,7 @@ He knew the answer. Everyone in the room knew the answer.
 
 * * *
 
-Before they went, Sanda made him eat.
+Before they went, Sanda made Trevor eat.
 
 She set a plate in front of him at the dining table — the white china, a linen napkin — with a handful of almonds, a slice of Manchego going soft at the edges, and a strip of jerky from one of the shiny bags. Trevor picked up the jerky with his left hand and looked at it.
 
@@ -102,7 +102,7 @@ Trevor turned it over. "Where do you even buy kangaroo jerky in Florida?"
 
 Trevor chewed and looked at him for a while. "Forty pounds of kangaroo," he said. "And no water." He did not say it unkindly. He said it the way you would read a number off a chart.
 
-He asked questions while he ate. He asked them easily, between bites, the way a man makes conversation at a barbecue, and he did not write anything down. How many of them could shoot. Four, John said; five, if you counted Dorina and the .22. Whether the Barrett had come with the mount. It had; it was in the hall closet, in its case, with the ten rounds. Whether Granny was eighty. "Ninety," Granny said from her stool, "and I can hear you." Whether anybody was on medication. Just Jim's blood pressure pills, which were in the motor home, and John's old Vicodin, which was in Trevor. Whether they had a generator. No. Whether they had any way of getting news from outside. "Granny's radio," John said, and Trevor glanced at the little tan Sony on the counter and smiled and said, "Huh. Old school."
+He asked questions while he ate. He asked them easily, between bites, the way a man makes conversation at a barbecue, and he did not write anything down. How many of them could shoot. Four, John said; five, if you counted Dorina and the twenty-two. Whether the Barrett had come with the mount. It had; it was in the hall closet, in its case, with the ten rounds. Whether Granny was eighty. "Ninety," Granny said from her stool, "and I can hear you." Whether anybody was on medication. Just Jim's blood pressure pills, which were in the motor home, and John's old Vicodin, which was in Trevor. Whether they had a generator. No. Whether they had any way of getting news from outside. "Granny's radio," John said, and Trevor glanced at the little tan Sony on the counter and smiled and said, "Huh. Old school."
 
 Liz Stevens sat on the couch with the AR across her knees and watched him do it.
 
@@ -146,15 +146,13 @@ On his way to the door she caught his sleeve and pulled him down the hall into t
 
 "Six gallons."
 
-"Bring back all six," Sanda said, and opened the door.
+"Bring back all six," Sanda said, and opened the bedroom door.
 
-* * *
-
-Granny was sitting at the kitchen counter on her stool. She had been sitting there quietly through the whole conversation, and nobody had been paying attention to her, which was how Granny was used to it.
+Jim and Trevor were waiting for him in the living room. Granny was sitting at the kitchen counter on her stool. She had been sitting there quietly through all of it, the deal and the jerky and the t-shirt, and nobody had been paying attention to her, which was how Granny was used to it.
 
 In front of her on the counter sat an open can of sardines.
 
-John did not know when she had opened it. He did not know who had opened it for her; her hands could not work a can opener anymore. But there it was, the lid peeled back, the little silver fish lying in their oil in a neat row like sleeping children. And beside it, a sleeve of Ritz crackers.
+John stopped. He did not know when she had opened it. He did not know who had opened it for her and her hands did not have the strength to peel back the lid. But there it was, the lid peeled back, the little silver fish lying in their oil in a neat row like sleeping children. And beside it, a sleeve of Ritz crackers.
 
 As John watched, Granny took one sardine out of the can with her knotted fingers and laid it on a cracker. She did not look at the sardine. She looked at him.
 
@@ -168,15 +166,13 @@ Granny said nothing.
 
 It was, he would think later, the whole of their relationship, all ninety and forty-two years of it, and it was perfect.
 
-* * *
-
 "You guys ready?" John asked.
 
-Jim and Trevor nodded. The three of them went to the front door. Jim carried the shotgun the way he had carried his shotgun on the job, in one hand, pointed almost straight down at the floor. Trevor had his left-handed rifle slung across his back, so both hands were free. John had the Sig hanging across his belly on its sling. Trevor reached out with his left hand and took hold of the brass doorknob.
+Jim and Trevor nodded. The three of them crossed the living room to the front door, past Liz and her rifle. Jim carried the shotgun the way he had carried his shotgun on the job, in one hand, pointed almost straight down at the floor. Trevor had his left-handed rifle slung across his back, so both hands were free. John had the Sig hanging across his belly on its sling. Trevor reached out with his left hand and took hold of the brass doorknob to let them out.
 
-And the apartment came alive.
+And behind them, the apartment came alive.
 
-Every light came on at once. All of them — every lamp and every overhead in every room, because on Monday morning John had gone through the apartment flipping every switch to the *on* position to see what was working, and had never flipped them back. Light poured out of the ceiling like water out of a broken pipe. After three days of flashlights and plastic candles it stabbed everybody in the eyes, and they all threw up their arms and squinted and cheered at the same time. The refrigerator shuddered and began to hum. The wine cooler beeped twice. Charlie went off like a fire alarm. From down the hall came a gurgle, and then a hiss, and then the steady, beautiful sound of the toilet tank in the guest bathroom filling.
+Every light came on at once. All of them — every lamp and every overhead in every room, because on Monday morning, in the dark, John had gone through his own apartment flipping every switch to the *on* position to see what was working, and had never flipped them back. Light poured out of the ceiling like water out of a broken pipe. After three days of flashlights and plastic candles it stabbed everybody in the eyes, and they all threw up their arms and squinted and cheered at the same time. The refrigerator shuddered and began to hum. The wine cooler beeped twice. Charlie went off like a fire alarm. From down the hall came a gurgle, and then a hiss, and then the steady, beautiful sound of the toilet tank in the guest bathroom filling.
 
 "I think the water's back on!" John shouted.
 
@@ -250,7 +246,7 @@ John got down on his hands and knees and found the shell under the table by feel
 
 * * *
 
-It was nearly full dark when the three of them went out the front door, Trevor first with his left hand, John behind, Jim last, pulling the door shut.
+It was nearly full dark when the three of them finally went out the front door, Trevor first with his left hand, John behind, Jim last, pulling the door shut.
 
 They crossed the street without lights. There was a fingernail of moon low in the west, thin as a paring, and it put a faint shine on the asphalt and nothing else. Halfway across, John heard engines.
 

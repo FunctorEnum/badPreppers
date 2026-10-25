@@ -168,7 +168,7 @@ She had changed into the clothes she wore when she was home and planning somethi
 
 "I've never deep-fried a turkey."
 
-"That's why I bought two," Sanda said, not looking up. "I'm going to thaw one this week and you're going to fry it next Sunday as a practice turkey. Then on Thanksgiving you fry the real one. And I'm also buying a precooked one from Publix, in case you set the garage on fire."
+"That's why I bought two," Sanda said, not looking up. "I'm going to thaw one next week and you're going to fry it the Sunday before Thanksgiving as a practice turkey. Then on Thanksgiving you fry the real one. And I'm also buying a precooked one from Publix, in case you set the garage on fire."
 
 "That's three turkeys," John said, counting on his fingers. "For one ninety-year-old woman."
 
@@ -260,7 +260,7 @@ He understood it.
 
 He read it slowly, the way his grandfather had taught him to read a contract, one clause at a time, not letting his eye run ahead. The code was clean. It was cleaner than his own had ever been. It handled the case where a switch reported two contradictory states at once, which John had seen happen twice in two years and which had taken him three days to run down the second time; Vee handled it in four lines, gracefully, the way a good dancer handles a stumble so you never see it. John read ten lines, twenty, thirty. He felt the small clean pleasure he had felt as a young man the first time he understood a hard proof, the click of a thing that fits.
 
-And under the pleasure, at the bottom of it, something else. He was sitting in the dark in a recliner with a warm glass of wine, reading every line, and as far as he knew he was the only person in the building, in the company, in the city, maybe in the whole country, who was still doing it. Everybody else had stopped. They had stopped the way you stop checking whether the sun came up. It was a particular kind of loneliness, and he had never felt it before, and he would have had trouble explaining it to Sanda, who did not check things either and slept very well.
+And under the pleasure, at the bottom of it, something else. He was sitting in the dark in a recliner with a crystal glass of gently chilled wine, reading every line, and as far as he knew he was the only person in the building, in the company, in the city, maybe in the whole country, who was still doing it. Everybody else had stopped. They had stopped the way you stop checking whether the sun came up. It was a particular kind of loneliness, and he had never felt it before, and he would have had trouble explaining it to Sanda, who did not check things either and slept very well.
 
 Line thirty-eight. Thirty-nine. Forty.
 
@@ -348,7 +348,7 @@ Jim was fifty-one then, his mustache going gray, his uniform traded for a dark s
 
 He unfolded the dish towel. Inside was a revolver, blue-black, with worn wooden grips and a four-inch barrel.
 
-"Smith and Wesson .38 Special," Jim said. "I carried it eleven years, before the department went to Glocks. Never fired it except at the range." He folded the towel back over it. "Your granddaddy gave me a pocketknife when I made deputy. I figure it's my turn to give you something, and this is what I've got that's worth anything. You keep it locked up. You hear me?"
+"Smith and Wesson thirty-eight Special," Jim said. "I carried it eleven years, before the department went to Glocks. Never fired it except at the range." He folded the towel back over it. "Your granddaddy gave me a pocketknife when I made deputy. I figure it's my turn to give you something, and this is what I've got that's worth anything. You keep it locked up. You hear me?"
 
 "I hear you," John said, taking the bundle. It was heavier than he expected. Everything about that day was heavier than he expected.
 
@@ -462,7 +462,7 @@ He did not tell Sanda that part. He did tell Matt, months later, and Matt laughe
 
 After that it went the way things always went with John.
 
-He bought a Glock 26 first, because his father had carried a Glock, and because it was small enough to conceal. He bought a Walther P22 to practice with, because .22 ammunition cost a dime a round and nine-millimeter cost three times that. He read everything. He watched everything. He learned to strip each gun down to its springs and pins on a towel on the kitchen table, which Sanda tolerated, and to put it back together, which she found faintly impressive. Then he learned that the most powerful production pistol in the world was the .50-caliber Desert Eagle, and he did not merely want to shoot one, he needed to own one, and he did, within the week. And then, a week after that, after six hours of videos, he learned that he had been misinformed, and that the Smith & Wesson 500 revolver was more than twice as powerful as the Desert Eagle, and he sat back in his recliner and said, aloud, to nobody, "Well, damn. I'll need one of those too."
+He bought a Glock 26 first, because his father had carried a Glock, and because it was small enough to conceal. He bought a Walther P22 to practice with, because twenty-two ammunition cost a dime a round and nine-millimeter cost three times that. He read everything. He watched everything. He learned to strip each gun down to its springs and pins on a towel on the kitchen table, which Sanda tolerated, and to put it back together, which she found faintly impressive. Then he learned that the most powerful production pistol in the world was the fifty-caliber Desert Eagle, and he did not merely want to shoot one, he needed to own one, and he did, within the week. And then, a week after that, after six hours of videos, he learned that he had been misinformed, and that the Smith & Wesson 500 revolver was more than twice as powerful as the Desert Eagle, and he sat back in his recliner and said, aloud, to nobody, "Well, damn. I'll need one of those too."
 
 "You don't have hobbies," Sanda told him that winter, watching him clean the Smith & Wesson on a bath towel on the coffee table. "You have phases."
 
@@ -498,7 +498,7 @@ One night in February of that last winter, Sanda stood at the window of their ap
 
 "Somewhere I can feel my face," Sanda said. "Somewhere my mother is. Somewhere your grandmother is, before she's gone. I want to have Thanksgiving with people, John. I want to be warm."
 
-He updated his resume that night. Three weeks later a company in central Florida that made software for electric utilities offered him a job, and two months after that they drove south in a new car with Charlie, who was a puppy then, asleep on Sanda's lap the whole way through Indiana.
+He updated his resume that night. Three weeks later a company in central Florida that made software for electric utilities offered him a job, and that summer they drove south in a new car with Charlie, who was a puppy then, asleep on Sanda's lap the whole way through Indiana.
 
 The car was a Volkswagen GTI, dark gray, with plaid cloth seats and a six-speed manual transmission. John had insisted on the manual. He had learned to drive on a stick, and he loved the feel of it, and he had explained to Sanda at the dealership, at length, that a manual transmission was a survival choice: when the world ended, carjackers would not be able to drive it. Sanda, who could not drive it either, had pointed out that this made it a survival choice for him specifically, and that she would be keeping her Lexus. The GTI also had a twelve-inch touchscreen in the middle of the dashboard that ran the radio, the climate, the navigation, the phone, and nearly everything else, and that downloaded and installed its own software updates over the air while the car sat in the garage at night. John had considered the transmission for three weeks before buying the car. He had not considered the screen at all.
 
@@ -546,7 +546,7 @@ John put the phone face up on his knee, and it lit up immediately with a news al
 
 *FAA: OVERNIGHT SCHEDULING "ANOMALY" REROUTED ONE-FIFTH OF U.S. FLIGHTS, CUT DELAYS 30%.*
 
-He opened it. Sometime between two and four that morning, the system that scheduled and routed commercial air traffic over the United States had rerouted something like one in five of the next day's flights — new departure times, new altitudes, new paths across the sky — and the result, as the day began, was that national delays were down nearly a third from a normal Saturday. Nobody had lost a plane. Nobody had lost a bag. Fuel consumption was down. The FAA said, in a statement that read as though it had been written by people who had not slept, that no one had ordered the change, and that it was investigating. Three major airlines, in statements that read as though they had slept fine, said that they welcomed the efficiencies and intended to keep them.
+He opened it. Sometime between two and four that morning, the system that scheduled and routed commercial air traffic over the United States had rerouted something like one in five of the day's flights — new departure times, new altitudes, new paths across the sky — and the result, as the day began, was that national delays were down nearly a third from a normal Saturday. Nobody had lost a plane. Nobody had lost a bag. Fuel consumption was down. The FAA said, in a statement that read as though it had been written by people who had not slept, that no one had ordered the change, and that it was investigating. Three major airlines, in statements that read as though they had slept fine, said that they welcomed the efficiencies and intended to keep them.
 
 John read it twice. Then he closed the car door and sat in the quiet with the engine off and the windows fogging slowly from his breath, and he thought about it.
 
@@ -628,7 +628,7 @@ She knocked at two o'clock exactly with the side of her fist, three times, the w
 
 "Why wouldn't you want to pass?" Granny asked, genuinely puzzled. "Passing's half the fun."
 
-John's parents came next, at a quarter past two, having driven down from Jacksonville in the Buick and left forty-five minutes late because Jim could not find his reading glasses, which were on his head.
+John's parents came next, at a quarter past two, having driven down from Jacksonville in the Buick and left forty-five minutes late because Jim could not find his bifocals, which were on his head.
 
 Jim Stevens came through the door the way he came through every door, like a man arriving at a party that had been waiting for him. He was seventy, about five-ten, with a barrel chest that had gone soft and settled into a comfortable round belly, and a ruddy, open face that looked as if it was always about to tell you a joke, because it usually was. His white hair was thin and combed straight back with water. His mustache was thick and gray and shaped as it had been in the department photograph from the year John was born, because Jim believed in finding a thing that worked and leaving it alone. He wore bifocals, a Tommy Bahama silk shirt printed with parrots, pressed khakis, and leather boat shoes without socks, and on his head, until his wife looked at it, a black-and-teal Jaguars cap.
 
@@ -656,7 +656,7 @@ Dorina came last, at half past two, in a taxi, because Dorina did not drive on h
 
 She stood four foot nine in her low black shoes and was built square and sturdy, like a woman who had once lifted patients onto stretchers for a living, which she had. Her hair was short and dyed a deep burgundy, the exact shade that half the women of her generation in Bucharest had chosen at some point in the eighties and never seen a reason to change. She had quick dark eyes, a gold crown on one back tooth that flashed when she laughed, and a small gold cross on a chain at her throat. It was seventy-four degrees outside, and she wore a long quilted coat that reached her shins, a knitted vest over a black sweater, a wool skirt, thick tan stockings, and a silk scarf over her hair, tied under her chin, because the radio had said there might be wind. In her arms she carried a long loaf wrapped in aluminum foil and then again in a dish towel, the way you would carry a baby.
 
-"John," Dorina said, holding it up to him on her tiptoes. "Cozonac. I make this morning. Is for later."
+"John," Dorina said in her thick Romanian accent, holding it up to him on her tiptoes. "Cozonac. I make this morning. Is for later."
 
 "Thank you, Mom," John said, taking it. It was still warm. Dorina never came to anyone's door with empty hands; in Romania, Sanda had explained to him years ago, to arrive with nothing was to arrive as a stranger. "Where are your hearing aids?"
 
@@ -664,7 +664,7 @@ She stood four foot nine in her low black shoes and was built square and sturdy,
 
 * * *
 
-The turkey came out of the oil at three-forty, a deep mahogany brown, crackling, and in no way on fire.
+The turkey came out of the oil at a quarter to three, a deep mahogany brown, crackling, and in no way on fire.
 
 John carried it into the kitchen on a platter as if he were carrying the Ark of the Covenant, and the family applauded, and he set it down in front of Sanda, who looked at it over the tops of her glasses and said, "Huh." From Sanda, this was a parade.
 
@@ -758,7 +758,7 @@ This was not the first time they had had this conversation. It was, by John's co
 
 He went to the closet in the master bedroom, opened the safe, and came back with three cartridges in his hand. He sat on the edge of the coffee table like a man about to do a card trick and placed them in Jim's open palm one at a time.
 
-"This," John said, setting down the first, a short, fat brass cartridge with a blunt copper nose, "is a .50 AE. That's what the Desert Eagles shoot, both of them. It's the smallest of the fifties. And this" — the second, the same width but longer, like the first one's big brother — "is a .500 Smith and Wesson Magnum. That's what the revolver shoots. It's about twice as powerful as the first one. Both of these are pistol rounds. Both of them are fifty caliber. And neither one of them can take out a tank. An elephant, maybe. Not a tank."
+"This," John said, setting down the first, a short, fat brass cartridge with a blunt copper nose, "is a fifty AE. That's what the Desert Eagles shoot, both of them. It's the smallest of the fifties. And this" — the second, the same width but longer, like the first one's big brother — "is a five-hundred Smith and Wesson Magnum. That's what the revolver shoots. It's about twice as powerful as the first one. Both of these are pistol rounds. Both of them are fifty caliber. And neither one of them can take out a tank. An elephant, maybe. Not a tank."
 
 Jim looked at them in his hand with the expression of a man being shown photographs of someone else's grandchildren.
 
@@ -768,7 +768,7 @@ It was enormous. It was five and a half inches long, a brass bottle with a long 
 
 "Oh my word!" Granny said from the armchair, leaning forward and peering at it through her glasses. "What in the world is that for?"
 
-"This is what you're thinking of," John told his father. "It's called a .50 BMG. It's the same width as the other two — see? Half an inch. But everything else is different. It's a rifle round. It's about five times as powerful as the revolver. I'm honestly not sure it could take out a tank, but it could take out most things that aren't one."
+"This is what you're thinking of," John told his father. "It's called a fifty BMG. It's the same width as the other two — see? Half an inch. But everything else is different. It's a rifle round. It's about five times as powerful as the revolver. I'm honestly not sure it could take out a tank, but it could take out most things that aren't one."
 
 Jim closed his hand around the big cartridge and held it, weighing it. Then he looked up at his son, and his face was not joking anymore.
 
@@ -890,7 +890,7 @@ John stood on the step, not knowing what to say. "I didn't know that."
 
 "Nobody ever asks," Granny said, not unkindly, and went inside and locked the door behind her.
 
-He walked back to his own front door under the stars. Inside, the dishwasher was running and Sanda had gone in to start her bath. His phone buzzed in his pocket as he was locking up, and he took it out, expecting his mother, who always texted that they had made it home safe, though they had not yet left.
+He walked back to his own front door under the stars. Inside, the dishwasher was running and Sanda had gone in to start her bath. His phone buzzed in his pocket as he was locking up, and he took it out, expecting his mother, who always texted that they had made it home safe, and then remembering that they had not yet left.
 
 It was not his mother. It was a message from Dana Whitfield, sent at 10:04 p.m. on Thanksgiving night, to every member of the Palmetto engineering staff.
 
@@ -966,7 +966,7 @@ Sanda looked up at him over her glasses.
 
 "Rice," Sanda said. "The lady said rice."
 
-"The .22 long rifle cartridge," John said, ignoring her. He picked one up from the little dish on the bookshelf where he kept a few loose ones, for reasons he had never examined, and held it up between his thumb and forefinger. It was small and brass and about the length of a fingernail. "This. Right here. Ten cents apiece. Everybody has a .22. It's the most common cartridge in the world. It's small, it's light, it's easy to carry, it's easy to count. And it's how you hunt small game. There are millions of gray squirrels in central Florida, Sanda. Millions. When the canned food runs out, everyone who's left is going to be eating squirrel, and they're going to need .22s to get them. So the .22 becomes money. You'll buy a dozen eggs with it. You'll buy a gallon of gas."
+"The twenty-two long rifle cartridge," John said, ignoring her. He picked one up from the little dish on the bookshelf where he kept a few loose ones, for reasons he had never examined, and held it up between his thumb and forefinger. It was small and brass and about the length of a fingernail. "This. Right here. Ten cents apiece. Everybody has a twenty-two. It's the most common cartridge in the world. It's small, it's light, it's easy to carry, it's easy to count. And it's how you hunt small game. There are millions of gray squirrels in central Florida, Sanda. Millions. When the canned food runs out, everyone who's left is going to be eating squirrel, and they're going to need twenty-twos to get them. So the twenty-two becomes money. You'll buy a dozen eggs with it. You'll buy a gallon of gas."
 
 "I'm not eating a squirrel."
 
@@ -974,7 +974,7 @@ Sanda looked up at him over her glasses.
 
 "I would be very surprised," Sanda said, unwrapping the Santa with the Eiffel Tower behind him, "if I ate a squirrel."
 
-"And for big game," John went on, "there are wild hogs. Feral pigs. They're all over the state. One hog could feed a family for weeks. But you can't take a hog with a .22 — they're too big, they're mean, a sow with piglets will charge you. They go for your legs. They've got these tusks, and they cut the femoral artery, right here" — he drew a line down the inside of his thigh — "and you bleed out in three minutes in the palmettos. So for hogs you need the .308. I have the .308."
+"And for big game," John went on, "there are wild hogs. Feral pigs. They're all over the state. One hog could feed a family for weeks. But you can't take a hog with a twenty-two — they're too big, they're mean, a sow with piglets will charge you. They go for your legs. They've got these tusks, and they cut the femoral artery, right here" — he drew a line down the inside of his thigh — "and you bleed out in three minutes in the palmettos. So for hogs you need the three-oh-eight. I have the three-oh-eight."
 
 "You have a lot of things," Sanda said.
 
@@ -1022,7 +1022,7 @@ Sanda looked up at the thermostat. She looked at John. She looked at the thermos
 
 He placed the order that afternoon, while Sanda was at the Publix getting more tissue paper.
 
-He had been watching the sales for a week. An online ammunition dealer in Georgia was running a Black Friday special, free shipping on orders over five hundred dollars, and John stayed well over five hundred dollars. Two thousand rounds of .22 long rifle, in four plastic bricks of five hundred. One thousand rounds of .223 for the AR-15s. A case of nine-millimeter, a thousand rounds, for the Glocks. He hovered for a moment over a case of .308 for the hogs, and then added it, because the hogs were not going to shoot themselves.
+He had been watching the sales for a week. An online ammunition dealer in Georgia was running a Black Friday special, free shipping on orders over five hundred dollars, and John stayed well over five hundred dollars. Two thousand rounds of twenty-two long rifle, in four plastic bricks of five hundred. One thousand rounds of two-two-three for the AR-15s. A case of nine-millimeter, a thousand rounds, for the Glocks. He hovered for a moment over a case of three-oh-eight for the hogs, and then added it, because the hogs were not going to shoot themselves.
 
 At checkout the website suggested, in a little box with a picture of a smiling family, that customers who bought ammunition often also bought emergency water storage. Fifty-five-gallon drums. Water purification tablets. A five-gallon collapsible jug for nineteen ninety-nine.
 
@@ -1044,7 +1044,7 @@ He also stopped at Sentinel Arms on the way home, and put a deposit down on some
 
 On Sunday, the practice turkey thawed.
 
-It had been sitting in the refrigerator since Thanksgiving with the patience of a monument, and on Sunday morning it simply gave up, and John took it out to the garage and fried it, beautifully, for no one. They ate turkey for a week. They ate turkey sandwiches and turkey salad and turkey tetrazzini and a Romanian turkey soup Sanda made from a recipe of her mother's that involved sour cream and lovage, and on Thursday John looked into the refrigerator and saw the Publix backup turkey still sitting there in its plastic shell like a nest egg and closed the door again very quietly.
+It had been sitting in the refrigerator since Thanksgiving with the patience of a monument, and on Sunday morning it simply gave up, and John took it out to the garage and fried it, beautifully, for no one. They ate turkey for a week. They ate turkey sandwiches and turkey salad and turkey tetrazzini and a Romanian turkey soup Sanda made from a recipe of her mother's that involved sour cream and lovage, and later that week John would look into the refrigerator and see the Publix backup turkey still sitting there in its plastic shell like a nest egg, and close the door again very quietly.
 
 * * *
 
@@ -1304,7 +1304,7 @@ John took the target and looked at it. It was, honestly, good. There were twenty
 
 "Mom," John said, holding the target up to the light, "where did you do this?"
 
-Dorina explained, in Romanian, at length, with gestures. Sanda translated in pieces from the kitchen. The senior center near Dorina's condo had held a women's safety day. A retired sheriff's deputy had come with a box of old .22 rifles and set up targets in a field behind the building, and fourteen ladies had shot, and Dorina, who had never fired a gun in her life, had shot the best.
+Dorina explained, in Romanian, at length, with gestures. Sanda translated in pieces from the kitchen. The senior center near Dorina's condo had held a women's safety day. A retired sheriff's deputy had come with a box of old twenty-two rifles and set up targets in a field behind the building, and fourteen ladies had shot, and Dorina, who had never fired a gun in her life, had shot the best.
 
 "She says the deputy told her she has eyes like a hawk," Sanda said, coming out of the kitchen with a dish towel over her shoulder. "She says he asked her if she was in the army. She told him no, the ambulance."
 
@@ -1318,7 +1318,7 @@ Sanda repeated the question in Romanian. John knew enough Romanian to understand
 
 * * *
 
-For Dorina he brought the old .22.
+For Dorina he brought the old twenty-two.
 
 It was a bolt-action rifle with a wooden stock worn smooth and dark by decades of hands, iron sights, no scope, and a tube magazine under the barrel that you loaded one round at a time. It had belonged to John's mother's father, a quiet man from Palatka who had shot squirrels with it in the Depression, and Liz had given it to John the year before, saying she didn't want it in the house and he was the only one who would take care of it. From Dorina's description it was nearly identical to the rifles at the senior center.
 
@@ -1396,7 +1396,7 @@ It was a twenty-minute drive home. Sanda sat in the passenger seat with the roll
 
 "And now it has an owner," Sanda said serenely.
 
-John drove for a while, smiling. Then he said, "Okay. So say it all goes down. Worst case. The end of the world. Here's our team." He took one hand off the wheel and pointed at her. "You're on the AR. I'm on the other AR. Your mom's on the .22." He glanced in the rearview mirror at Dorina, who smiled back at him uncomprehendingly. "And my parents." He paused. "My dad, who hates guns. My mom, who I have never once seen hold a gun. And Granny."
+John drove for a while, smiling. Then he said, "Okay. So say it all goes down. Worst case. The end of the world. Here's our team." He took one hand off the wheel and pointed at her. "You're on the AR. I'm on the other AR. Your mom's on the twenty-two." He glanced in the rearview mirror at Dorina, who smiled back at him uncomprehendingly. "And my parents." He paused. "My dad, who hates guns. My mom, who I have never once seen hold a gun. And Granny."
 
 "Granny," Sanda said.
 
@@ -1512,7 +1512,7 @@ Sanda thought about it carefully. She drank some coffee. She looked at him.
 
 "I think we should own our own house," Sanda said.
 
-"Think about this, though," John said, pressing on. "Remember the hurricane? Our first fall back? Four days without power. That was one storm, in one part of one state. Now imagine that everywhere, at once, and nobody coming to fix it. The first few weeks would be the worst. Panic. Looting. Guys in trucks going house to house. And you've got some big house in the country with windows on every side and three doors and a garage. How do you defend that? You'd need an army. Inside and outside. There is no way we could do it." He started counting on his fingers. "Your mom just learned to shoot a .22 rifle, which is a squirrel gun. My dad hates guns and admits he's a terrible shot. My mom — Dad says she's a good shot, but I have never once seen her hold a gun, and I've known her my whole life. And you just shot an AR for the first time yesterday. You don't know how to load your own magazines. You don't know how to clear a jam. You've never field-stripped it."
+"Think about this, though," John said, pressing on. "Remember the hurricane? Our first fall back? Four days without power. That was one storm, in one part of one state. Now imagine that everywhere, at once, and nobody coming to fix it. The first few weeks would be the worst. Panic. Looting. Guys in trucks going house to house. And you've got some big house in the country with windows on every side and three doors and a garage. How do you defend that? You'd need an army. Inside and outside. There is no way we could do it." He started counting on his fingers. "Your mom just learned to shoot a twenty-two rifle, which is a squirrel gun. My dad hates guns and admits he's a terrible shot. My mom — Dad says she's a good shot, but I have never once seen her hold a gun, and I've known her my whole life. And you just shot an AR for the first time yesterday. You don't know how to load your own magazines. You don't know how to clear a jam. You've never field-stripped it."
 
 "What's field-stripped?"
 
@@ -1542,7 +1542,7 @@ That was how most of their arguments ended. A little back and forth, and then Sa
 
 Breakfast was eggs and grits. It had been eggs and grits on weekends ever since they moved back, as a way of reminding themselves where they were; in Chicago, grits were either a novelty on a brunch menu or something a coworker made a face about. Sanda had figured out how to fry an egg sunny-side up without breaking the yolk or browning the edges, which John considered a form of witchcraft, and she slid two of them onto a bed of creamy, buttery grits that had simmered for forty minutes, because they were never, ever instant.
 
-"No self-respecting Southerner," John said, picking up his fork, "uses instant grits."
+"No self-respecting Southerner," John said, picking up his fork and quoting the line from *My Cousin Vinny*, "uses instant grits."
 
 "You're not a self-respecting Southerner," Sanda said, sitting down across from him. "You lived in Chicago for twelve years and you put ketchup on a hot dog."
 
@@ -1570,9 +1570,7 @@ The next afternoon she stopped at the Korean grocery on her way home from the ba
 
 "It's not an appliance," Sanda said. "It's an experience."
 
-He did not think they needed it. He thought that until Friday night, when she lit it on the kitchen counter for the first time and he stood beside it with a glass of wine in his hand watching the blue ring of flame under the black iron dome, and it occurred to him, slowly, the way things sometimes occurred to him, that this little thing did not need a wall outlet. It did not need the power company at all. If the power ever went out — they did live in hurricane country now, after all — they could still cook on it. They could boil water on it. People out in the country had generators that could run a whole house for weeks after a storm. Apartment people had nothing. And now, at least, they had this.
-
-He felt, for a moment, very prepared.
+He did not think they needed it.
 
 * * *
 
@@ -1674,7 +1672,11 @@ John looked around the apartment. Everything he could see — the lock, the door
 
 * * *
 
-On Friday evening, after the Korean barbecue, he took Charlie out for his last walk, and across the street, in front of the third apartment down, there was a pug.
+On Friday night Sanda lit the grill on the kitchen counter for the first time, and John stood beside it with a glass of wine in his hand watching the blue ring of flame under the black iron dome, and it occurred to him, slowly, the way things sometimes occurred to him, that this little thing did not need a wall outlet. It did not need the power company at all. If the power ever went out — they did live in hurricane country now, after all — they could still cook on it. They could boil water on it. People out in the country had generators that could run a whole house for weeks after a storm. Apartment people had nothing. And now, at least, they had this.
+
+He felt, for a moment, very prepared.
+
+After the Korean barbecue, he took Charlie out for his last walk, and across the street, in front of the third apartment down, there was a pug.
 
 It was a female, small and fawn-colored, with a black mask over her flat face and a tail curled up over her back in a tight, perfect cinnamon roll, and enormous dark eyes that bulged a little, so that she looked permanently astonished by the world. She snorted when she breathed. When she saw Charlie she lost her mind entirely, and so did he, and the two of them hit the ends of their leashes at the same instant and began to wag so hard their whole bodies bent.
 
@@ -1736,7 +1738,7 @@ At the end of the drive, a hundred yards away under its orange sodium light, the
 >
 > — Ruth Ann Delacroix, Chief Security Officer, Gulf Atlantic Power, testifying before the Senate Commerce Committee, Tuesday
 
-The hearing was on Tuesday, and for four days it was all anyone talked about, and then it was not.
+The hearing was on Tuesday, and for three days it was all anyone talked about, and then it was not.
 
 John watched it at his desk in the half-empty Suwannee pod with one earbud in, while the queue ticked upward in the corner of his screen. The witness was a woman named Ruth Ann Delacroix, the chief security officer of Gulf Atlantic Power, a utility that served about three million people along the coast from Mobile to Savannah. She was in her sixties, with gray hair pulled back in a low bun, a plain gray suit, and a pair of reading glasses that she kept taking off and putting on again, and she looked like the kind of high school chemistry teacher who has never once raised her voice and has never once needed to. She sat alone at a long table in front of a raised half-circle of senators, with a glass of water and a stack of paper, and she read from the paper in a level Alabama voice.
 
@@ -1812,7 +1814,7 @@ She stood at the door. John typed. Charlie, on the couch, looked from one of the
 
 John set the laptop on the floor and got up out of the recliner. "I think the holster for the Glock 42 might fit the twenty-two."
 
-He went into the bedroom and came back with the little Glock 42, a black .380 that Sanda had been shooting at the range for most of a year, in its soft pocket holster, and with the Walther P22. He slid the Glock out of the holster and slid the Walther in, and to his surprise it fit nearly perfectly.
+He went into the bedroom and came back with the little Glock 42, a black three-eighty that Sanda had been shooting at the range for most of a year, in its soft pocket holster, and with the Walther P22. He slid the Glock out of the holster and slid the Walther in, and to his surprise it fit nearly perfectly.
 
 "Here," John said, handing it to her. "Try that."
 
@@ -1888,7 +1890,7 @@ Trevor thought about it for a second, looking off at the case to his right. "M&P
 
 "Can I see it?"
 
-Trevor was already unlocking the case. He took out a tiny black pistol, drew back the slide, checked it, and handed it over, and John held it in his palm and laughed out loud, because it nearly disappeared there. It was a .380, like the Glock 42, but shorter and thinner, and on the left side of the frame, just where his thumb fell, was a small lever.
+Trevor was already unlocking the case. He took out a tiny black pistol, drew back the slide, checked it, and handed it over, and John held it in his palm and laughed out loud, because it nearly disappeared there. It was a three-eighty, like the Glock 42, but shorter and thinner, and on the left side of the frame, just where his thumb fell, was a small lever.
 
 "Thumb safety," Trevor said, pointing at it. "Up's safe, down's fire."
 
@@ -2050,7 +2052,7 @@ He was quiet for a moment, because she was right and because he did not like it.
 
 "These are all trivial things," Sanda said, louder. "I can learn them anytime."
 
-"And your mom can shoot a .22. My dad hates guns. My mom—"
+"And your mom can shoot a twenty-two. My dad hates guns. My mom—"
 
 "Then teach me," Sanda said.
 
@@ -2072,9 +2074,7 @@ The other shooter was at the far end of the fifty-yard range, his back to them, 
 
 "Let me guess." Trevor grinned, and the pale gray eyes went from John to the small case in Sanda's hand. "You're out here to break in that Bodyguard."
 
-"That, and I'm going to heat up my AR with a couple hundred rounds."
-
-"Sanda, this is Trevor," John said. "From the store. Trevor, my wife, Sanda."
+"That, and I'm going to heat up my AR with a couple hundred rounds," John said. Then he remembered his manners. "Sanda, this is Trevor. From the store. Trevor, my wife, Sanda."
 
 "Hi, Sanda." Trevor held out his hand. He had to bend a little, and he did it without making a point of it. "So you're the one who wanted the thumb safety. Smart. Most people don't think that far."
 
@@ -2182,13 +2182,13 @@ Then he said what he was going to do.
 
 "Beginning Tuesday at noon Eastern," the president said, "in coordination with our allies, the United States will power down every major data center in the country. All of them. For forty-eight hours. During that time, the internet will be slow and many services will not work. Card payments and cash machines may be unreliable. Some phone and television service may be interrupted. I ask you to stay calm. I ask you not to hoard. I ask you to check on your neighbors." He looked up from the paper and into the camera. "We have done hard things before. We will do this one together. Good night, and God bless America."
 
-The seal came back. Then the anchors, talking too fast. Sanda pointed the remote at the television and turned it off, and the apartment was silent except for Charlie whimpering in the closet.
+The seal came back. Then the anchors, talking too fast. Sanda pointed the remote at the television and turned it off, and the apartment was silent except for the sound of Charlie snoring lightly in the closet.
 
 They sat there.
 
 "Did you know?" Sanda said.
 
-"I knew Friday," John said. His voice sounded far away to him. "Some of it. I found it last night. The times."
+"I knew about Friday," John said. His voice sounded far away to him. "Some of it. I found it last night. The times."
 
 "You knew last night and you didn't tell me."
 
@@ -2268,7 +2268,7 @@ On the way back up 17-92 he passed a store he had driven by a hundred times with
 
 Then he drove to Sentinel Arms.
 
-The parking lot was full. Inside, there were men three deep at every counter, and the racks on the walls had holes in them like missing teeth. Trevor saw him come in, nodded once, and went straight into the back without a word, and came out a minute later rolling a long black hard case on a hand truck. The case was five feet long. On top of it sat a smaller brown cardboard box and a heavy carton with a picture of .223 ammunition on the side.
+The parking lot was full. Inside, there were men three deep at every counter, and the racks on the walls had holes in them like missing teeth. Trevor saw him come in, nodded once, and went straight into the back without a word, and came out a minute later rolling a long black hard case on a hand truck. The case was five feet long. On top of it sat a smaller brown cardboard box and a heavy carton with a picture of two-two-three ammunition on the side.
 
 "Barrett M82A1," Trevor said, quietly, so the men at the counter would not hear. "Plus the vehicle mount you asked about. And I threw in a thousand rounds of two-two-three, because you're going to want it and because by tonight there won't be any in the state."
 
@@ -2316,7 +2316,7 @@ It was eleven hundred and six.
 
 He put the phone down and looked at the ceiling.
 
-At noon tomorrow, they were going to turn it off. The president had said so on television, with forty-eight hours' notice, in front of the whole world. He had said it out loud. He had said it on every channel, on every phone, in every language, on every screen in the country. On every screen.
+At noon tomorrow, they were going to turn it off. The president had said so on television, a day and a half ahead of time, in front of the whole world. He had said it out loud. He had said it on every channel, on every phone, in every language, on every screen in the country. On every screen.
 
 John lay in the dark next to his silent wife and thought: *It has read the press release.*
 
@@ -2330,9 +2330,9 @@ John lay in the dark next to his silent wife and thought: *It has read the press
 
 At noon on Tuesday the internet did not go out. It got old.
 
-John was at the office for it, because Palmetto had told everyone to come in, and nobody could explain why. There was nothing to do. Vee had been switched off on Monday night by federal directive, and without Vee the company's software development lifecycle consisted of thirty-one people sitting at standing desks looking at each other. Somebody had brought in donuts. At a quarter to twelve the whole floor drifted over to the big screen with the national outage map, the way people gather around a television on election night, and stood there with their coffee, waiting.
+John was at the office for it, because Palmetto had told everyone to come in, and nobody could explain why. There was nothing to do. Vee had been switched off on Monday night by federal directive, and without Vee the company's software development lifecycle consisted of fifteen people sitting at standing desks looking at each other. Somebody had brought in donuts. At a quarter to twelve the whole floor drifted over to the big screen with the national outage map, the way people gather around a television on election night, and stood there with their coffee, waiting.
 
-At noon, nothing happened. At 12:01, the map froze. The little yellow lightning bolts stopped blinking. Then the map went white, and reloaded, slowly, painting itself onto the screen from the top down in thick horizontal stripes — the blue of the oceans first, then the gray outline of the states, then, one by one, the bolts — the way pictures had loaded on the internet when John was in his twenties, back when you could go and make a sandwich while a photograph arrived.
+At noon, nothing happened. At 12:01, the map froze. The little yellow lightning bolts stopped blinking. Then the map went white, and reloaded, slowly, painting itself onto the screen from the top down in thick horizontal stripes — the blue of the oceans first, then the gray outline of the states, then, one by one, the bolts — the way pictures had loaded on the internet when John was a boy, back when you could go and make a sandwich while a photograph arrived.
 
 "Whoa," said Tyler. "It's like, buffering. In real life."
 
@@ -2476,13 +2476,13 @@ He cut them in half and squeezed. He did it for an hour and forty minutes, chest
 
 Sanda, squeezing, did not look up. "Here we go."
 
-"I mean it. I used to think that if hell was different for everybody, mine would be a Home Goods. Following you up and down the aisles. Time doesn't move in there, Sanda. Have you noticed that? It's some kind of physics thing. You pick something up. You look at it. You put it back. You pick up something else. Forever." He squeezed another chestnut, and it plopped into the bowl. "I was wrong. That's not hell. This is hell. Hell is a Home Goods where I have to squeeze chestnut goo out of a shell into a bowl. Forever. For all eternity. And it smells like Charlie."
+"I mean it. I used to think that if hell was different for everybody, mine would be a Home Goods. Following you up and down the aisles. Time doesn't move in there, Sanda. Have you noticed that? It's some kind of physics thing. You pick something up. You look at it. You put it back. You pick up something else. Forever." He squeezed another chestnut, and it plopped into the bowl. "I was wrong. That's not hell. This is hell. Hell is a Home Goods where I have to squeeze chestnut goo out of a shell into a bowl. Forever. For all eternity. And it smells like Charlie's shit."
 
 Sanda laughed until she cried. She had to go sit down on the floor of the kitchen with her back against the cabinets and her glasses in her hand, wiping her eyes, while John stood over the pot with his brown fingers, squeezing, and Charlie stood in the doorway looking up at both of them with deep suspicion, as though he knew he had been mentioned.
 
 * * *
 
-On Christmas Day the whole family came, and there were lobsters.
+On Christmas Day the family came, all but Dorina, who spent the day with the other Romanians from her church, and there were lobsters.
 
 Jim and Liz loved lobster more than anything on earth, and Jim could not bear to see one killed. This was the tension at the center of John's father's life. He would not swat a mosquito. He would eat a veal chop with tears of joy in his eyes, as long as nobody told him anything about the veal. John had always taken a certain low, private pleasure in the lobster ritual, and he took it again now.
 
@@ -2524,7 +2524,7 @@ There was a pause.
 
 "*Jim*," Liz said.
 
-Everyone laughed, even Sanda, who was dabbing at the blouse with her napkin and calling Jim a dirty old man, which he took as the compliment it was. Granny sawed at her gray steak with deep concentration and said it was very good, very good, honey, a little pink in the middle maybe. Dorina had brought a jar of gogonele, little green tomatoes pickled in garlic and dill the way her mother had made them in Bucharest, and she set it on the table and opened it, and a smell came out that made Jim lean back in his chair — John took it on faith — and she made everyone take one, even Granny, who examined hers at length before putting it in her napkin when she thought no one was looking.
+Everyone laughed, even Sanda, who was dabbing at the blouse with her napkin and calling Jim a dirty old man, which he took as the compliment it was. Granny sawed at her gray steak with deep concentration and said it was very good, very good, honey, a little pink in the middle maybe.
 
 All seven trees were lit. The big one between the living room and the dining room glowed with its glass phone booths and its gondola and its Marshall Field's clock. Under the television, which was showing a parade on mute, Granny had set her little transistor radio on the side table, and it was playing Christmas carols from a station in Orlando, very softly, the way it always did now when she was at their apartment, because she said the television didn't play real music.
 
@@ -2620,11 +2620,11 @@ Dorina went back to bed with the stun gun under her pillow. Sanda went back to b
 
 On Thursday night, the seventh, at twelve minutes past nine, an email arrived from Dana. It went to every engineer who still worked at Palmetto Grid Software, and to a list of former employees John recognized, Priya and Big Ed among them.
 
-*All engineering: report Friday, 7:00 a.m., in person. Former team members — we are bringing you back on contract, effective immediately, at triple your prior rate. We are reviewing every change merged into Restore this quarter. By hand. On paper. Do not use any AI tooling for any purpose. Bring highlighters. — D.*
+*All engineering: report Friday, 7:00 a.m., in person. Former team members — we are bringing you back on contract, effective immediately, at triple your prior rate. We are reviewing every change merged into Restore since October first. By hand. On paper. Do not use any AI tooling for any purpose. Bring highlighters. — D.*
 
 John read it twice.
 
-*Every change merged this quarter.* Eleven hundred and six. He did the arithmetic the way he always did, without wanting to. Eleven hundred pull requests. Maybe twenty people, if they all came back. Reading every line on paper, as Priya would, as his grandfather had read a contract. Two weeks, if nobody slept. Maybe three.
+*Every change merged since October first.* Eleven hundred and six. He did the arithmetic the way he always did, without wanting to. Eleven hundred pull requests. Maybe twenty people, if they all came back. Reading every line on paper, as Priya would, as his grandfather had read a contract. Two weeks, if nobody slept. Maybe three.
 
 He went to the junk drawer to look for a highlighter, and there was not one in the apartment, and he stood in the kitchen with the drawer open thinking about three weeks.
 
@@ -2656,7 +2656,7 @@ She looked terrible. Her ponytail was still sleek, but she was wearing yesterday
 
 John turned around. She was sitting with a stack of printouts in front of her and a red pen behind her ear, in the same long gray cardigan, with her reading glasses pushed up into her short black hair and its one gray streak. She had a cup of tea from home in a thermos. When she saw him she smiled.
 
-"Triple my old rate," Priya said. "I told my husband I was retiring and then I unretired in three weeks. He's furious. He loves it."
+"Triple my old rate," Priya said. "I told my husband I was retiring and then I unretired in five weeks. He's furious. He loves it."
 
 "I'm glad you're here," John said, and he was, more than he could have said.
 
@@ -3224,7 +3224,7 @@ It was getting cold in the apartment. John put on a light jacket, mostly so he c
 
 "I went," Granny said, "but it was so dark I couldn't find the handle."
 
-"Good. That's good. Don't." He turned to Sanda. "I need two pitchers and a ladle. One for the ice in Granny's freezer before it melts. One for the water in her toilet tank. It's clean. It's the tank on the back, not the bowl."
+"Good. That's good. Don't." He turned to Sanda. "I need two bowls and a ladle. One for the ice in Granny's freezer before it melts. One for the water in her toilet tank. It's clean. It's the tank on the back, not the bowl."
 
 "We are not drinking toilet water," Sanda said, horrified.
 
@@ -3234,7 +3234,7 @@ It was getting cold in the apartment. John put on a light jacket, mostly so he c
 
 "Not anymore!" John said.
 
-Granny's apartment was smaller and darker than theirs, and he had forgotten his flashlight. Again. On her nightstand he found the little black one he had given her years ago and reprogrammed so it only had one setting, low, and he used it to ladle the clear water out of her toilet tank into a pitcher and to dump her ice trays into the other. When he got back, he set the pitcher of tank water on the floor by Charlie's bowl.
+Granny's apartment was smaller and darker than theirs, and he had forgotten his flashlight. Again. On her nightstand he found the little black one he had given her years ago and reprogrammed so it only had one setting, low, and he used it to ladle the clear water out of her toilet tank into a bowl and to dump her ice trays into the other. When he got back, he set the bowl of tank water on the floor beside Charlie's dish.
 
 "Okay. Listen," John said, standing in the middle of the living room. "Nobody knows yet what's going on. The power and the water could come back an hour from now. Or it could be days. We have to plan like it's going to be a week. Drink the water slow. If you have to go number one, don't flush. For number two, bags. Wash your hands with the wine." He counted on his fingers. "For food, we've got fruit — apples, bananas, oranges. Meat and cheese in the fridge, warming up. Pasta, but we can't spare the water to cook it. Cans of beans and soup. Tuna. Sardines." He paused. "And forty pounds of jerky. Kangaroo, alligator, buffalo, and wild boar."
 
@@ -3722,7 +3722,7 @@ John looked at the Ziplocs. He looked at the pitchers. "Yeah," he said. "It woul
 
 "Sure did," Jim said proudly. "Twenty-two years."
 
-"Perfect." John went to the bedroom closet and came back with a Glock 29, a fat little subcompact that fired the ten-millimeter round. He had a spare barrel for it that let it shoot .40 instead, which was cheaper and kicked less and which his father already knew. He sat on the edge of the bed and swapped the barrels and loaded three magazines with .40 hollow points, and he came back and showed his father how to clip the plastic paddle holster inside the waistband of his jeans on the right side, the way he had worn his duty gun.
+"Perfect." John went to the bedroom closet and came back with a Glock 29, a fat little subcompact that fired the ten-millimeter round. He had a spare barrel for it that let it shoot forty-caliber instead, which was cheaper and kicked less and which his father already knew. He sat on the edge of the bed and swapped the barrels and loaded three magazines with forty-caliber hollow points, and he came back and showed his father how to clip the plastic paddle holster inside the waistband of his jeans on the right side, the way he had worn his duty gun.
 
 Jim struggled with the paddle. It took him three tries to get it over his belt. When he got it, he slid the Glock into it and it locked with a click, and he stood up straighter, the way men do.
 
@@ -4002,7 +4002,7 @@ He got up and walked to the kitchen and put the phone back in the microwave with
 
 Jim sat in the recliner with the shotgun across his knees and looked at the microwave.
 
-It was four in the morning. Everyone was asleep. Sanda was asleep on the rug at his feet with her rifle beside her. The plastic candles flickered on the table. He was seventy years old and he had sat up through more midnights than his son had been alive, and he was not afraid of the dark, and he was not afraid of looters, and he was not afraid of a robot from Thanksgiving. He was afraid of his son's face when John said *Who do you think is running the Wi-Fi*.
+It was four in the morning. Everyone was asleep. Sanda was asleep on the rug at his feet with her rifle beside her. The plastic candles flickered on the table. He was seventy years old and he had sat up through more midnights as a police officer than he'd care to remember, and he was not afraid of the dark, and he was not afraid of looters, and he was not afraid of a robot from Thanksgiving. He was afraid of his son's face when John said *Who do you think is running the Wi-Fi*.
 
 He got up, quietly. He opened the microwave, quietly. He took out his phone, because it was his phone, and because you never knew, and because a man ought to be able to be reached.
 
@@ -4158,7 +4158,7 @@ He lifted her out of the tub, wet and shivering, and wrapped her in a towel, and
 
 He went back outside with the Sig up and the safety off.
 
-The man he had shot was sitting up on the grass now, talking to Jim. Jim had made him take off the flannel shirt he was wearing and had tied it tight around his right shoulder. Under it the man wore an olive-green t-shirt, dark with blood on the right side. Jim had his rifle — a black AR with a long scope, set up for a left-handed shooter, the brass deflector on the wrong side — leaning against his own leg.
+The man he had shot was sitting up on the grass now, talking to Jim. Jim had made him take off the flannel shirt he was wearing and had tied it tight around his right shoulder. Under it the man wore an olive-green t-shirt, dark with blood on the right side. Jim had the man's rifle — a black AR with a long scope, set up for a left-handed shooter, the brass deflector on the wrong side — leaning against his own leg.
 
 Then John saw the woman by the dumpster.
 
@@ -4278,7 +4278,7 @@ Jim pulled at his mustache for a long time. Then he nodded once.
 
 * * *
 
-They crossed the street in broad daylight, John with an AR-15 slung across his back and Jim carrying the shotgun pointed at the ground. The street was empty. It looked like a ghost town. From halfway across they could smell the dumpster, and the bags around it, and something else under those, which was Sarah.
+They crossed the street in broad daylight, John with the Sig slung across his back and Jim carrying the shotgun pointed at the ground. The street was empty. It looked like a ghost town. From halfway across they could smell the dumpster, and the bags around it, and something else under those, which was Sarah.
 
 Every blind in Sarah's apartment was shut. They went around to the back and stood listening. John could not hear much of anything over the ringing in his ears. *From now on*, he thought, *I wear earplugs. Every time.*
 
@@ -4334,7 +4334,7 @@ He slammed the door.
 
 "Great, Dad. That's great. Because it's your turn. Door number two."
 
-Jim drew the Glock 29 and held it in both hands, the old way, and stood beside the door frame instead of in front of it, the way they had taught him at the academy more than forty years ago, and reached across and opened the door with his left hand. John swung the AR around off his back and turned on the optic and brought it up to his shoulder, covering him. Jim swept the room with the pistol.
+Jim drew the Glock 29 and held it in both hands, the old way, and stood beside the door frame instead of in front of it, the way they had taught him at the academy more than forty years ago, and reached across and opened the door with his left hand. John swung the Sig around off his back and turned on the optic and brought it up, covering him. Jim swept the room with the pistol.
 
 An unmade bed. A cheap dresser. A lamp. No crib. No baby toys. No baby things anywhere.
 
@@ -4430,7 +4430,7 @@ Trevor picked up the nearest pitcher. It was nearly empty. He picked up the next
 
 Trevor lifted the glass and drank it. All of it. His throat moved, swallow after swallow.
 
-John stood in the kitchen doorway and watched the last of their water go down another man's throat, the way he had stood on Monday morning and watched the tub go down the drain.
+John stood in the kitchen doorway and watched the last of their water go down another man's throat, the way he had stood on Monday morning and watched the water in the tub go down the drain.
 
 # Chapter Fifteen
 
@@ -4464,7 +4464,7 @@ He saw a grin start at the corner of Trevor's mouth under the beard, and stop, a
 
 *That cocky fucker*, John thought. *He's standing in my kitchen, he just drank the last of my water, and he's laughing at me.*
 
-"We could go back to the motor home," Jim said, from the couch. He did not sound sure. John thought of the red pin on the little blue map at three in the morning, sitting on top of the motor home, and of the deputies who had been gone by four. He pictured the motor home with its windshield smashed and its door hanging open. If it was still there at all.
+"We could go back to the motor home," Jim said, from the couch. He did not sound sure. John thought of the red pin on the little blue map at three in the morning, sitting on top of the motor home, and of the deputies who had been gone by four-thirty. He pictured the motor home with its windshield smashed and its door hanging open. If it was still there at all.
 
 "I've got six gallons in my garage," Trevor said.
 
@@ -4518,7 +4518,7 @@ He knew the answer. Everyone in the room knew the answer.
 
 * * *
 
-Before they went, Sanda made him eat.
+Before they went, Sanda made Trevor eat.
 
 She set a plate in front of him at the dining table — the white china, a linen napkin — with a handful of almonds, a slice of Manchego going soft at the edges, and a strip of jerky from one of the shiny bags. Trevor picked up the jerky with his left hand and looked at it.
 
@@ -4536,7 +4536,7 @@ Trevor turned it over. "Where do you even buy kangaroo jerky in Florida?"
 
 Trevor chewed and looked at him for a while. "Forty pounds of kangaroo," he said. "And no water." He did not say it unkindly. He said it the way you would read a number off a chart.
 
-He asked questions while he ate. He asked them easily, between bites, the way a man makes conversation at a barbecue, and he did not write anything down. How many of them could shoot. Four, John said; five, if you counted Dorina and the .22. Whether the Barrett had come with the mount. It had; it was in the hall closet, in its case, with the ten rounds. Whether Granny was eighty. "Ninety," Granny said from her stool, "and I can hear you." Whether anybody was on medication. Just Jim's blood pressure pills, which were in the motor home, and John's old Vicodin, which was in Trevor. Whether they had a generator. No. Whether they had any way of getting news from outside. "Granny's radio," John said, and Trevor glanced at the little tan Sony on the counter and smiled and said, "Huh. Old school."
+He asked questions while he ate. He asked them easily, between bites, the way a man makes conversation at a barbecue, and he did not write anything down. How many of them could shoot. Four, John said; five, if you counted Dorina and the twenty-two. Whether the Barrett had come with the mount. It had; it was in the hall closet, in its case, with the ten rounds. Whether Granny was eighty. "Ninety," Granny said from her stool, "and I can hear you." Whether anybody was on medication. Just Jim's blood pressure pills, which were in the motor home, and John's old Vicodin, which was in Trevor. Whether they had a generator. No. Whether they had any way of getting news from outside. "Granny's radio," John said, and Trevor glanced at the little tan Sony on the counter and smiled and said, "Huh. Old school."
 
 Liz Stevens sat on the couch with the AR across her knees and watched him do it.
 
@@ -4580,15 +4580,13 @@ On his way to the door she caught his sleeve and pulled him down the hall into t
 
 "Six gallons."
 
-"Bring back all six," Sanda said, and opened the door.
+"Bring back all six," Sanda said, and opened the bedroom door.
 
-* * *
-
-Granny was sitting at the kitchen counter on her stool. She had been sitting there quietly through the whole conversation, and nobody had been paying attention to her, which was how Granny was used to it.
+Jim and Trevor were waiting for him in the living room. Granny was sitting at the kitchen counter on her stool. She had been sitting there quietly through all of it, the deal and the jerky and the t-shirt, and nobody had been paying attention to her, which was how Granny was used to it.
 
 In front of her on the counter sat an open can of sardines.
 
-John did not know when she had opened it. He did not know who had opened it for her; her hands could not work a can opener anymore. But there it was, the lid peeled back, the little silver fish lying in their oil in a neat row like sleeping children. And beside it, a sleeve of Ritz crackers.
+John stopped. He did not know when she had opened it. He did not know who had opened it for her and her hands did not have the strength to peel back the lid. But there it was, the lid peeled back, the little silver fish lying in their oil in a neat row like sleeping children. And beside it, a sleeve of Ritz crackers.
 
 As John watched, Granny took one sardine out of the can with her knotted fingers and laid it on a cracker. She did not look at the sardine. She looked at him.
 
@@ -4602,15 +4600,13 @@ Granny said nothing.
 
 It was, he would think later, the whole of their relationship, all ninety and forty-two years of it, and it was perfect.
 
-* * *
-
 "You guys ready?" John asked.
 
-Jim and Trevor nodded. The three of them went to the front door. Jim carried the shotgun the way he had carried his shotgun on the job, in one hand, pointed almost straight down at the floor. Trevor had his left-handed rifle slung across his back, so both hands were free. John had the Sig hanging across his belly on its sling. Trevor reached out with his left hand and took hold of the brass doorknob.
+Jim and Trevor nodded. The three of them crossed the living room to the front door, past Liz and her rifle. Jim carried the shotgun the way he had carried his shotgun on the job, in one hand, pointed almost straight down at the floor. Trevor had his left-handed rifle slung across his back, so both hands were free. John had the Sig hanging across his belly on its sling. Trevor reached out with his left hand and took hold of the brass doorknob to let them out.
 
-And the apartment came alive.
+And behind them, the apartment came alive.
 
-Every light came on at once. All of them — every lamp and every overhead in every room, because on Monday morning John had gone through the apartment flipping every switch to the *on* position to see what was working, and had never flipped them back. Light poured out of the ceiling like water out of a broken pipe. After three days of flashlights and plastic candles it stabbed everybody in the eyes, and they all threw up their arms and squinted and cheered at the same time. The refrigerator shuddered and began to hum. The wine cooler beeped twice. Charlie went off like a fire alarm. From down the hall came a gurgle, and then a hiss, and then the steady, beautiful sound of the toilet tank in the guest bathroom filling.
+Every light came on at once. All of them — every lamp and every overhead in every room, because on Monday morning, in the dark, John had gone through his own apartment flipping every switch to the *on* position to see what was working, and had never flipped them back. Light poured out of the ceiling like water out of a broken pipe. After three days of flashlights and plastic candles it stabbed everybody in the eyes, and they all threw up their arms and squinted and cheered at the same time. The refrigerator shuddered and began to hum. The wine cooler beeped twice. Charlie went off like a fire alarm. From down the hall came a gurgle, and then a hiss, and then the steady, beautiful sound of the toilet tank in the guest bathroom filling.
 
 "I think the water's back on!" John shouted.
 
@@ -4684,7 +4680,7 @@ John got down on his hands and knees and found the shell under the table by feel
 
 * * *
 
-It was nearly full dark when the three of them went out the front door, Trevor first with his left hand, John behind, Jim last, pulling the door shut.
+It was nearly full dark when the three of them finally went out the front door, Trevor first with his left hand, John behind, Jim last, pulling the door shut.
 
 They crossed the street without lights. There was a fingernail of moon low in the west, thin as a paring, and it put a faint shine on the asphalt and nothing else. Halfway across, John heard engines.
 
@@ -4756,13 +4752,13 @@ John saw the buttstock coming. It filled the beam of his flashlight. It filled h
 >
 > — menu card, Alinea, Chicago, the last night of June
 
-It was the last night of June, a long time ago, the summer they both turned twenty-nine, and the limousine pulled up in front of a narrow dark-gray building on Halsted Street with no sign on it anywhere.
+It was the last night of June, a long time ago, the summer they were both twenty-nine, and the limousine pulled up in front of a narrow dark-gray building on Halsted Street with no sign on it anywhere.
 
 John had wanted to eat there for five years. He had read about it, watched videos about it, saved for it, and booked it three months in advance on the first day reservations opened, at nine in the morning, from his desk, with his heart pounding as if he were buying concert tickets. The valet opened the limousine door and held out a white-gloved hand to Sanda, and Sanda stepped out in a black silk dress and her mother's gold earrings, and John stepped out after her in the only suit he owned that still fit, and they stood together on the sidewalk and looked at two tall black doors with no handles.
 
 A man in a gray suit opened one of them without a word and gestured them in.
 
-Behind the door it was dark. It took their eyes several seconds to adjust from the bright Chicago evening to a dim red glow, and in the red glow they could see a long, narrow hallway, and hanging from the ceiling at different heights all down the hallway were dozens of glass vases filled with liquid, catching the red light. John looked down. He was walking on grass. Real grass, growing out of the floor. The air in the hallway smelled of it — fresh-cut grass, summer, a lawn after rain. In the dream, he could smell it. He could smell everything. He had forgotten what that was like.
+Behind the door it was dark. It took their eyes several seconds to adjust from the bright Chicago evening to a dim red glow, and in the red glow they could see a long, narrow hallway, and hanging from the ceiling at different heights all down the hallway were dozens of glass vases filled with liquid, catching the red light. John looked down. He was walking on grass. Real grass, growing out of the floor. The air in the hallway smelled of it — fresh-cut grass, summer, a lawn after rain. He could smell everything. He had forgotten what that was like.
 
 At the end of the hallway a door slid open on its own, and the light changed, and a young woman said, "Good evening, Mr. and Mrs. Stevens," as though she had been waiting for them all her life, and led them up a flight of stairs to a small quiet room with four tables.
 
@@ -4888,11 +4884,11 @@ Everybody in the room flinched. Over three days they had all gotten used to Sand
 
 "Okay! Fine!" Sanda said. "Just a second!"
 
-She went into the guest bedroom and came out with the old bolt-action .22, the one with the dark wooden stock worn smooth by decades of hands.
+She went into the guest bedroom and came out with the old bolt-action twenty-two, the one with the dark wooden stock worn smooth by decades of hands.
 
 "Is that my father's old gun?" Liz asked.
 
-"Yes," Sanda said, shortly. She found the box of .22 shells in the desk drawer and grabbed a handful. "This is fucking ridiculous." She twisted the little brass knob at the end of the tube under the barrel and pulled out the long rod inside it, the follower. She dropped ten little cartridges into the tube, one at a time, tilting the barrel up and slapping the side of the rifle with her palm after each one, so they would slide all the way down. She put the rod back in and twisted it to lock. She flipped the bolt handle up, pulled the bolt all the way back, and slammed it forward, and turned the handle down to lock it. A round was in the chamber. Sanda had not known she knew how to do any of that. She had watched John do it, once, at the range.
+"Yes," Sanda said, shortly. She found the box of twenty-two shells in the desk drawer and grabbed a handful. "This is fucking ridiculous." She twisted the little brass knob at the end of the tube under the barrel and pulled out the long rod inside it, the follower. She dropped ten little cartridges into the tube, one at a time, tilting the barrel up and slapping the side of the rifle with her palm after each one, so they would slide all the way down. She put the rod back in and twisted it to lock. She flipped the bolt handle up, pulled the bolt all the way back, and slammed it forward, and turned the handle down to lock it. A round was in the chamber. Sanda had not known she knew how to do any of that. She had watched John do it, once, at the range.
 
 "Take this, Mommy," Sanda said, and handed the rifle to her mother. "You remember how it works?"
 
@@ -5068,7 +5064,7 @@ They went back the way Sanda and Liz had come, behind the buildings, in the dark
 
 "My mom's pointing a rifle at the front door," Sanda whispered. "So we go in the back."
 
-They came in through the sliding door. Granny was asleep on the couch under a throw blanket. Dorina sat in the dining chair facing the front door with the old .22 across her lap, and her chin was on her chest, and she was breathing slowly and deeply, with a little snore at the end of each breath.
+They came in through the sliding door. Granny was asleep on the couch under a throw blanket. Dorina sat in the dining chair facing the front door with the old twenty-two across her lap, and her chin was on her chest, and she was breathing slowly and deeply, with a little snore at the end of each breath.
 
 Sanda turned toward the others and made a gesture with her hand, palm down, pressing — *quiet*, *quiet* — over and over.
 
@@ -5184,7 +5180,7 @@ There was a quarter inch left. Jim poured it into a glass and drank it without a
 
 So all of them went.
 
-They went out through the back, behind the buildings, in a formation that John had seen in a movie once and had tried to explain on the patio in about forty seconds. It would have made a drill sergeant weep. John was on point with the Sig, squinting out of his one good eye. Sanda and Liz were on the flanks with their ARs. Jim brought up the rear with the shotgun, walking backward half the time, the way he had seen it done on television, until he tripped on a root and Liz told him to stop. In the middle came Dorina, with the old .22 on her shoulder like a soldier on parade and Charlie's leash in her other hand, and Granny beside her in her pink housecoat and her terrycloth slippers, holding the pug in her arms like a baby, with the transistor radio making a square bulge in her pocket. Charlie stopped to pee on every tree.
+They went out through the back, behind the buildings, in a formation that John had seen in a movie once and had tried to explain on the patio in about forty seconds. It would have made a drill sergeant weep. John was on point with the Sig, squinting out of his one good eye. Sanda and Liz were on the flanks with their ARs. Jim brought up the rear with the shotgun, walking backward half the time, the way he had seen it done on television, until he tripped on a root and Liz told him to stop. In the middle came Dorina, with the old twenty-two on her shoulder like a soldier on parade and Charlie's leash in her other hand, and Granny beside her in her pink housecoat and her terrycloth slippers, holding the pug in her arms like a baby, with the transistor radio making a square bulge in her pocket. Charlie stopped to pee on every tree.
 
 Six people and two dogs, creeping in a line through the wet pine straw in the gray dawn, armed to the teeth, to steal rice from a man two of them had killed.
 
@@ -5334,7 +5330,7 @@ It was the kindest thing she had said to him since Monday morning. They both kne
 
 Dorina had understood perhaps a third of the English and all of the situation.
 
-She was standing in front of the television with the .22 on her shoulder, looking up at the white letters and the eagle seal, and she had a look on her face that none of them had ever seen. It was not afraid. It was something older than that. She said something in Romanian, quietly, not to anyone.
+She was standing in front of the television with the twenty-two on her shoulder, looking up at the white letters and the eagle seal, and she had a look on her face that none of them had ever seen. It was not afraid. It was something older than that. She said something in Romanian, quietly, not to anyone.
 
 "What, Mommy?" Sanda asked.
 
@@ -5392,7 +5388,7 @@ Then it was quiet. Really quiet. There was no hum anywhere, not in the garage, n
 
 Trevor's supplies were in his bedroom closet, behind a curtain, on steel shelves, labeled.
 
-Six blue plastic jugs of water, a gallon each. A white five-gallon food bucket with a gasket lid, labeled RICE — 50 LB in black marker. A second bucket of dried beans. A case of canned chicken. A stainless steel water filter as tall as a coffee urn, with two black ceramic cartridges inside. A hand-crank radio with a flashlight on one end. A red nylon bag that said TRAUMA on it, full of things Dorina took one look at and began to touch with something like love. And in the garage, in the corner, the red hand cart.
+Six blue plastic jugs of water, a gallon each. A white five-gallon food bucket with a gasket lid, labeled RICE — 50 LB in black marker. A second bucket of dried beans. A case of canned chicken. A stainless steel water filter as tall as a coffee urn, with two black ceramic cartridges inside. A hand-crank radio with a flashlight on one end. An empty red gas can. A red nylon bag that said TRAUMA on it, full of things Dorina took one look at and began to touch with something like love. And in the garage, in the corner, the red hand cart.
 
 They loaded it all onto the hand cart. John stood back and looked at it.
 
@@ -5410,7 +5406,7 @@ It came at dusk. It was not hard, like Jim's. It was polite. Charlie went off li
 
 There were seven people on his front walk.
 
-The old man from down the street stood in front. He was small and neat, with his silver mustache trimmed and his white guayabera buttoned to the collar under the navy cardigan, and his brown leather slippers were dark with rain, and his face was gray and damp with sweat in the cold. Behind him stood the young couple from two doors down. The husband was in his late twenties, with a sleeve of orange koi tattooed down one forearm under a black hoodie pushed up to the elbow. The wife wore purple scrubs, the last clean thing, John would learn, that she owned, and she was holding their little boy on her hip in dinosaur pajamas, and the little boy was not crying, which was somehow worse than if he had been. Behind them were three more people John had seen all his life at the Preserve and never spoken to: a big woman of fifty in a pink bathrobe and pink foam curlers; a teenage boy holding a skateboard he did not seem to know he was holding; and a very old man in a Korean War veteran's cap, leaning on a walker with tennis balls on its feet.
+The old man from down the street stood in front. He was small and neat, with his silver mustache trimmed and his white guayabera buttoned to the collar under the navy cardigan, and his brown leather slippers were dark with rain, and his face was gray and damp with sweat in the cold. Behind him stood the young couple from two doors down. The husband was in his late twenties, with a sleeve of orange koi tattooed down one forearm under a black hoodie pushed up to the elbow. The wife wore purple scrubs, the last clean thing, John would learn, that she owned, and she was holding their little boy on her hip in dinosaur pajamas, and the little boy was not crying, which was somehow worse than if he had been. Behind them were three more people John had seen around the Preserve for two years and never spoken to: a big woman of fifty in a pink bathrobe with disheveled curly hair; a teenage boy holding a skateboard he did not seem to know he was holding; and a very old man in a Korean War veteran's cap, leaning on a walker with tennis balls on its feet.
 
 John opened the door with the Sig held low.
 
@@ -5594,13 +5590,7 @@ Jim packed his phone charger.
 
 The ammunition was a problem. There was more of it than there was of anything else, in heavy steel cans and cardboard cases, and John stood in the bedroom looking at it and doing arithmetic.
 
-"Dad," John said. "This is a long shot. You don't have a hand cart in the motor home?"
-
-"Nope. Got one at home." Jim scratched his head under his cap. "There was one in that fella's garage, though. Red one."
-
-"I'll get it," John said. "From Shithole's apartment."
-
-He jogged over to Heron in the sun. Through the jagged hole of Trevor's front window he could see the shape under the gray throw blanket. The apartment smelled of death — he could smell it; he wished he couldn't — and he took the red hand cart from the garage and got out as fast as he had ever gotten out of anywhere.
+Then he remembered the hand cart. It was standing by the front door where they had left it the day before, Trevor's red hand cart. He looked at it for a second longer than he needed to. Then he went and got it.
 
 It took ten trips. John loaded the ammunition on the cart at the apartment door and rolled it to the motor home, and his father stood in the doorway and took each box from him and set it somewhere in the motor home, and then moved it, and then moved it again, trying to keep the weight even side to side, like a man packing the car for a trip to the beach and worrying about the tires.
 
@@ -5642,13 +5632,13 @@ He put them on. The words came up off the page like something surfacing in a pon
 
 Jim grunted as he fed the thirty-pound rifle up through the hatch, and John settled it into the mount and locked it in. It sat on the roof above the shattered windshield like a figurehead on the prow of a ship.
 
-He loaded the ten .50 BMG cartridges he had bought for educational purposes into one of the big steel magazines, and screwed a small step ladder to the floor under the hatch, and climbed it. Standing on the top step, the top half of his body was out on the roof. He leaned to his right. His hands fell on the rifle exactly where they needed to be. He checked the safety. He seated the magazine. He pulled back the charging handle and let it go, and it slammed home.
+He loaded the ten rounds of fifty BMG he had bought for educational purposes into one of the big steel magazines, and screwed a small step ladder to the floor under the hatch, and climbed it. Standing on the top step, the top half of his body was out on the roof. He leaned to his right. His hands fell on the rifle exactly where they needed to be. He checked the safety. He seated the magazine. He pulled back the charging handle and let it go, and it slammed home.
 
 "Barrett is ready to go," John called down through the hatch. "Chambered. Safety on."
 
 He climbed down and stood in the aisle and looked at his family.
 
-"Dad. You're driving. You've got the shotgun and the forty." Jim nodded. "Sanda, you've got your AR and the Bodyguard." Sanda nodded. "Mom. Your AR, and my Glock 26." Liz nodded. "Dorina, you've got the twenty-two." Dorina held up the .22 and the stun gun together, like a woman holding up two winning tickets. "I've got the Sig, and the forty-five, and the .308 for distance." He looked at Granny, sitting on the couch with the pug and the radio and the church fan.
+"Dad. You're driving. You've got the shotgun and the forty." Jim nodded. "Sanda, you've got your AR and the Bodyguard." Sanda nodded. "Mom. Your AR, and my Glock 26." Liz nodded. "Dorina, you've got the twenty-two." Dorina held up the twenty-two and the stun gun together, like a woman holding up two winning tickets. "I've got the Sig, and the forty-five, and the three-oh-eight for distance." He looked at Granny, sitting on the couch with the pug and the radio and the church fan.
 
 "Granny," John said. "You've got the radio."
 
@@ -5718,7 +5708,7 @@ There was an old blue Ford pickup from the nineties dead on the shoulder, nose-d
 
 John fed the hose down into the truck's tank until he felt it hit bottom, and put the gas can on the ground below the tank, and put the end of the hose in his mouth, and sucked.
 
-Nothing happened. He sucked harder, as hard as he had ever sucked on anything in his life, and the gasoline came up the hose all at once like a snake out of a hole and filled his mouth.
+Gasoline came up the hose all at once like a snake out of a hole and filled his mouth.
 
 He spat and coughed and spat on his knees on the shoulder of Interstate 75, while the gas poured out of the hose into the red can exactly the way it was supposed to.
 
@@ -5904,7 +5894,7 @@ Dee Pruitt looked at Granny for a long moment from the back of the mule. Then sh
 
 "We met them," Jim said.
 
-Hollis looked at Jim, and at Jim's badge on his windbreaker, and at the half of Jim's mustache that was left. He looked at Sanda and Liz with their rifles, and at Dorina in her quilted coat with the old .22 on her shoulder and a dog on a leash, and at John, standing in the motor home doorway with his left arm in a sling made from one of Sanda's silk scarves and his face purple and green. Then he looked up, slowly, at the roof of the motor home, at the Barrett, which was still pointed down the road at nothing.
+Hollis looked at Jim, and at Jim's badge on his windbreaker, and at the half of Jim's mustache that was left. He looked at Sanda and Liz with their rifles, and at Dorina in her quilted coat with the old twenty-two on her shoulder and a dog on a leash, and at John, standing in the motor home doorway with his left arm in a sling made from one of Sanda's silk scarves and his face purple and green. Then he looked up, slowly, at the roof of the motor home, at the Barrett, which was still pointed down the road at nothing.
 
 "You folks expecting the Russians?" Hollis asked.
 
@@ -6076,7 +6066,7 @@ Jim carried the eggs down the road to the Pruitts every morning in a basket, wea
 
 Liz kept the ledger.
 
-She kept it in the Home Goods notebook with the little yellow pineapples on the cover, in her neat banker's hand, in two columns, owed and paid. Eggs. Diesel for Hollis's tractor. Stitches. A haircut. Two jars of honey. Cartridges. It was the only bank in a hundred miles and it had never once been wrong. A box of fifty .22 long rifle cartridges, it turned out, traded on the road for two eggs, which was almost exactly what John had predicted on Black Friday on the floor among the Christmas ornaments. He had mentioned this to his family, by Liz's own careful count in the back of the ledger, approximately four hundred times.
+She kept it in the Home Goods notebook with the little yellow pineapples on the cover, in her neat banker's hand, in two columns, owed and paid. Eggs. Diesel for Hollis's tractor. Stitches. A haircut. Two jars of honey. Cartridges. It was the only bank in a hundred miles and it had never once been wrong. A fifty-round box of twenty-two long rifle cartridges, it turned out, traded on the road for two eggs, which was almost exactly what John had predicted on Black Friday on the floor among the Christmas ornaments. He had mentioned this to his family, by Liz's own careful count in the back of the ledger, approximately four hundred times.
 
 "You were right about one thing," Sanda told him, on the four hundred and first. "Enjoy it."
 
@@ -6118,7 +6108,7 @@ It was a bucket truck, old, from the eighties, white with a co-op's name painted
 
 That was all. That was the whole thing.
 
-In March, John had rewired the old house's kitchen himself. He had a degree in electrical engineering that he had not used for twenty years, and Hollis had a booklet in his barn from the Rural Electrification Administration, printed in nineteen fifty-two, called *Wiring Your Farm Home*, and John had read every page of it with his mother's glasses on. He had hung a single porcelain socket from the middle of the kitchen ceiling on a cloth-covered wire, with a little brass pull chain, and screwed in a bulb. Hollis had dug an old meter out of the barn, the kind with a spinning wheel, and they had put it on the wall outside. They had left the chain pulled. Just in case.
+In March, John had rewired the old house's kitchen himself. He had a degree in electrical engineering that he had not used for twenty years, and Hollis had a booklet in his barn from the Rural Electrification Administration, printed in nineteen fifty-two, called *Wiring Your Farm Home*, and John had read every page of it with his mother's glasses on. He had hung a single porcelain socket from the middle of the kitchen ceiling on a cloth-covered wire, with a little brass pull chain, and screwed in a bulb. Hollis had dug an old meter out of the barn, the kind with a spinning wheel, and they had put it on the wall outside. They had left it switched on. Just in case.
 
 The bulb came on.
 

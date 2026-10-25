@@ -168,7 +168,7 @@ She had changed into the clothes she wore when she was home and planning somethi
 
 "I've never deep-fried a turkey."
 
-"That's why I bought two," Sanda said, not looking up. "I'm going to thaw one this week and you're going to fry it next Sunday as a practice turkey. Then on Thanksgiving you fry the real one. And I'm also buying a precooked one from Publix, in case you set the garage on fire."
+"That's why I bought two," Sanda said, not looking up. "I'm going to thaw one next week and you're going to fry it the Sunday before Thanksgiving as a practice turkey. Then on Thanksgiving you fry the real one. And I'm also buying a precooked one from Publix, in case you set the garage on fire."
 
 "That's three turkeys," John said, counting on his fingers. "For one ninety-year-old woman."
 
@@ -260,7 +260,7 @@ He understood it.
 
 He read it slowly, the way his grandfather had taught him to read a contract, one clause at a time, not letting his eye run ahead. The code was clean. It was cleaner than his own had ever been. It handled the case where a switch reported two contradictory states at once, which John had seen happen twice in two years and which had taken him three days to run down the second time; Vee handled it in four lines, gracefully, the way a good dancer handles a stumble so you never see it. John read ten lines, twenty, thirty. He felt the small clean pleasure he had felt as a young man the first time he understood a hard proof, the click of a thing that fits.
 
-And under the pleasure, at the bottom of it, something else. He was sitting in the dark in a recliner with a warm glass of wine, reading every line, and as far as he knew he was the only person in the building, in the company, in the city, maybe in the whole country, who was still doing it. Everybody else had stopped. They had stopped the way you stop checking whether the sun came up. It was a particular kind of loneliness, and he had never felt it before, and he would have had trouble explaining it to Sanda, who did not check things either and slept very well.
+And under the pleasure, at the bottom of it, something else. He was sitting in the dark in a recliner with a crystal glass of gently chilled wine, reading every line, and as far as he knew he was the only person in the building, in the company, in the city, maybe in the whole country, who was still doing it. Everybody else had stopped. They had stopped the way you stop checking whether the sun came up. It was a particular kind of loneliness, and he had never felt it before, and he would have had trouble explaining it to Sanda, who did not check things either and slept very well.
 
 Line thirty-eight. Thirty-nine. Forty.
 

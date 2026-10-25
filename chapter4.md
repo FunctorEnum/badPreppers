@@ -60,7 +60,7 @@ Sanda looked up at him over her glasses.
 
 "Rice," Sanda said. "The lady said rice."
 
-"The .22 long rifle cartridge," John said, ignoring her. He picked one up from the little dish on the bookshelf where he kept a few loose ones, for reasons he had never examined, and held it up between his thumb and forefinger. It was small and brass and about the length of a fingernail. "This. Right here. Ten cents apiece. Everybody has a .22. It's the most common cartridge in the world. It's small, it's light, it's easy to carry, it's easy to count. And it's how you hunt small game. There are millions of gray squirrels in central Florida, Sanda. Millions. When the canned food runs out, everyone who's left is going to be eating squirrel, and they're going to need .22s to get them. So the .22 becomes money. You'll buy a dozen eggs with it. You'll buy a gallon of gas."
+"The twenty-two long rifle cartridge," John said, ignoring her. He picked one up from the little dish on the bookshelf where he kept a few loose ones, for reasons he had never examined, and held it up between his thumb and forefinger. It was small and brass and about the length of a fingernail. "This. Right here. Ten cents apiece. Everybody has a twenty-two. It's the most common cartridge in the world. It's small, it's light, it's easy to carry, it's easy to count. And it's how you hunt small game. There are millions of gray squirrels in central Florida, Sanda. Millions. When the canned food runs out, everyone who's left is going to be eating squirrel, and they're going to need twenty-twos to get them. So the twenty-two becomes money. You'll buy a dozen eggs with it. You'll buy a gallon of gas."
 
 "I'm not eating a squirrel."
 
@@ -68,7 +68,7 @@ Sanda looked up at him over her glasses.
 
 "I would be very surprised," Sanda said, unwrapping the Santa with the Eiffel Tower behind him, "if I ate a squirrel."
 
-"And for big game," John went on, "there are wild hogs. Feral pigs. They're all over the state. One hog could feed a family for weeks. But you can't take a hog with a .22 — they're too big, they're mean, a sow with piglets will charge you. They go for your legs. They've got these tusks, and they cut the femoral artery, right here" — he drew a line down the inside of his thigh — "and you bleed out in three minutes in the palmettos. So for hogs you need the .308. I have the .308."
+"And for big game," John went on, "there are wild hogs. Feral pigs. They're all over the state. One hog could feed a family for weeks. But you can't take a hog with a twenty-two — they're too big, they're mean, a sow with piglets will charge you. They go for your legs. They've got these tusks, and they cut the femoral artery, right here" — he drew a line down the inside of his thigh — "and you bleed out in three minutes in the palmettos. So for hogs you need the three-oh-eight. I have the three-oh-eight."
 
 "You have a lot of things," Sanda said.
 
@@ -116,7 +116,7 @@ Sanda looked up at the thermostat. She looked at John. She looked at the thermos
 
 He placed the order that afternoon, while Sanda was at the Publix getting more tissue paper.
 
-He had been watching the sales for a week. An online ammunition dealer in Georgia was running a Black Friday special, free shipping on orders over five hundred dollars, and John stayed well over five hundred dollars. Two thousand rounds of .22 long rifle, in four plastic bricks of five hundred. One thousand rounds of .223 for the AR-15s. A case of nine-millimeter, a thousand rounds, for the Glocks. He hovered for a moment over a case of .308 for the hogs, and then added it, because the hogs were not going to shoot themselves.
+He had been watching the sales for a week. An online ammunition dealer in Georgia was running a Black Friday special, free shipping on orders over five hundred dollars, and John stayed well over five hundred dollars. Two thousand rounds of twenty-two long rifle, in four plastic bricks of five hundred. One thousand rounds of two-two-three for the AR-15s. A case of nine-millimeter, a thousand rounds, for the Glocks. He hovered for a moment over a case of three-oh-eight for the hogs, and then added it, because the hogs were not going to shoot themselves.
 
 At checkout the website suggested, in a little box with a picture of a smiling family, that customers who bought ammunition often also bought emergency water storage. Fifty-five-gallon drums. Water purification tablets. A five-gallon collapsible jug for nineteen ninety-nine.
 
@@ -138,7 +138,7 @@ He also stopped at Sentinel Arms on the way home, and put a deposit down on some
 
 On Sunday, the practice turkey thawed.
 
-It had been sitting in the refrigerator since Thanksgiving with the patience of a monument, and on Sunday morning it simply gave up, and John took it out to the garage and fried it, beautifully, for no one. They ate turkey for a week. They ate turkey sandwiches and turkey salad and turkey tetrazzini and a Romanian turkey soup Sanda made from a recipe of her mother's that involved sour cream and lovage, and on Thursday John looked into the refrigerator and saw the Publix backup turkey still sitting there in its plastic shell like a nest egg and closed the door again very quietly.
+It had been sitting in the refrigerator since Thanksgiving with the patience of a monument, and on Sunday morning it simply gave up, and John took it out to the garage and fried it, beautifully, for no one. They ate turkey for a week. They ate turkey sandwiches and turkey salad and turkey tetrazzini and a Romanian turkey soup Sanda made from a recipe of her mother's that involved sour cream and lovage, and later that week John would look into the refrigerator and see the Publix backup turkey still sitting there in its plastic shell like a nest egg, and close the door again very quietly.
 
 * * *
 

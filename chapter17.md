@@ -42,7 +42,7 @@ There was a quarter inch left. Jim poured it into a glass and drank it without a
 
 So all of them went.
 
-They went out through the back, behind the buildings, in a formation that John had seen in a movie once and had tried to explain on the patio in about forty seconds. It would have made a drill sergeant weep. John was on point with the Sig, squinting out of his one good eye. Sanda and Liz were on the flanks with their ARs. Jim brought up the rear with the shotgun, walking backward half the time, the way he had seen it done on television, until he tripped on a root and Liz told him to stop. In the middle came Dorina, with the old .22 on her shoulder like a soldier on parade and Charlie's leash in her other hand, and Granny beside her in her pink housecoat and her terrycloth slippers, holding the pug in her arms like a baby, with the transistor radio making a square bulge in her pocket. Charlie stopped to pee on every tree.
+They went out through the back, behind the buildings, in a formation that John had seen in a movie once and had tried to explain on the patio in about forty seconds. It would have made a drill sergeant weep. John was on point with the Sig, squinting out of his one good eye. Sanda and Liz were on the flanks with their ARs. Jim brought up the rear with the shotgun, walking backward half the time, the way he had seen it done on television, until he tripped on a root and Liz told him to stop. In the middle came Dorina, with the old twenty-two on her shoulder like a soldier on parade and Charlie's leash in her other hand, and Granny beside her in her pink housecoat and her terrycloth slippers, holding the pug in her arms like a baby, with the transistor radio making a square bulge in her pocket. Charlie stopped to pee on every tree.
 
 Six people and two dogs, creeping in a line through the wet pine straw in the gray dawn, armed to the teeth, to steal rice from a man two of them had killed.
 
@@ -192,7 +192,7 @@ It was the kindest thing she had said to him since Monday morning. They both kne
 
 Dorina had understood perhaps a third of the English and all of the situation.
 
-She was standing in front of the television with the .22 on her shoulder, looking up at the white letters and the eagle seal, and she had a look on her face that none of them had ever seen. It was not afraid. It was something older than that. She said something in Romanian, quietly, not to anyone.
+She was standing in front of the television with the twenty-two on her shoulder, looking up at the white letters and the eagle seal, and she had a look on her face that none of them had ever seen. It was not afraid. It was something older than that. She said something in Romanian, quietly, not to anyone.
 
 "What, Mommy?" Sanda asked.
 
@@ -250,7 +250,7 @@ Then it was quiet. Really quiet. There was no hum anywhere, not in the garage, n
 
 Trevor's supplies were in his bedroom closet, behind a curtain, on steel shelves, labeled.
 
-Six blue plastic jugs of water, a gallon each. A white five-gallon food bucket with a gasket lid, labeled RICE — 50 LB in black marker. A second bucket of dried beans. A case of canned chicken. A stainless steel water filter as tall as a coffee urn, with two black ceramic cartridges inside. A hand-crank radio with a flashlight on one end. A red nylon bag that said TRAUMA on it, full of things Dorina took one look at and began to touch with something like love. And in the garage, in the corner, the red hand cart.
+Six blue plastic jugs of water, a gallon each. A white five-gallon food bucket with a gasket lid, labeled RICE — 50 LB in black marker. A second bucket of dried beans. A case of canned chicken. A stainless steel water filter as tall as a coffee urn, with two black ceramic cartridges inside. A hand-crank radio with a flashlight on one end. An empty red gas can. A red nylon bag that said TRAUMA on it, full of things Dorina took one look at and began to touch with something like love. And in the garage, in the corner, the red hand cart.
 
 They loaded it all onto the hand cart. John stood back and looked at it.
 
@@ -268,7 +268,7 @@ It came at dusk. It was not hard, like Jim's. It was polite. Charlie went off li
 
 There were seven people on his front walk.
 
-The old man from down the street stood in front. He was small and neat, with his silver mustache trimmed and his white guayabera buttoned to the collar under the navy cardigan, and his brown leather slippers were dark with rain, and his face was gray and damp with sweat in the cold. Behind him stood the young couple from two doors down. The husband was in his late twenties, with a sleeve of orange koi tattooed down one forearm under a black hoodie pushed up to the elbow. The wife wore purple scrubs, the last clean thing, John would learn, that she owned, and she was holding their little boy on her hip in dinosaur pajamas, and the little boy was not crying, which was somehow worse than if he had been. Behind them were three more people John had seen all his life at the Preserve and never spoken to: a big woman of fifty in a pink bathrobe and pink foam curlers; a teenage boy holding a skateboard he did not seem to know he was holding; and a very old man in a Korean War veteran's cap, leaning on a walker with tennis balls on its feet.
+The old man from down the street stood in front. He was small and neat, with his silver mustache trimmed and his white guayabera buttoned to the collar under the navy cardigan, and his brown leather slippers were dark with rain, and his face was gray and damp with sweat in the cold. Behind him stood the young couple from two doors down. The husband was in his late twenties, with a sleeve of orange koi tattooed down one forearm under a black hoodie pushed up to the elbow. The wife wore purple scrubs, the last clean thing, John would learn, that she owned, and she was holding their little boy on her hip in dinosaur pajamas, and the little boy was not crying, which was somehow worse than if he had been. Behind them were three more people John had seen around the Preserve for two years and never spoken to: a big woman of fifty in a pink bathrobe with disheveled curly hair; a teenage boy holding a skateboard he did not seem to know he was holding; and a very old man in a Korean War veteran's cap, leaning on a walker with tennis balls on its feet.
 
 John opened the door with the Sig held low.
 

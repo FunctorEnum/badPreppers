@@ -140,7 +140,7 @@ He lifted her out of the tub, wet and shivering, and wrapped her in a towel, and
 
 He went back outside with the Sig up and the safety off.
 
-The man he had shot was sitting up on the grass now, talking to Jim. Jim had made him take off the flannel shirt he was wearing and had tied it tight around his right shoulder. Under it the man wore an olive-green t-shirt, dark with blood on the right side. Jim had his rifle — a black AR with a long scope, set up for a left-handed shooter, the brass deflector on the wrong side — leaning against his own leg.
+The man he had shot was sitting up on the grass now, talking to Jim. Jim had made him take off the flannel shirt he was wearing and had tied it tight around his right shoulder. Under it the man wore an olive-green t-shirt, dark with blood on the right side. Jim had the man's rifle — a black AR with a long scope, set up for a left-handed shooter, the brass deflector on the wrong side — leaning against his own leg.
 
 Then John saw the woman by the dumpster.
 
@@ -260,7 +260,7 @@ Jim pulled at his mustache for a long time. Then he nodded once.
 
 * * *
 
-They crossed the street in broad daylight, John with an AR-15 slung across his back and Jim carrying the shotgun pointed at the ground. The street was empty. It looked like a ghost town. From halfway across they could smell the dumpster, and the bags around it, and something else under those, which was Sarah.
+They crossed the street in broad daylight, John with the Sig slung across his back and Jim carrying the shotgun pointed at the ground. The street was empty. It looked like a ghost town. From halfway across they could smell the dumpster, and the bags around it, and something else under those, which was Sarah.
 
 Every blind in Sarah's apartment was shut. They went around to the back and stood listening. John could not hear much of anything over the ringing in his ears. *From now on*, he thought, *I wear earplugs. Every time.*
 
@@ -316,7 +316,7 @@ He slammed the door.
 
 "Great, Dad. That's great. Because it's your turn. Door number two."
 
-Jim drew the Glock 29 and held it in both hands, the old way, and stood beside the door frame instead of in front of it, the way they had taught him at the academy more than forty years ago, and reached across and opened the door with his left hand. John swung the AR around off his back and turned on the optic and brought it up to his shoulder, covering him. Jim swept the room with the pistol.
+Jim drew the Glock 29 and held it in both hands, the old way, and stood beside the door frame instead of in front of it, the way they had taught him at the academy more than forty years ago, and reached across and opened the door with his left hand. John swung the Sig around off his back and turned on the optic and brought it up, covering him. Jim swept the room with the pistol.
 
 An unmade bed. A cheap dresser. A lamp. No crib. No baby toys. No baby things anywhere.
 
@@ -412,4 +412,4 @@ Trevor picked up the nearest pitcher. It was nearly empty. He picked up the next
 
 Trevor lifted the glass and drank it. All of it. His throat moved, swallow after swallow.
 
-John stood in the kitchen doorway and watched the last of their water go down another man's throat, the way he had stood on Monday morning and watched the tub go down the drain.
+John stood in the kitchen doorway and watched the last of their water go down another man's throat, the way he had stood on Monday morning and watched the water in the tub go down the drain.

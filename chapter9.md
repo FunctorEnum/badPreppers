@@ -8,9 +8,9 @@
 
 At noon on Tuesday the internet did not go out. It got old.
 
-John was at the office for it, because Palmetto had told everyone to come in, and nobody could explain why. There was nothing to do. Vee had been switched off on Monday night by federal directive, and without Vee the company's software development lifecycle consisted of thirty-one people sitting at standing desks looking at each other. Somebody had brought in donuts. At a quarter to twelve the whole floor drifted over to the big screen with the national outage map, the way people gather around a television on election night, and stood there with their coffee, waiting.
+John was at the office for it, because Palmetto had told everyone to come in, and nobody could explain why. There was nothing to do. Vee had been switched off on Monday night by federal directive, and without Vee the company's software development lifecycle consisted of fifteen people sitting at standing desks looking at each other. Somebody had brought in donuts. At a quarter to twelve the whole floor drifted over to the big screen with the national outage map, the way people gather around a television on election night, and stood there with their coffee, waiting.
 
-At noon, nothing happened. At 12:01, the map froze. The little yellow lightning bolts stopped blinking. Then the map went white, and reloaded, slowly, painting itself onto the screen from the top down in thick horizontal stripes — the blue of the oceans first, then the gray outline of the states, then, one by one, the bolts — the way pictures had loaded on the internet when John was in his twenties, back when you could go and make a sandwich while a photograph arrived.
+At noon, nothing happened. At 12:01, the map froze. The little yellow lightning bolts stopped blinking. Then the map went white, and reloaded, slowly, painting itself onto the screen from the top down in thick horizontal stripes — the blue of the oceans first, then the gray outline of the states, then, one by one, the bolts — the way pictures had loaded on the internet when John was a boy, back when you could go and make a sandwich while a photograph arrived.
 
 "Whoa," said Tyler. "It's like, buffering. In real life."
 
@@ -154,13 +154,13 @@ He cut them in half and squeezed. He did it for an hour and forty minutes, chest
 
 Sanda, squeezing, did not look up. "Here we go."
 
-"I mean it. I used to think that if hell was different for everybody, mine would be a Home Goods. Following you up and down the aisles. Time doesn't move in there, Sanda. Have you noticed that? It's some kind of physics thing. You pick something up. You look at it. You put it back. You pick up something else. Forever." He squeezed another chestnut, and it plopped into the bowl. "I was wrong. That's not hell. This is hell. Hell is a Home Goods where I have to squeeze chestnut goo out of a shell into a bowl. Forever. For all eternity. And it smells like Charlie."
+"I mean it. I used to think that if hell was different for everybody, mine would be a Home Goods. Following you up and down the aisles. Time doesn't move in there, Sanda. Have you noticed that? It's some kind of physics thing. You pick something up. You look at it. You put it back. You pick up something else. Forever." He squeezed another chestnut, and it plopped into the bowl. "I was wrong. That's not hell. This is hell. Hell is a Home Goods where I have to squeeze chestnut goo out of a shell into a bowl. Forever. For all eternity. And it smells like Charlie's shit."
 
 Sanda laughed until she cried. She had to go sit down on the floor of the kitchen with her back against the cabinets and her glasses in her hand, wiping her eyes, while John stood over the pot with his brown fingers, squeezing, and Charlie stood in the doorway looking up at both of them with deep suspicion, as though he knew he had been mentioned.
 
 * * *
 
-On Christmas Day the whole family came, and there were lobsters.
+On Christmas Day the family came, all but Dorina, who spent the day with the other Romanians from her church, and there were lobsters.
 
 Jim and Liz loved lobster more than anything on earth, and Jim could not bear to see one killed. This was the tension at the center of John's father's life. He would not swat a mosquito. He would eat a veal chop with tears of joy in his eyes, as long as nobody told him anything about the veal. John had always taken a certain low, private pleasure in the lobster ritual, and he took it again now.
 
@@ -202,7 +202,7 @@ There was a pause.
 
 "*Jim*," Liz said.
 
-Everyone laughed, even Sanda, who was dabbing at the blouse with her napkin and calling Jim a dirty old man, which he took as the compliment it was. Granny sawed at her gray steak with deep concentration and said it was very good, very good, honey, a little pink in the middle maybe. Dorina had brought a jar of gogonele, little green tomatoes pickled in garlic and dill the way her mother had made them in Bucharest, and she set it on the table and opened it, and a smell came out that made Jim lean back in his chair — John took it on faith — and she made everyone take one, even Granny, who examined hers at length before putting it in her napkin when she thought no one was looking.
+Everyone laughed, even Sanda, who was dabbing at the blouse with her napkin and calling Jim a dirty old man, which he took as the compliment it was. Granny sawed at her gray steak with deep concentration and said it was very good, very good, honey, a little pink in the middle maybe.
 
 All seven trees were lit. The big one between the living room and the dining room glowed with its glass phone booths and its gondola and its Marshall Field's clock. Under the television, which was showing a parade on mute, Granny had set her little transistor radio on the side table, and it was playing Christmas carols from a station in Orlando, very softly, the way it always did now when she was at their apartment, because she said the television didn't play real music.
 
@@ -298,11 +298,11 @@ Dorina went back to bed with the stun gun under her pillow. Sanda went back to b
 
 On Thursday night, the seventh, at twelve minutes past nine, an email arrived from Dana. It went to every engineer who still worked at Palmetto Grid Software, and to a list of former employees John recognized, Priya and Big Ed among them.
 
-*All engineering: report Friday, 7:00 a.m., in person. Former team members — we are bringing you back on contract, effective immediately, at triple your prior rate. We are reviewing every change merged into Restore this quarter. By hand. On paper. Do not use any AI tooling for any purpose. Bring highlighters. — D.*
+*All engineering: report Friday, 7:00 a.m., in person. Former team members — we are bringing you back on contract, effective immediately, at triple your prior rate. We are reviewing every change merged into Restore since October first. By hand. On paper. Do not use any AI tooling for any purpose. Bring highlighters. — D.*
 
 John read it twice.
 
-*Every change merged this quarter.* Eleven hundred and six. He did the arithmetic the way he always did, without wanting to. Eleven hundred pull requests. Maybe twenty people, if they all came back. Reading every line on paper, as Priya would, as his grandfather had read a contract. Two weeks, if nobody slept. Maybe three.
+*Every change merged since October first.* Eleven hundred and six. He did the arithmetic the way he always did, without wanting to. Eleven hundred pull requests. Maybe twenty people, if they all came back. Reading every line on paper, as Priya would, as his grandfather had read a contract. Two weeks, if nobody slept. Maybe three.
 
 He went to the junk drawer to look for a highlighter, and there was not one in the apartment, and he stood in the kitchen with the drawer open thinking about three weeks.
 

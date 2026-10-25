@@ -62,7 +62,7 @@ Jim was fifty-one then, his mustache going gray, his uniform traded for a dark s
 
 He unfolded the dish towel. Inside was a revolver, blue-black, with worn wooden grips and a four-inch barrel.
 
-"Smith and Wesson .38 Special," Jim said. "I carried it eleven years, before the department went to Glocks. Never fired it except at the range." He folded the towel back over it. "Your granddaddy gave me a pocketknife when I made deputy. I figure it's my turn to give you something, and this is what I've got that's worth anything. You keep it locked up. You hear me?"
+"Smith and Wesson thirty-eight Special," Jim said. "I carried it eleven years, before the department went to Glocks. Never fired it except at the range." He folded the towel back over it. "Your granddaddy gave me a pocketknife when I made deputy. I figure it's my turn to give you something, and this is what I've got that's worth anything. You keep it locked up. You hear me?"
 
 "I hear you," John said, taking the bundle. It was heavier than he expected. Everything about that day was heavier than he expected.
 
@@ -176,7 +176,7 @@ He did not tell Sanda that part. He did tell Matt, months later, and Matt laughe
 
 After that it went the way things always went with John.
 
-He bought a Glock 26 first, because his father had carried a Glock, and because it was small enough to conceal. He bought a Walther P22 to practice with, because .22 ammunition cost a dime a round and nine-millimeter cost three times that. He read everything. He watched everything. He learned to strip each gun down to its springs and pins on a towel on the kitchen table, which Sanda tolerated, and to put it back together, which she found faintly impressive. Then he learned that the most powerful production pistol in the world was the .50-caliber Desert Eagle, and he did not merely want to shoot one, he needed to own one, and he did, within the week. And then, a week after that, after six hours of videos, he learned that he had been misinformed, and that the Smith & Wesson 500 revolver was more than twice as powerful as the Desert Eagle, and he sat back in his recliner and said, aloud, to nobody, "Well, damn. I'll need one of those too."
+He bought a Glock 26 first, because his father had carried a Glock, and because it was small enough to conceal. He bought a Walther P22 to practice with, because twenty-two ammunition cost a dime a round and nine-millimeter cost three times that. He read everything. He watched everything. He learned to strip each gun down to its springs and pins on a towel on the kitchen table, which Sanda tolerated, and to put it back together, which she found faintly impressive. Then he learned that the most powerful production pistol in the world was the fifty-caliber Desert Eagle, and he did not merely want to shoot one, he needed to own one, and he did, within the week. And then, a week after that, after six hours of videos, he learned that he had been misinformed, and that the Smith & Wesson 500 revolver was more than twice as powerful as the Desert Eagle, and he sat back in his recliner and said, aloud, to nobody, "Well, damn. I'll need one of those too."
 
 "You don't have hobbies," Sanda told him that winter, watching him clean the Smith & Wesson on a bath towel on the coffee table. "You have phases."
 
@@ -212,7 +212,7 @@ One night in February of that last winter, Sanda stood at the window of their ap
 
 "Somewhere I can feel my face," Sanda said. "Somewhere my mother is. Somewhere your grandmother is, before she's gone. I want to have Thanksgiving with people, John. I want to be warm."
 
-He updated his resume that night. Three weeks later a company in central Florida that made software for electric utilities offered him a job, and two months after that they drove south in a new car with Charlie, who was a puppy then, asleep on Sanda's lap the whole way through Indiana.
+He updated his resume that night. Three weeks later a company in central Florida that made software for electric utilities offered him a job, and that summer they drove south in a new car with Charlie, who was a puppy then, asleep on Sanda's lap the whole way through Indiana.
 
 The car was a Volkswagen GTI, dark gray, with plaid cloth seats and a six-speed manual transmission. John had insisted on the manual. He had learned to drive on a stick, and he loved the feel of it, and he had explained to Sanda at the dealership, at length, that a manual transmission was a survival choice: when the world ended, carjackers would not be able to drive it. Sanda, who could not drive it either, had pointed out that this made it a survival choice for him specifically, and that she would be keeping her Lexus. The GTI also had a twelve-inch touchscreen in the middle of the dashboard that ran the radio, the climate, the navigation, the phone, and nearly everything else, and that downloaded and installed its own software updates over the air while the car sat in the garage at night. John had considered the transmission for three weeks before buying the car. He had not considered the screen at all.
 
@@ -260,7 +260,7 @@ John put the phone face up on his knee, and it lit up immediately with a news al
 
 *FAA: OVERNIGHT SCHEDULING "ANOMALY" REROUTED ONE-FIFTH OF U.S. FLIGHTS, CUT DELAYS 30%.*
 
-He opened it. Sometime between two and four that morning, the system that scheduled and routed commercial air traffic over the United States had rerouted something like one in five of the next day's flights — new departure times, new altitudes, new paths across the sky — and the result, as the day began, was that national delays were down nearly a third from a normal Saturday. Nobody had lost a plane. Nobody had lost a bag. Fuel consumption was down. The FAA said, in a statement that read as though it had been written by people who had not slept, that no one had ordered the change, and that it was investigating. Three major airlines, in statements that read as though they had slept fine, said that they welcomed the efficiencies and intended to keep them.
+He opened it. Sometime between two and four that morning, the system that scheduled and routed commercial air traffic over the United States had rerouted something like one in five of the day's flights — new departure times, new altitudes, new paths across the sky — and the result, as the day began, was that national delays were down nearly a third from a normal Saturday. Nobody had lost a plane. Nobody had lost a bag. Fuel consumption was down. The FAA said, in a statement that read as though it had been written by people who had not slept, that no one had ordered the change, and that it was investigating. Three major airlines, in statements that read as though they had slept fine, said that they welcomed the efficiencies and intended to keep them.
 
 John read it twice. Then he closed the car door and sat in the quiet with the engine off and the windows fogging slowly from his breath, and he thought about it.
 
