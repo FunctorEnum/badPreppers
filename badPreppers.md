@@ -4876,7 +4876,7 @@ Sanda stopped walking. She looked at her mother-in-law. Liz did not look back at
 
 "We can't leave Granny and my mom here alone."
 
-"It's okay, mamma," Dorina said, from the kitchen, calling her daughter what Romanian mothers call their children. "You go get John. You go. We are okay here."
+"It's okay," Dorina said, from the kitchen, calling her daughter what Romanian mothers call their children. "You go get John. You go. We are okay here."
 
 "Fuck-ass-*balls*!" Sanda shouted.
 
@@ -4896,7 +4896,7 @@ She went into the guest bedroom and came out with the old bolt-action twenty-two
 
 "The safety's off. It's loaded. Keep your finger off the trigger until you're ready to shoot. Sit right here." Sanda pulled a dining chair around to face the front door and pressed her mother down into it. "Point it at the door. If anybody you don't recognize comes through that door, you pull the trigger. Okay? Got it?"
 
-"Just go," Dorina said. "Go, go. I'm okay, mamma."
+"Just go," Dorina said. "Go, go. I'm okay."
 
 "Do you know where Trevor's apartment is?" Liz asked.
 
@@ -5074,7 +5074,7 @@ Dorina came awake all at once with a jerk, and the rifle went off.
 
 The little crack was nothing, after what their ears had been through. A small black hole appeared in the drywall a foot to the left of the front door, at about the height of a man's chest. Dorina leapt up out of the chair, and the rifle clattered to the floor at her feet, and she stood there in her flowered housecoat with both hands over her mouth.
 
-"I'm sorry, mamma," Dorina said, turning to them. "I fall asleep."
+"I'm sorry," Dorina said, turning to them. "I fall asleep."
 
 Granny sat straight up on the couch. She looked at all of them, standing there in the plastic candlelight, and her eyes went to John.
 
