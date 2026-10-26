@@ -1,6 +1,6 @@
 # Bad Preppers — Series Bible
 
-Continuity reference for `chapter1.md` through `chapter19.md`. It describes what the draft actually says as of October 25, 2026, including the post-draft fixes. `storyLine.md` is still the plan of record. Where the two differ, this file records what's on the page, and the section **Deviations from storyLine.md** explains why.
+Continuity reference for `chapter1.md` through `chapter19.md`. It describes what the draft actually says as of October 26, 2026, including the post-draft fixes. `storyLine.md` is still the plan of record. Where the two differ, this file records what's on the page, and the section **Deviations from storyLine.md** explains why.
 
 Source manuscript: `Bad Preppers edited_v3.docx`. Requirements: `promptChapters.txt`.
 
@@ -88,7 +88,7 @@ Source manuscript: `Bad Preppers edited_v3.docx`. Requirements: `promptChapters.
 
 **Granny (Eula Stevens), 90.**
 - Looks: tiny, about 4'11" and shrinking. White curls "set" every Friday. Pale blue eyes behind big plastic glasses. Skin like tissue paper; knotted, strong hands. Smells of Jergens and Juicy Fruit.
-- Speech: south Alabama drawl, "Oh my word."
+- Speech: south Alabama drawl, "Oh my word." Swears exactly once in the book, at the crossroads (Ch 18): "I'M GOING HOME, YOU MOTHERFUCKERS!"
 - Clothes:
   - Daily: snap-front pink housecoat with small blue flowers, gray cardigan, terrycloth slippers.
   - Dress: lavender pantsuit with the cardinal brooch Hoyt gave her for their 40th anniversary, white orthopedic shoes.
@@ -232,7 +232,7 @@ Source manuscript: `Bad Preppers edited_v3.docx`. Requirements: `promptChapters.
 - Rifles: three ARs (Sanda's has a quad rail, EOTech and bipod; one is Liz's), Sig P556 (John's; red dot "off"), M&P 10 .308, two AKs, 1943 Mosin, old bolt 12-gauge, and Liz's father's bolt .22 from Palatka (Dorina's).
 - Shotgun: tactical 6+1, loaded five buckshot then two slugs, light on the magazine tube, "red means dead."
 - Barrett M82A1: $11,800, with a vehicle mount. The deposit was put down on Black Friday; picked up in Ch 8.
-- Ammunition: ten .50 BMG rounds bought "for educational purposes."
+- Ammunition: ten .50 BMG rounds bought "for educational purposes." Granny fires all ten at the crossroads (Ch 18), as fast as she can pull the trigger, from the left tree line through the truck to the right tree line, then pulls three more times at nothing. The Barrett is empty from then on, and no more .50 BMG exists for them, which is why it ends up as the hen-house awning in Ch 19.
 
 **Black Friday ammunition order (Ch 4).** 2,000 .22 LR, 1,000 .223, 1,000 9mm and a case of .308. The water checkout box was skipped. Trevor added 1,000 .223 in Ch 8.
 
@@ -284,7 +284,7 @@ Source manuscript: `Bad Preppers edited_v3.docx`. Requirements: `promptChapters.
 - **The pug rescue:** the rock in Florida; the toilet; "Okay, I'm officially an idiot."; the burp.
 - **Memories and dreams:** the chestnuts and Home Goods hell; Alinea's "Wake up, asshole."
 - **The rescue:** "Fuck-ass-balls!"; "Check your safety."; the third shot; the drywall ("I fall asleep").
-- **The road:** the gate hotwire; "Of course you did."; "Hell, even Granny could shoot it." / "I heard that."; "It's a Silverado, Dad."
+- **The road:** the gate hotwire; "Of course you did."; "Hell, even Granny could shoot it." / "I heard that."; ten rounds, ten thuds; "YOU WANT SOME?"; "I'M GOING HOME, YOU MOTHERFUCKERS!"; "It's a Silverado, Dad."
 - **The tub:** Sanda's look that lasts one beat too long; "You said *mm-hm*."
 
 ## 6. Epigraphs (final)
@@ -435,6 +435,10 @@ A complete read of Ch 1-19 for continuity, clarity, speaker attribution, descrip
 - **Ch 19:** "They had left it switched on. Just in case." (was "left the chain pulled," readable as off).
 - Checked and left: Ch 1 "a glass of something red" most nights vs the Sancerre she carries in that night; Ch 3 queue 304 on Wednesday; Ch 8 Sanda's "You said I was a monster" (John only thought it in Ch 5); Ch 12 radio's east-to-west cascade vs the president's "on my order" (thematic); Alvarez's "a day, maybe two" vs the day-nine postcard; the explicit years in narration listed under the Date pass.
 
+**Ch 18 Barrett scene (October 26, 2026)**
+
+At the author's request, Granny now fires all ten rounds at the crossroads instead of one, and the scene plays as comedy: a ninety-year-old laying waste with a fifty. storyLine.md's "She fires the Barrett exactly once" is superseded. The rifle stays a semi-automatic ("It fired one round every time you pulled the trigger and not one round more"), and she works the trigger "the way she worked her church fan in August, as fast as her hand would go." The first round folds the Silverado's hood ("That was the shot everybody had expected. Nobody had expected the rest of it."); then she hauls the barrel hard left and sprays the tree line, walks it back across the road through the truck (engine block, cab windows, tailgate) and into the trees on the right, ten rounds from one side of the road to the other, rendered as *Thud. Thud. Thud.* She screams "YOU WANT SOME?" at the trees and then "I SAID I'M GOING HOME! I'M GOING HOME, YOU MOTHERFUCKERS!", the only time she swears in the book; nobody in the family had been entirely sure she knew the word. Her scowl is given from the attackers' point of view (pink housecoat, hair on end from the muzzle blast, glasses flashing: "the face of a woman who had buried a husband and raised a deputy sheriff and gone without electricity for the first twelve years of her life"). The attackers are routed, not killed: they come out of the pines "like a covey of quail," one goes down on his face over the fallen pine top, one loses his cap, and the wounded boy by the back tire is still there for Sanda's scene. Granny pulls the trigger three more times at nothing before she understands the rifle is empty ("There had only ever been ten rounds"), glares down the road in case they care to try it again, comes down, pats her hair back down, says "Oh my word," and sits back down with the pug and her church fan. The author's same-day trim removed the family's reactions inside the motor home (Jim's "Mama?", Liz's "Eula Stevens!", Dorina crossing herself, the howling dogs, John losing count of his ten educational rounds) and the old closing line that she never spoke of it again, so the scene cuts from her sitting down straight to Sanda stepping out. The Barrett is empty from then on, and no more .50 BMG exists for them, which Ch 19's hen-house awning pays off. Fixed in the same scene: Dorina covers Charlie alone, since the pug is in Granny's lap until she sets it on the couch to climb the ladder. Ch 18 is now 5,876 words, 376 over the 5,500 ceiling; nothing else in the chapter was cut to compensate.
+
 ## 9. Continuity log by chapter (final word counts)
 
 **Ch 1 · The Queue · Mon Nov 9 · 5,472 words**
@@ -579,12 +583,12 @@ A complete read of Ch 1-19 for continuity, clarity, speaker attribution, descrip
 - The delegation. "We're feeding *them*." The filter goes to Alvarez.
 - "There's a well." "Tuesday."
 
-**Ch 18 · The Road · Jan 15–16 · 5,348 words**
+**Ch 18 · The Road · Jan 15–16 · 5,876 words**
 - The RV and the stolen TVs. The gate hotwire.
 - The packing inventory, wheeled out on Trevor's red hand cart, which came home in Ch 17. "Of course you did." The glasses; the mount; the roll call.
 - The step on Egret. NO BUS. "I'm going home."
 - Pettaway. The siphon. Quitman: "Shall we gather at the river."
-- The crossroads (Saturday morning): the Silverado and Granny on the fifty. Sanda lowers the rifle. The stitches.
+- The crossroads (Saturday morning): the Silverado and Granny on the fifty, all ten rounds as fast as she can pull the trigger, left tree line to right through the truck, screaming; the men run. Sanda lowers the rifle. The stitches.
 - "That's far enough."
 
 **Ch 19 · The Well · Jan 16 → Feb 10 → late April · 5,105 words**
@@ -612,7 +616,7 @@ A complete read of Ch 1-19 for continuity, clarity, speaker attribution, descrip
   - The bulb. "No bark." "Took 'em long enough." The flicker; off. "Let's not get used to it."
   - The porch. "I meant there's a chicken in it."
 
-**Total:** about 98,570 words.
+**Total:** about 99,100 words.
 
 ## 10. Post-draft passes (already applied)
 
@@ -626,6 +630,7 @@ A complete read of Ch 1-19 for continuity, clarity, speaker attribution, descrip
 - **Caliber spelling pass (Oct 25, 2026):** 37 numeric calibers spelled out as spoken across 13 chapters; model numbers stay numeric; see Deviations.
 - **Ch 18 hand-cart fix (Oct 25, 2026):** the duplicate trip to Heron for the hand cart is gone; the cart came home in Ch 17. See Deviations.
 - **Full review pass (Oct 25, 2026):** eighteen line-level fixes across Ch 3, 4, 6, 8, 9, 11, 14, 17 and 19 (continuity, clarity, speaker attribution, grammar); see Deviations. badPreppers.md rebuilt from the final chapter files (98,571 words).
+- **Ch 18 Barrett scene (Oct 26, 2026):** Granny empties the ten-round magazine across the ambush as fast as she can pull the trigger, screaming "I'M GOING HOME, YOU MOTHERFUCKERS!"; the attackers are routed, not killed; Dorina covers Charlie alone; the author then trimmed the family's reactions and the "never spoke about it again" line. See Deviations. badPreppers.md rebuilt (99,096 words).
 
 ## 11. Names to keep or rename
 

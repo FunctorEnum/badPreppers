@@ -5758,7 +5758,7 @@ It was short and loud and ugly and nothing about it was glorious. The pines on b
 
 "*Down!*" John shouted. "Everybody *down!*"
 
-Sanda and Liz were already down, between the front seats, on their knees, and then they were up again, with the barrels of their rifles resting on the dashboard where the windshield used to be, and firing. John fired the Sig out of the empty windshield frame at the flashes in the trees on the left, and could not tell if he hit anything. Jim was flat across the front seats with his hands over his head. Something punched through the side of the motor home behind John's head and went out the other side. Dorina was on the floor of the aisle with the two dogs pulled under her, covering them with her body.
+Sanda and Liz were already down, between the front seats, on their knees, and then they were up again, with the barrels of their rifles resting on the dashboard where the windshield used to be, and firing. John fired the Sig out of the empty windshield frame at the flashes in the trees on the left, and could not tell if he hit anything. Jim was flat across the front seats with his hands over his head. Something punched through the side of the motor home behind John's head and went out the other side. Dorina was on the floor of the aisle with Charlie pulled under her, covering him with her body.
 
 Something hit John in the left shoulder.
 
@@ -5776,13 +5776,33 @@ At the top step, the upper half of her was out on the roof, in the wind and the 
 
 She pushed the safety the way she had seen him push it.
 
-She fired once.
+She fired.
 
-The sound of it was not like a gunshot. It was like a building falling down. The whole motor home rocked on its springs. And a hundred and fifty yards down the road, the front of the silver Silverado came apart. The hood flew up and folded in half. The engine block cracked open like a dropped melon, and black oil and green coolant and white steam blew out of it in every direction, and one of the front wheels sagged sideways, and the truck settled down onto the road on its front end like a shot horse.
+The sound of it was not like a gunshot. It did not crack, the way the rifles cracked. It was a thud, one enormous flat thud that came up through the floor of the motor home into the soles of their feet and the fillings of their teeth, the sound a building makes when it falls down. The whole motor home rocked on its springs. And a hundred and fifty yards down the road, the hood of the silver Silverado flew up and folded in half.
 
-The firing from the trees stopped.
+That was the shot everybody had expected. Nobody had expected the rest of it.
 
-There was a moment of perfect silence. Then the man in the camouflage jacket came out from behind the dead truck running, and two more came crashing out of the pines on the left side, and one on the right, and they ran, all of them, down the road and into the trees, as fast as they could go, without looking back.
+Granny hauled the long barrel around on its mount, hard left, to the trees where the flashes were, and started pulling the trigger.
+
+The Barrett was not a machine gun. It fired one round every time you pulled the trigger and not one round more, and Granny pulled the trigger the way she worked her church fan in August, as fast as her hand would go. *Thud. Thud. Thud.* The motor home bucked under them like a boat in a chop. Pines as thick as telephone poles burst white and leaned and came apart, and the top thirty feet of one of them came down across the road in a long green crash. Brass the size of cigars flew out of the far side of the rifle and rolled across the roof and rang on the asphalt below like somebody dropping wrenches. Every time she fired, the blast came back along the roof and stood her hair straight up on her head, and she did not notice, because she was screaming.
+
+"*YOU WANT SOME?*" Granny screamed at the trees. "*YOU WANT SOME?*"
+
+She walked the barrel back across the road without letting up. *Thud.* The engine block of the Silverado cracked open like a dropped melon, and black oil and green coolant and white steam blew out of it in every direction. *Thud.* The cab went, every window at once, in one glittering sheet. *Thud.* The tailgate fell off, and the whole truck sat down on the road on its front end like a shot horse, and she was already past it and into the trees on the right.
+
+*Thud. Thud. Thud.*
+
+What the men in those trees saw, if they looked, was this: a tiny old woman in a pink housecoat, standing up out of the roof of a motor home behind a rifle as long as she was, with her hair on end and her glasses flashing and her face set in a scowl her family had never seen on her. Her mouth was pulled down hard at both corners. Her eyes were slits. Her jaw was out. It was the face of a woman who had buried a husband and raised a deputy sheriff and gone without electricity for the first twelve years of her life, and who had, at ninety, on this road, had enough.
+
+"*I SAID I'M GOING HOME!*" Granny screamed over the thunder of it. "*I'M GOING HOME, YOU MOTHERFUCKERS!*"
+
+Nobody in the family had ever heard her say that word. Nobody in the family had been entirely sure she knew it.
+
+The men came out of those pines like a covey of quail. The one in the camouflage jacket came out from behind the dead truck running, and two more came crashing out of the pines on the left, one of them straight over the fallen pine top and down on his face and up again, and on the right a camouflage cap went up into the air and came down somewhere else, and the man who had been under it came out after it, without it, running. They ran, all of them, down the road and into the trees, as fast as they could go, without looking back.
+
+Granny pulled the trigger three more times at nothing, still screaming, before she understood that the rifle had stopped. There had only ever been ten rounds.
+
+Then there was nothing at all. The wind. The steam coming up off the truck. Granny standing in the hatch with her hair on end, breathing hard, glaring down the road at the place where the men had been, in case they cared to come back and try it.
 
 Jim sat up slowly behind the wheel. He looked at the Silverado, steaming in the road. He looked up at the roof hatch, where his mother's slippers were standing on the top step of the ladder.
 
@@ -5792,11 +5812,11 @@ John was holding his shoulder with his right hand and blood was coming out betwe
 
 "It's a Silverado, Dad," John said.
 
-Granny came down the ladder one step at a time, holding on with both hands. At the bottom she stood in the aisle and straightened her housecoat and touched her hair.
+Granny came down the ladder one step at a time, holding on with both hands. At the bottom she stood in the aisle and straightened her housecoat and patted her hair back down.
 
 "Oh my word," Granny said.
 
-She went back to the couch and picked up the pug and her church fan and sat down, and she never spoke about it again, not one time, for the rest of her life.
+She went back to the couch and picked up the pug and her church fan and sat down.
 
 * * *
 
